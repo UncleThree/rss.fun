@@ -98,6 +98,58 @@
       ]
     },
     {
+      "title": "LJF.COM",
+      "feedUrl": "https://ljf.com/feed/",
+      "siteUrl": "https://ljf.com",
+      "articles": [
+        {
+          "id": "https://ljf.com/?p=1002",
+          "author": "ljf",
+          "description": "近段时间，不断有朋友问我是怎么进行冥想的。正好总结一下。我目前还是一个冥想的初学者。说的不对的地方还请谅解。 首先，每天最好找个固定的时间，有一个固定的时间容易形成习惯。首先，双腿交叉，盘腿坐 …",
+          "link": "https://ljf.com/2021/05/18/1002/",
+          "publishedOn": "2021-05-18T12:33:39.000Z",
+          "wordCount": 48,
+          "title": "我是如何进行冥想的"
+        },
+        {
+          "id": "https://ljf.com/?p=1001",
+          "author": "ljf",
+          "description": "关于运动性价比最高的运动是有氧运动 高强度间歇运动的效果比有氧运动的效果更好 克服没有时间运动的障碍最不能放弃的是运动 因为运动是一项投资 能提高记忆力和活力运动习惯不能靠自律 要靠例行公事 自尊 …",
+          "link": "https://ljf.com/2021/05/11/1001/",
+          "publishedOn": "2021-05-10T19:45:00.000Z",
+          "wordCount": 83,
+          "title": "哈佛幸福课 第十七讲笔记 冥想是锻炼心灵的体操"
+        },
+        {
+          "id": "https://ljf.com/?p=1000",
+          "author": "ljf",
+          "description": "完美主义者和追求卓越者的区别追求卓越者和完美主义者的区别是前者会同时享受这个旅程 如何改善完美主义？0，认识关注过程而不仅仅是结果。 1，主动接受佛教徒：把出现的问题看成是了解自己的机会和成长的 …",
+          "link": "https://ljf.com/2021/05/10/1000/",
+          "publishedOn": "2021-05-09T18:32:00.000Z",
+          "wordCount": 134,
+          "title": "哈佛幸福课 第十六讲笔记 锻炼身体和锻炼心灵同样重要"
+        },
+        {
+          "id": "https://ljf.com/?p=999",
+          "author": "ljf",
+          "description": "前几天，从亚马逊美国海淘的Oculus quest2送到了，昨天开了箱，体验了一下。 首先需要激活，因为国内的网络原因，激活花了不少的时间，经过搜索学习，折腾各种网络设置和尝试，折腾了几个小时，最终终于激 …",
+          "link": "https://ljf.com/2021/05/09/999/",
+          "publishedOn": "2021-05-09T06:04:49.000Z",
+          "wordCount": 50,
+          "title": "Oculus quest2初体验"
+        },
+        {
+          "id": "https://ljf.com/?p=998",
+          "author": "ljf",
+          "description": "回顾完美主义《极客与怪杰》 完美主义的定义一种充斥着我们生活中的对失败的失能性恐惧 ，尤其是在我们最在意的方面。失能性恐惧：一种让我们在面对问题的时候 裹足不前的畏惧all nor nothing：这会对生活 …",
+          "link": "https://ljf.com/2021/05/07/998/",
+          "publishedOn": "2021-05-07T15:52:25.000Z",
+          "wordCount": 95,
+          "title": "哈佛幸福课 第十五讲笔记 成功的道路不是一条直线而是螺旋式上升的"
+        }
+      ]
+    },
+    {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
