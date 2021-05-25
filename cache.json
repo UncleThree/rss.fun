@@ -103,6 +103,15 @@
       "siteUrl": "https://ljf.com",
       "articles": [
         {
+          "id": "https://ljf.com/?p=1004",
+          "author": "ljf",
+          "description": "也许这一代中国企业家的使命，就是去解决包括服务业在内的很多领域的基础品质问题。 不要求提供的服务有多好，但是要求能够保持不差，也就是能够提供基本水平之上的稳定的服务。【方差小】 读书是一项最北 …",
+          "link": "https://ljf.com/2021/05/24/1004/",
+          "publishedOn": "2021-05-24T13:04:40.000Z",
+          "wordCount": 89,
+          "title": "《详谈 左晖》读书笔记"
+        },
+        {
           "id": "https://ljf.com/?p=1002",
           "author": "ljf",
           "description": "近段时间，不断有朋友问我是怎么进行冥想的。正好总结一下。我目前还是一个冥想的初学者。说的不对的地方还请谅解。 首先，每天最好找个固定的时间，有一个固定的时间容易形成习惯。首先，双腿交叉，盘腿坐 …",
@@ -154,6 +163,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340808",
+          "author": "Chris Coyier",
+          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-performance/",
+          "publishedOn": "2021-05-24T22:03:30.000Z",
+          "wordCount": 817,
+          "title": "Links on Performance"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341153",
+          "author": "Chris Coyier",
+          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://github.com/justjavac/proxy-www",
+          "publishedOn": "2021-05-24T19:09:59.000Z",
+          "wordCount": 527,
+          "title": "proxy-www"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340626",
+          "author": "Raymond Camden",
+          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 2851,
+          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
+        },
         {
           "id": "https://css-tricks.com/?p=340991",
           "author": "Chris Coyier",
@@ -297,6 +333,60 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60abc6d011ffb70827ef630f",
+          "author": null,
+          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
+          "publishedOn": "2021-05-25T00:48:45.000Z",
+          "wordCount": 710,
+          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+        },
+        {
+          "id": "60626dc29618b008528a9589",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Nibbles machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
+          "publishedOn": "2021-05-25T00:20:22.000Z",
+          "wordCount": 1905,
+          "title": "Keep Calm and Hack The Box – Nibbles"
+        },
+        {
+          "id": "60aaba5911ffb70827ef5ffc",
+          "author": null,
+          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
+          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
+          "publishedOn": "2021-05-24T21:30:43.000Z",
+          "wordCount": 1835,
+          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
+        },
+        {
+          "id": "60ac07ec11ffb70827ef66e4",
+          "author": null,
+          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
+          "publishedOn": "2021-05-24T20:36:07.000Z",
+          "wordCount": 319,
+          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+        },
+        {
+          "id": "60aa161211ffb70827ef5f2c",
+          "author": null,
+          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
+          "publishedOn": "2021-05-24T19:40:36.000Z",
+          "wordCount": 2263,
+          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
+        },
+        {
+          "id": "60a5248c906c5207e3a7e54b",
+          "author": null,
+          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
+          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
+          "publishedOn": "2021-05-24T14:54:42.000Z",
+          "wordCount": 2493,
+          "title": "The Best No-Code Tools for Developers in 2021"
+        },
+        {
           "id": "6098ce302cd0545b5e944d0b",
           "author": null,
           "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
@@ -393,6 +483,15 @@
       "feedUrl": "https://rsshub.app/twitter/user/xiaopeng163/",
       "siteUrl": "https://twitter.com/xiaopeng163/",
       "articles": [
+        {
+          "id": "https://twitter.com/xiaopeng163/status/1396850295137705985",
+          "author": "Peng Xiao",
+          "description": "Re @hmm_xchan 荷兰这个应该是最齁的，太甜了😓",
+          "link": "https://twitter.com/xiaopeng163/status/1396850295137705985",
+          "publishedOn": "2021-05-24T15:27:17.000Z",
+          "wordCount": 196,
+          "title": "Re @hmm_xchan 荷兰这个应该是最齁的，太甜了😓"
+        },
         {
           "id": "https://twitter.com/xiaopeng163/status/1395675103799742464",
           "author": "Peng Xiao",
@@ -936,6 +1035,15 @@
       "feedUrl": "https://us6.campaign-archive.com/feed?u=e4582460499f4aadae1a90e2b&id=d2c14f8a94",
       "siteUrl": "https://us6.campaign-archive.com/feed?u=e4582460499f4aadae1a90e2b&id=d2c14f8a94",
       "articles": [
+        {
+          "id": "https://mailchi.mp/c9288fa9de02/i3ezqv3zws-4938278",
+          "author": null,
+          "description": "96\n            \n        \n        \n        \n        \n        \n        【增长黑客周刊】我的高效阅读技巧 20 条（20210524）\n        \n    \n\t\tp{\n\t\t\tmargin:10px 0;\n\t\t\tpadding:0;\n\t\t}\n\t\ttable{\n\t\t\tborder-collapse:collapse;\n\t\t}\n\t\th1,h2,h3,h4,h5,h6{\n\t\t\tdisplay:block;\n\t\t\tmargin:0;\n\t\t\tpadding:0;\n\t\t}\n\t\timg,a img{\n\t\t\tborder:0;\n\t\t\theight:auto;\n\t\t\toutline:none;\n\t\t\ttext-decoration:none;\n\t\t}\n\t\tbody,#bodyTable,#bodyCell{\n\t\t\theight:100%;\n\t\t\tmargin:0;\n\t\t\tpadding:0;\n\t\t\twidth:100%;\n\t\t}\n\t\t.mcnPreviewText{\n\t\t\tdisplay:none !important;\n\t\t}\n\t\t#outlook a{\n\t\t\tpadding:0;\n\t\t}\n\t\timg{\n\t\t\t-ms-interpolation-mode:bicubic;\n\t\t}\n\t\ttable{\n\t\t\tmso-table-lspace:0pt;\n\t\t\tmso-table-rspace:0pt;\n\t\t}\n\t\t.ReadMsgBody{\n\t\t\twidth:100%;\n\t\t}\n\t\t.ExternalClass{\n\t\t\twidth:100%;\n\t\t}\n\t\tp,a,li,td,blockquote{\n\t\t\tmso-line-height-rule:exactly;\n\t\t}\n\t\ta[href^=tel],a[href^=sms]{…",
+          "link": "https://mailchi.mp/c9288fa9de02/i3ezqv3zws-4938278",
+          "publishedOn": "2021-05-24T08:21:16.000Z",
+          "wordCount": 333,
+          "title": "【增长黑客周刊】我的高效阅读技巧 20 条（20210524）"
+        },
         {
           "id": "https://mailchi.mp/b71b010e124e/i3ezqv3zws-4937426",
           "author": null,
