@@ -164,6 +164,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340759",
+          "author": "Josh Collinsworth",
+          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
+          "publishedOn": "2021-05-25T14:25:06.000Z",
+          "wordCount": 7475,
+          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341383",
+          "author": "Ahmed Bouchefra",
+          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
+          "publishedOn": "2021-05-25T11:00:00.000Z",
+          "wordCount": 1386,
+          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
+        },
+        {
           "id": "https://css-tricks.com/?p=340808",
           "author": "Chris Coyier",
           "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -333,6 +351,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ac3a2711ffb70827ef6aec",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Valentine machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
+          "publishedOn": "2021-05-25T22:43:11.000Z",
+          "wordCount": 1664,
+          "title": "Keep Calm and Hack The Box – Valentine"
+        },
+        {
+          "id": "60a93b0011ffb70827ef5b0d",
+          "author": null,
+          "description": "In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/",
+          "publishedOn": "2021-05-25T20:26:38.000Z",
+          "wordCount": 1752,
+          "title": "How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI"
+        },
+        {
+          "id": "608706aedd38b9088c2c012c",
+          "author": null,
+          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
+          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
+          "publishedOn": "2021-05-25T16:51:37.000Z",
+          "wordCount": 1940,
+          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
+        },
+        {
           "id": "60abc6d011ffb70827ef630f",
           "author": null,
           "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
@@ -483,6 +528,15 @@
       "feedUrl": "https://rsshub.app/twitter/user/xiaopeng163/",
       "siteUrl": "https://twitter.com/xiaopeng163/",
       "articles": [
+        {
+          "id": "https://twitter.com/ecomiburn/status/1397111931350175746",
+          "author": "Peng Xiao",
+          "description": "RT $OMI Daily Burn\n🎉 Today we launch \n💎 We have two Ultra Rares for you, a Ritmo and a Cthulhu 💎\nTo participate:\n- REGISTER on \n- FOLLOW @VeVe_Nation\n- FOLLOW @ecomidata\n- RT\n 🍀 The NFTs will be added to http://ecomi.win http://ecomi.win http://ecomi.win",
+          "link": "https://twitter.com/ecomiburn/status/1397111931350175746",
+          "publishedOn": "2021-05-25T08:46:56.000Z",
+          "wordCount": 196,
+          "title": "RT $OMI Daily Burn: 🎉 Today we launch  💎 We have two Ultra Rares for you, a Ritmo and a Cthulhu 💎 To participate: - REGISTER on  - FOLLOW @Ve..."
+        },
         {
           "id": "https://twitter.com/xiaopeng163/status/1396850295137705985",
           "author": "Peng Xiao",
@@ -680,6 +734,15 @@
       "siteUrl": "https://twitter.com/xiaopeng163/likes",
       "articles": [
         {
+          "id": "https://twitter.com/ecomi_/status/1397159178087538691",
+          "author": "Ecomi",
+          "description": "Re @UniversalVeve @ronenglishart @vevecollectible Why thank you! @DavidYuNZ has been friends with Ron for many years, we can't wait to share more information with you about it shortly!",
+          "link": "https://twitter.com/ecomi_/status/1397159178087538691",
+          "publishedOn": "2021-05-25T11:54:40.000Z",
+          "wordCount": 196,
+          "title": "Re @UniversalVeve @ronenglishart @vevecollectible Why thank you! @DavidYuNZ has been friends with Ron for many years, we can't wait to share more info..."
+        },
+        {
           "id": "https://twitter.com/cryptofreshwest/status/1395541580266737665",
           "author": "cryptofreshwest",
           "description": "Body shaming and it’s effect on our #digitalcollectibles’ mental health.  \nWe love you #batman #DadbodBatman 💪 \nAnother great drop today... keep them coming @vevecollectible @ecomi_ \n#VeVe #NFT #AR #AugmentedReality",
@@ -848,6 +911,15 @@
       "feedUrl": "https://rsshub.app/twitter/likes/plidezus/",
       "siteUrl": "https://twitter.com/plidezus/likes",
       "articles": [
+        {
+          "id": "https://twitter.com/huhexian/status/1396838255094497283",
+          "author": "小胡同学",
+          "description": "虽然已经注册120天，实际使用是在这几天内，使用体验特别舒服。有想试试的可以从这个链接注册：\n大赞 #flomo https://flomoapp.com/register2/?Mjk0OTA",
+          "link": "https://twitter.com/huhexian/status/1396838255094497283",
+          "publishedOn": "2021-05-24T14:39:26.000Z",
+          "wordCount": 196,
+          "title": "虽然已经注册120天，实际使用是在这几天内，使用体验特别舒服。有想试试的可以从这个链接注册： 大赞 #flomo"
+        },
         {
           "id": "https://twitter.com/XDash/status/1396681987008524289",
           "author": "XDash",
@@ -1052,15 +1124,6 @@
           "publishedOn": "2021-05-10T08:45:06.000Z",
           "wordCount": 321,
           "title": "【增长黑客周刊】持续改版：专注效能、盈利、智识增长（20210510）"
-        },
-        {
-          "id": "https://mailchi.mp/5aac45952b14/i3ezqv3zws-4935574",
-          "author": null,
-          "description": "96\n            \n        \n        \n        \n        \n        \n        【增长黑客周刊】读书技巧、文化载体和出版生意（20210426）\n        \n    \n\t\tp{\n\t\t\tmargin:10px 0;\n\t\t\tpadding:0;\n\t\t}\n\t\ttable{\n\t\t\tborder-collapse:collapse;\n\t\t}\n\t\th1,h2,h3,h4,h5,h6{\n\t\t\tdisplay:block;\n\t\t\tmargin:0;\n\t\t\tpadding:0;\n\t\t}\n\t\timg,a img{\n\t\t\tborder:0;\n\t\t\theight:auto;\n\t\t\toutline:none;\n\t\t\ttext-decoration:none;\n\t\t}\n\t\tbody,#bodyTable,#bodyCell{\n\t\t\theight:100%;\n\t\t\tmargin:0;\n\t\t\tpadding:0;\n\t\t\twidth:100%;\n\t\t}\n\t\t.mcnPreviewText{\n\t\t\tdisplay:none !important;\n\t\t}\n\t\t#outlook a{\n\t\t\tpadding:0;\n\t\t}\n\t\timg{\n\t\t\t-ms-interpolation-mode:bicubic;\n\t\t}\n\t\ttable{\n\t\t\tmso-table-lspace:0pt;\n\t\t\tmso-table-rspace:0pt;\n\t\t}\n\t\t.ReadMsgBody{\n\t\t\twidth:100%;\n\t\t}\n\t\t.ExternalClass{\n\t\t\twidth:100%;\n\t\t}\n\t\tp,a,li,td,blockquote{\n\t\t\tmso-line-height-rule:exactly;\n\t\t}\n\t\ta[href^=tel],a[href^=sms]…",
-          "link": "https://mailchi.mp/5aac45952b14/i3ezqv3zws-4935574",
-          "publishedOn": "2021-04-26T09:15:54.000Z",
-          "wordCount": 247,
-          "title": "【增长黑客周刊】读书技巧、文化载体和出版生意（20210426）"
         }
       ]
     }

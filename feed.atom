@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T01:05:01.460Z</updated>
+    <updated>2021-05-26T01:19:22.341Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
+        <id>60ac3a2711ffb70827ef6aec</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
+        <updated>2021-05-25T22:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI]]></title>
+        <id>60a93b0011ffb70827ef5b0d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
+        <updated>2021-05-25T20:26:38.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
+        <id>608706aedd38b9088c2c012c</id>
+        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
+        <updated>2021-05-25T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
+        <id>https://css-tricks.com/?p=340759</id>
+        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
+        <updated>2021-05-25T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
+Table of contents
+What’s the game 
+…
+The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @UniversalVeve @ronenglishart @vevecollectible Why thank you! @DavidYuNZ has been friends with Ron for many years, we can't wait to share more info...]]></title>
+        <id>https://twitter.com/ecomi_/status/1397159178087538691</id>
+        <link href="https://twitter.com/ecomi_/status/1397159178087538691"/>
+        <updated>2021-05-25T11:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @UniversalVeve @ronenglishart @vevecollectible Why thank you! @DavidYuNZ has been friends with Ron for many years, we can't wait to share more information with you about it shortly!]]></summary>
+        <author>
+            <name>Ecomi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
+        <id>https://css-tricks.com/?p=341383</id>
+        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
+        <updated>2021-05-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
+The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ahmed Bouchefra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT $OMI Daily Burn: 🎉 Today we launch  💎 We have two Ultra Rares for you, a Ritmo and a Cthulhu 💎 To participate: - REGISTER on  - FOLLOW @Ve...]]></title>
+        <id>https://twitter.com/ecomiburn/status/1397111931350175746</id>
+        <link href="https://twitter.com/ecomiburn/status/1397111931350175746"/>
+        <updated>2021-05-25T08:46:56.000Z</updated>
+        <summary type="html"><![CDATA[RT $OMI Daily Burn
+🎉 Today we launch 
+💎 We have two Ultra Rares for you, a Ritmo and a Cthulhu 💎
+To participate:
+- REGISTER on 
+- FOLLOW @VeVe_Nation
+- FOLLOW @ecomidata
+- RT
+ 🍀 The NFTs will be added to http://ecomi.win http://ecomi.win http://ecomi.win]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
         <id>60abc6d011ffb70827ef630f</id>
@@ -103,6 +188,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虽然已经注册120天，实际使用是在这几天内，使用体验特别舒服。有想试试的可以从这个链接注册： 大赞 #flomo]]></title>
+        <id>https://twitter.com/huhexian/status/1396838255094497283</id>
+        <link href="https://twitter.com/huhexian/status/1396838255094497283"/>
+        <updated>2021-05-24T14:39:26.000Z</updated>
+        <summary type="html"><![CDATA[虽然已经注册120天，实际使用是在这几天内，使用体验特别舒服。有想试试的可以从这个链接注册：
+大赞 #flomo https://flomoapp.com/register2/?Mjk0OTA]]></summary>
+        <author>
+            <name>小胡同学</name>
         </author>
     </entry>
     <entry>
@@ -1335,72 +1431,6 @@ Available globally — outside of Japan and Mainland China. https://medium.com
         <summary type="html"><![CDATA[#ING starts charging #negative #interest for #savings over € 100,00 https://nltimes.nl/2021/04/11/ing-starts-charging-negative-interest-savings-eu-100000]]></summary>
         <author>
             <name>Martin Valk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【增长黑客周刊】读书技巧、文化载体和出版生意（20210426）]]></title>
-        <id>https://mailchi.mp/5aac45952b14/i3ezqv3zws-4935574</id>
-        <link href="https://mailchi.mp/5aac45952b14/i3ezqv3zws-4935574"/>
-        <updated>2021-04-26T09:15:54.000Z</updated>
-        <summary type="html"><![CDATA[96
-            
-        
-        
-        
-        
-        
-        【增长黑客周刊】读书技巧、文化载体和出版生意（20210426）
-        
-    
-		p{
-			margin:10px 0;
-			padding:0;
-		}
-		table{
-			border-collapse:collapse;
-		}
-		h1,h2,h3,h4,h5,h6{
-			display:block;
-			margin:0;
-			padding:0;
-		}
-		img,a img{
-			border:0;
-			height:auto;
-			outline:none;
-			text-decoration:none;
-		}
-		body,#bodyTable,#bodyCell{
-			height:100%;
-			margin:0;
-			padding:0;
-			width:100%;
-		}
-		.mcnPreviewText{
-			display:none !important;
-		}
-		#outlook a{
-			padding:0;
-		}
-		img{
-			-ms-interpolation-mode:bicubic;
-		}
-		table{
-			mso-table-lspace:0pt;
-			mso-table-rspace:0pt;
-		}
-		.ReadMsgBody{
-			width:100%;
-		}
-		.ExternalClass{
-			width:100%;
-		}
-		p,a,li,td,blockquote{
-			mso-line-height-rule:exactly;
-		}
-		a[href^=tel],a[href^=sms]…]]></summary>
-        <author>
-            <name>增长黑客通讯周刊 Archive Feed</name>
         </author>
     </entry>
 </feed>
