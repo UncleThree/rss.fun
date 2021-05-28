@@ -112,6 +112,24 @@
       "siteUrl": "https://ljf.com",
       "articles": [
         {
+          "id": "https://ljf.com/?p=1006",
+          "author": "ljf",
+          "description": "关于爱情 怎样让爱情美好？ 1，努力 努力是成功的秘诀 很多人对恋情有错误的预期：完美的爱情是不存在的 重点不是寻找（固定心态）而是培养（可塑心态） 固定心态 与 可塑心态要赞美努力而不是聪明 电影强 …",
+          "link": "https://ljf.com/2021/05/28/1006/",
+          "publishedOn": "2021-05-27T22:42:00.000Z",
+          "wordCount": 93,
+          "title": "哈佛幸福课 第十九讲笔记 关于爱情：首先是被了解而非被认可"
+        },
+        {
+          "id": "https://ljf.com/?p=1005",
+          "author": "ljf",
+          "description": "睡眠应该把睡眠看成一项投资 每天需要的睡眠大概是8个小时 睡眠的好处 1，增强免疫系统 2，精力 3，缺乏熟眠导致肥胖 4，缺乏熟眠会导致交通事故 5，缺乏睡眠会导致认知能力下降 6，缺乏睡眠会导致发脾气 7 …",
+          "link": "https://ljf.com/2021/05/27/1005/",
+          "publishedOn": "2021-05-27T11:20:42.000Z",
+          "wordCount": 85,
+          "title": "哈佛幸福课 第十八讲 睡眠、触摸和亲密关系"
+        },
+        {
           "id": "https://ljf.com/?p=1004",
           "author": "ljf",
           "description": "也许这一代中国企业家的使命，就是去解决包括服务业在内的很多领域的基础品质问题。 不要求提供的服务有多好，但是要求能够保持不差，也就是能够提供基本水平之上的稳定的服务。【方差小】 读书是一项最北 …",
@@ -172,6 +190,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341298",
+          "author": "Chris Coyier",
+          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
+          "publishedOn": "2021-05-27T18:22:11.000Z",
+          "wordCount": 1049,
+          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341020",
+          "author": "Robin Rendle",
+          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-show-images-on-click/",
+          "publishedOn": "2021-05-27T14:25:29.000Z",
+          "wordCount": 1421,
+          "title": "How to Show Images on Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340910",
+          "author": "Michael Rispoli",
+          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
+          "publishedOn": "2021-05-27T14:23:23.000Z",
+          "wordCount": 2327,
+          "title": "Rethinking Postgres in a Post-Server World"
+        },
         {
           "id": "https://css-tricks.com/?p=339759",
           "author": "Chris Coyier",
@@ -386,6 +431,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60af931811ffb70827ef85d3",
+          "author": null,
+          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
+          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
+          "publishedOn": "2021-05-27T17:55:23.000Z",
+          "wordCount": 1828,
+          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
+        },
+        {
+          "id": "60a325c6906c5207e3a7da25",
+          "author": null,
+          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
+          "publishedOn": "2021-05-27T15:16:34.000Z",
+          "wordCount": 1399,
+          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
+        },
         {
           "id": "60a44b9f906c5207e3a7e098",
           "author": null,
@@ -797,15 +860,6 @@
           "publishedOn": "2021-04-28T15:56:54.000Z",
           "wordCount": 196,
           "title": "ING starts charging negative interest for savings over € 100,000"
-        },
-        {
-          "id": "https://twitter.com/xiaopeng163/status/1387359746605395968",
-          "author": "Peng Xiao",
-          "description": "cool，如果一个drone代表一个pixel，是不是也可以显示简单的短视频？就相当于把北京的世贸天阶移到天上去",
-          "link": "https://twitter.com/xiaopeng163/status/1387359746605395968",
-          "publishedOn": "2021-04-28T10:55:14.000Z",
-          "wordCount": 196,
-          "title": "cool，如果一个drone代表一个pixel，是不是也可以显示简单的短视频？就相当于把北京的世贸天阶移到天上去"
         }
       ]
     },
@@ -984,15 +1038,6 @@
           "publishedOn": "2021-04-29T06:55:51.000Z",
           "wordCount": 196,
           "title": "Are you ready for the first 2D cover art to hit #VeVe? The Rise of Ultraman Series #1 is dropping in 8 hours! 29th April 🗓 8 am PST ⏰ Available gl..."
-        },
-        {
-          "id": "https://twitter.com/martincpvalk/status/1387317391596609542",
-          "author": "Martin Valk",
-          "description": "#ING starts charging #negative #interest for #savings over € 100,00 https://nltimes.nl/2021/04/11/ing-starts-charging-negative-interest-savings-eu-100000",
-          "link": "https://twitter.com/martincpvalk/status/1387317391596609542",
-          "publishedOn": "2021-04-28T08:06:55.000Z",
-          "wordCount": 196,
-          "title": "#ING starts charging #negative #interest for #savings over € 100,00"
         }
       ]
     },

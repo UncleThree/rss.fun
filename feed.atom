@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T01:26:52.196Z</updated>
+    <updated>2021-05-28T01:37:43.614Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[哈佛幸福课 第十九讲笔记 关于爱情：首先是被了解而非被认可]]></title>
+        <id>https://ljf.com/?p=1006</id>
+        <link href="https://ljf.com/2021/05/28/1006/"/>
+        <updated>2021-05-27T22:42:00.000Z</updated>
+        <summary type="html"><![CDATA[关于爱情 怎样让爱情美好？ 1，努力 努力是成功的秘诀 很多人对恋情有错误的预期：完美的爱情是不存在的 重点不是寻找（固定心态）而是培养（可塑心态） 固定心态 与 可塑心态要赞美努力而不是聪明 电影强 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
+        <id>https://css-tricks.com/?p=341298</id>
+        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
+        <updated>2021-05-27T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
+Like this:
+$ brew install somepackage
+The point of that is that it …
+The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
+        <id>60af931811ffb70827ef85d3</id>
+        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
+        <updated>2021-05-27T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈佛幸福课 第十八讲 睡眠、触摸和亲密关系]]></title>
+        <id>https://ljf.com/?p=1005</id>
+        <link href="https://ljf.com/2021/05/27/1005/"/>
+        <updated>2021-05-27T11:20:42.000Z</updated>
+        <summary type="html"><![CDATA[睡眠应该把睡眠看成一项投资 每天需要的睡眠大概是8个小时 睡眠的好处 1，增强免疫系统 2，精力 3，缺乏熟眠导致肥胖 4，缺乏熟眠会导致交通事故 5，缺乏睡眠会导致认知能力下降 6，缺乏睡眠会导致发脾气 7 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
         <id>60a44b9f906c5207e3a7e098</id>
@@ -1527,26 +1606,6 @@ Available globally — outside of Japan and Mainland China. https://medium.com
         <summary type="html"><![CDATA[ING starts charging negative interest for savings over € 100,000 https://nltimes.nl/2021/04/11/ing-starts-charging-negative-interest-savings-eu-100000]]></summary>
         <author>
             <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cool，如果一个drone代表一个pixel，是不是也可以显示简单的短视频？就相当于把北京的世贸天阶移到天上去]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1387359746605395968</id>
-        <link href="https://twitter.com/xiaopeng163/status/1387359746605395968"/>
-        <updated>2021-04-28T10:55:14.000Z</updated>
-        <summary type="html"><![CDATA[cool，如果一个drone代表一个pixel，是不是也可以显示简单的短视频？就相当于把北京的世贸天阶移到天上去]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ING starts charging #negative #interest for #savings over € 100,00]]></title>
-        <id>https://twitter.com/martincpvalk/status/1387317391596609542</id>
-        <link href="https://twitter.com/martincpvalk/status/1387317391596609542"/>
-        <updated>2021-04-28T08:06:55.000Z</updated>
-        <summary type="html"><![CDATA[#ING starts charging #negative #interest for #savings over € 100,00 https://nltimes.nl/2021/04/11/ing-starts-charging-negative-interest-savings-eu-100000]]></summary>
-        <author>
-            <name>Martin Valk</name>
         </author>
     </entry>
 </feed>
