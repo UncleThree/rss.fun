@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T01:37:43.614Z</updated>
+    <updated>2021-05-29T01:53:31.274Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
+        <updated>2021-05-28T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Bats should stay away from Big Bad Kitty Cats @vevecollectible @ecomi_ @Immutable  #ECOMIFam #VeVe #NFTs #OMI  #Catwoman #Batman]]></title>
+        <id>https://twitter.com/VeVeGANG/status/1398318309246971904</id>
+        <link href="https://twitter.com/VeVeGANG/status/1398318309246971904"/>
+        <updated>2021-05-28T16:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Little Bats should stay away from Big Bad Kitty Cats
+@vevecollectible @ecomi_ @Immutable 
+#ECOMIFam #VeVe #NFTs #OMI 
+#Catwoman #Batman]]></summary>
+        <author>
+            <name>VeVeGANG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
+        <id>60b08d8811ffb70827ef8c7b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
+        <updated>2021-05-28T16:01:05.000Z</updated>
+        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My first #veve NFT, batgirl]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1398304200447115269</id>
+        <link href="https://twitter.com/xiaopeng163/status/1398304200447115269"/>
+        <updated>2021-05-28T15:44:35.000Z</updated>
+        <summary type="html"><![CDATA[My first #veve NFT, batgirl]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
+        <id>https://css-tricks.com/?p=341163</id>
+        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
+        <updated>2021-05-28T14:36:47.000Z</updated>
+        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
+The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Thomas Park</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
+        <id>60b0de2211ffb70827ef8d7c</id>
+        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
+        <updated>2021-05-28T12:26:38.000Z</updated>
+        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#VeVe #ECOMI #OMI #ECOMIFam 🦸‍♀️ @ecomi_ @vevecollectible ❤️🔥🎨]]></title>
+        <id>https://twitter.com/VeVeAgent23/status/1398087881709740039</id>
+        <link href="https://twitter.com/VeVeAgent23/status/1398087881709740039"/>
+        <updated>2021-05-28T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[#VeVe #ECOMI #OMI #ECOMIFam 🦸‍♀️
+@ecomi_ @vevecollectible ❤️🔥🎨]]></summary>
+        <author>
+            <name>VeVeAgent23</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈佛幸福课 第十九讲笔记 关于爱情：首先是被了解而非被认可]]></title>
         <id>https://ljf.com/?p=1006</id>
@@ -1580,30 +1656,6 @@ CZ 🔶 Binance: For all people who mock #bitcoin that I have ever met, none o
         <link href="https://twitter.com/xiaopeng163/status/1387871800453963777"/>
         <updated>2021-04-29T20:49:57.000Z</updated>
         <summary type="html"><![CDATA[美]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you ready for the first 2D cover art to hit #VeVe? The Rise of Ultraman Series #1 is dropping in 8 hours! 29th April 🗓 8 am PST ⏰ Available gl...]]></title>
-        <id>https://twitter.com/vevecollectible/status/1387661892429107200</id>
-        <link href="https://twitter.com/vevecollectible/status/1387661892429107200"/>
-        <updated>2021-04-29T06:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready for the first 2D cover art to hit #VeVe?
-The Rise of Ultraman Series #1 is dropping in 8 hours!
-29th April 🗓
-8 am PST ⏰
-Available globally — outside of Japan and Mainland China. https://medium.com/veve-collectibles/the-rise-of-ultraman-series-1-1702b8b23bae]]></summary>
-        <author>
-            <name>VeVe | Collecting 2.0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ING starts charging negative interest for savings over € 100,000]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1387435664979939328</id>
-        <link href="https://twitter.com/xiaopeng163/status/1387435664979939328"/>
-        <updated>2021-04-28T15:56:54.000Z</updated>
-        <summary type="html"><![CDATA[ING starts charging negative interest for savings over € 100,000 https://nltimes.nl/2021/04/11/ing-starts-charging-negative-interest-savings-eu-100000]]></summary>
         <author>
             <name>Peng Xiao</name>
         </author>
