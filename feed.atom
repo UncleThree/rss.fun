@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T01:53:31.274Z</updated>
+    <updated>2021-05-30T02:04:56.384Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最新在教小孩子们用python turtle画像素图，他们还是蛮感兴趣的。]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1398746269565304833</id>
+        <link href="https://twitter.com/xiaopeng163/status/1398746269565304833"/>
+        <updated>2021-05-29T21:01:12.000Z</updated>
+        <summary type="html"><![CDATA[最新在教小孩子们用python turtle画像素图，他们还是蛮感兴趣的。]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个保安小哥哥要火了。]]></title>
+        <id>https://twitter.com/Onebtcer/status/1398565920499449863</id>
+        <link href="https://twitter.com/Onebtcer/status/1398565920499449863"/>
+        <updated>2021-05-29T09:04:34.000Z</updated>
+        <summary type="html"><![CDATA[这个保安小哥哥要火了。]]></summary>
+        <author>
+            <name>武汉普通人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
         <id>60acf28e11ffb70827ef6dd9</id>
@@ -1636,26 +1656,6 @@ CZ 🔶 Binance: For all people who mock #bitcoin that I have ever met, none o
         <link href="https://twitter.com/xiaopeng163/status/1388247780372713472"/>
         <updated>2021-04-30T21:43:57.000Z</updated>
         <summary type="html"><![CDATA[Re @iamchunyenc 嗯，我肯定会hold住，本来也没几百u，我不着急变现。]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊挖了快三个月了，按照当前价格，差不多毛收入500刀了。一直和挖矿的朋友说挖了eth别卖，在1500刀的时候这么说，现在2700多刀了我还是这么说，一个字就是“...]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1388039713072812035</id>
-        <link href="https://twitter.com/xiaopeng163/status/1388039713072812035"/>
-        <updated>2021-04-30T07:57:10.000Z</updated>
-        <summary type="html"><![CDATA[以太坊挖了快三个月了，按照当前价格，差不多毛收入500刀了。一直和挖矿的朋友说挖了eth别卖，在1500刀的时候这么说，现在2700多刀了我还是这么说，一个字就是“屯”。最近eth gas费稍微下降一点，eth价格就暴涨了，后面如果能彻底解决gas费的问题，eth的价格突破1万刀非常简单。（以上不作为投资建议）]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1387871800453963777</id>
-        <link href="https://twitter.com/xiaopeng163/status/1387871800453963777"/>
-        <updated>2021-04-29T20:49:57.000Z</updated>
-        <summary type="html"><![CDATA[美]]></summary>
         <author>
             <name>Peng Xiao</name>
         </author>
