@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T02:04:56.384Z</updated>
+    <updated>2021-06-01T02:39:56.080Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隔壁这装修，刚好是我面对的这堵墙，没法工作了😭]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1399333737721176068</id>
+        <link href="https://twitter.com/xiaopeng163/status/1399333737721176068"/>
+        <updated>2021-05-31T11:55:36.000Z</updated>
+        <summary type="html"><![CDATA[隔壁这装修，刚好是我面对的这堵墙，没法工作了😭]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BiantaiTianna 味道鲜美，就是沙子吐不干净]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1399041937743790081</id>
+        <link href="https://twitter.com/xiaopeng163/status/1399041937743790081"/>
+        <updated>2021-05-30T16:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @BiantaiTianna 味道鲜美，就是沙子吐不干净]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《零售的哲学》读书笔记]]></title>
+        <id>https://ljf.com/?p=1007</id>
+        <link href="https://ljf.com/2021/05/30/1007/"/>
+        <updated>2021-05-30T14:55:38.000Z</updated>
+        <summary type="html"><![CDATA[如果要分析7-Eleven独占鳌头的原因，可以用以下三点概括：1.始终贯彻密集型选址战略；2.具备产品研发与供应的基础体系；3.注重与员工的直接沟通。 在我们眼中，真正的竞争对手并不是其他品牌的便利店，而是 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开了50公里来泽兰省挖象蚌，工具不行，下次拿个大铁锹，应该还是挺好挖的]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1399005690996404232</id>
+        <link href="https://twitter.com/xiaopeng163/status/1399005690996404232"/>
+        <updated>2021-05-30T14:12:03.000Z</updated>
+        <summary type="html"><![CDATA[开了50公里来泽兰省挖象蚌，工具不行，下次拿个大铁锹，应该还是挺好挖的]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batgirl doin her Batty-Thang on the Edge of The World!! #NFT #Batgirl #kuliouou #oahu #hawaii #Veveapp #Ecomifam ⁦@vevecollectible⁩ ⁦@ecomi_⁩]]></title>
+        <id>https://twitter.com/VeVe0NE/status/1398838570647900165</id>
+        <link href="https://twitter.com/VeVe0NE/status/1398838570647900165"/>
+        <updated>2021-05-30T03:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Batgirl doin her Batty-Thang on the Edge of The World!!
+#NFT #Batgirl #kuliouou #oahu #hawaii #Veveapp #Ecomifam
+⁦@vevecollectible⁩ ⁦@ecomi_⁩]]></summary>
+        <author>
+            <name>VeVe1</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新在教小孩子们用python turtle画像素图，他们还是蛮感兴趣的。]]></title>
         <id>https://twitter.com/xiaopeng163/status/1398746269565304833</id>
@@ -1626,36 +1706,6 @@ It's open source, and written in go. It's the quickest and easiest way to access
         <updated>2021-05-03T06:46:10.000Z</updated>
         <summary type="html"><![CDATA[和无脑黑一个道理，先了解下再去黑，连了解一下都不愿意花点时间的人，很可悲。
 CZ 🔶 Binance: For all people who mock #bitcoin that I have ever met, none of them could explain what an address / pub key is. And they all show an attitude of refusal to learn. Yet, they have no problem mocking something they don't understand. Don't be like that.]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷兰解放日，被从公园赶了出来]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1388819291651313666</id>
-        <link href="https://twitter.com/xiaopeng163/status/1388819291651313666"/>
-        <updated>2021-05-02T11:34:56.000Z</updated>
-        <summary type="html"><![CDATA[荷兰解放日，被从公园赶了出来]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下莱茵河畔]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1388443576460316673</id>
-        <link href="https://twitter.com/xiaopeng163/status/1388443576460316673"/>
-        <updated>2021-05-01T10:41:59.000Z</updated>
-        <summary type="html"><![CDATA[下莱茵河畔]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @iamchunyenc 嗯，我肯定会hold住，本来也没几百u，我不着急变现。]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1388247780372713472</id>
-        <link href="https://twitter.com/xiaopeng163/status/1388247780372713472"/>
-        <updated>2021-04-30T21:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @iamchunyenc 嗯，我肯定会hold住，本来也没几百u，我不着急变现。]]></summary>
         <author>
             <name>Peng Xiao</name>
         </author>

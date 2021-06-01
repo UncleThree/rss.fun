@@ -112,6 +112,15 @@
       "siteUrl": "https://ljf.com",
       "articles": [
         {
+          "id": "https://ljf.com/?p=1007",
+          "author": "ljf",
+          "description": "如果要分析7-Eleven独占鳌头的原因，可以用以下三点概括：1.始终贯彻密集型选址战略；2.具备产品研发与供应的基础体系；3.注重与员工的直接沟通。 在我们眼中，真正的竞争对手并不是其他品牌的便利店，而是 …",
+          "link": "https://ljf.com/2021/05/30/1007/",
+          "publishedOn": "2021-05-30T14:55:38.000Z",
+          "wordCount": 97,
+          "title": "《零售的哲学》读书笔记"
+        },
+        {
           "id": "https://ljf.com/?p=1006",
           "author": "ljf",
           "description": "关于爱情 怎样让爱情美好？ 1，努力 努力是成功的秘诀 很多人对恋情有错误的预期：完美的爱情是不存在的 重点不是寻找（固定心态）而是培养（可塑心态） 固定心态 与 可塑心态要赞美努力而不是聪明 电影强 …",
@@ -190,6 +199,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1796,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 981,
+          "title": "Local: Always Getting Better"
+        },
         {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
@@ -709,6 +736,33 @@
       "siteUrl": "https://twitter.com/xiaopeng163/",
       "articles": [
         {
+          "id": "https://twitter.com/xiaopeng163/status/1399333737721176068",
+          "author": "Peng Xiao",
+          "description": "隔壁这装修，刚好是我面对的这堵墙，没法工作了😭",
+          "link": "https://twitter.com/xiaopeng163/status/1399333737721176068",
+          "publishedOn": "2021-05-31T11:55:36.000Z",
+          "wordCount": 196,
+          "title": "隔壁这装修，刚好是我面对的这堵墙，没法工作了😭"
+        },
+        {
+          "id": "https://twitter.com/xiaopeng163/status/1399041937743790081",
+          "author": "Peng Xiao",
+          "description": "Re @BiantaiTianna 味道鲜美，就是沙子吐不干净",
+          "link": "https://twitter.com/xiaopeng163/status/1399041937743790081",
+          "publishedOn": "2021-05-30T16:36:05.000Z",
+          "wordCount": 196,
+          "title": "Re @BiantaiTianna 味道鲜美，就是沙子吐不干净"
+        },
+        {
+          "id": "https://twitter.com/xiaopeng163/status/1399005690996404232",
+          "author": "Peng Xiao",
+          "description": "开了50公里来泽兰省挖象蚌，工具不行，下次拿个大铁锹，应该还是挺好挖的",
+          "link": "https://twitter.com/xiaopeng163/status/1399005690996404232",
+          "publishedOn": "2021-05-30T14:12:03.000Z",
+          "wordCount": 196,
+          "title": "开了50公里来泽兰省挖象蚌，工具不行，下次拿个大铁锹，应该还是挺好挖的"
+        },
+        {
           "id": "https://twitter.com/xiaopeng163/status/1398746269565304833",
           "author": "Peng Xiao",
           "description": "最新在教小孩子们用python turtle画像素图，他们还是蛮感兴趣的。",
@@ -860,33 +914,6 @@
           "publishedOn": "2021-05-03T06:46:10.000Z",
           "wordCount": 196,
           "title": "和无脑黑一个道理，先了解下再去黑，连了解一下都不愿意花点时间的人，很可悲。"
-        },
-        {
-          "id": "https://twitter.com/xiaopeng163/status/1388819291651313666",
-          "author": "Peng Xiao",
-          "description": "荷兰解放日，被从公园赶了出来",
-          "link": "https://twitter.com/xiaopeng163/status/1388819291651313666",
-          "publishedOn": "2021-05-02T11:34:56.000Z",
-          "wordCount": 196,
-          "title": "荷兰解放日，被从公园赶了出来"
-        },
-        {
-          "id": "https://twitter.com/xiaopeng163/status/1388443576460316673",
-          "author": "Peng Xiao",
-          "description": "下莱茵河畔",
-          "link": "https://twitter.com/xiaopeng163/status/1388443576460316673",
-          "publishedOn": "2021-05-01T10:41:59.000Z",
-          "wordCount": 196,
-          "title": "下莱茵河畔"
-        },
-        {
-          "id": "https://twitter.com/xiaopeng163/status/1388247780372713472",
-          "author": "Peng Xiao",
-          "description": "Re @iamchunyenc 嗯，我肯定会hold住，本来也没几百u，我不着急变现。",
-          "link": "https://twitter.com/xiaopeng163/status/1388247780372713472",
-          "publishedOn": "2021-04-30T21:43:57.000Z",
-          "wordCount": 196,
-          "title": "Re @iamchunyenc 嗯，我肯定会hold住，本来也没几百u，我不着急变现。"
         }
       ]
     },
@@ -895,6 +922,15 @@
       "feedUrl": "https://rsshub.app/twitter/likes/xiaopeng163/",
       "siteUrl": "https://twitter.com/xiaopeng163/likes",
       "articles": [
+        {
+          "id": "https://twitter.com/VeVe0NE/status/1398838570647900165",
+          "author": "VeVe1",
+          "description": "Batgirl doin her Batty-Thang on the Edge of The World!!\n#NFT #Batgirl #kuliouou #oahu #hawaii #Veveapp #Ecomifam\n⁦@vevecollectible⁩ ⁦@ecomi_⁩",
+          "link": "https://twitter.com/VeVe0NE/status/1398838570647900165",
+          "publishedOn": "2021-05-30T03:07:59.000Z",
+          "wordCount": 196,
+          "title": "Batgirl doin her Batty-Thang on the Edge of The World!! #NFT #Batgirl #kuliouou #oahu #hawaii #Veveapp #Ecomifam ⁦@vevecollectible⁩ ⁦@ecomi_⁩"
+        },
         {
           "id": "https://twitter.com/Onebtcer/status/1398565920499449863",
           "author": "武汉普通人",
