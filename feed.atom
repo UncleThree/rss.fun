@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T03:07:28.176Z</updated>
+    <updated>2021-06-03T06:20:22.331Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[再推一下，我上个月用 #nebulaGraph #graphDatabase 在 #chianetwork 上做的尝试，导入代码也开源在  →  也欢迎转发墙内的公众号 →]]></title>
+        <id>https://twitter.com/wey_gu/status/1400281942856114179</id>
+        <link href="https://twitter.com/wey_gu/status/1400281942856114179"/>
+        <updated>2021-06-03T02:43:25.000Z</updated>
+        <summary type="html"><![CDATA[再推一下，我上个月用 #nebulaGraph #graphDatabase 在 #chianetwork 上做的尝试，导入代码也开源在 
+→ 
+也欢迎转发墙内的公众号
+→
+Wey Gu 古思为: Chia Network 的数据导入图数据库的文章好了 
+#nebulaGraph
+#graphDatabase
+#chianetwork 
+#chiaCoin
+ https://siwei.io/explore_chia_network_in_a_visualized_way/]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
         <id>60afce3011ffb70827ef869c</id>
@@ -83,6 +102,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我草 deepnote 太捷豹好用了吧, 我真心建议微软买下放进 Azure 里面...]]></title>
+        <id>https://twitter.com/Cailurus/status/1400119728631394310</id>
+        <link href="https://twitter.com/Cailurus/status/1400119728631394310"/>
+        <updated>2021-06-02T15:58:50.000Z</updated>
+        <summary type="html"><![CDATA[我草 deepnote 太捷豹好用了吧, 我真心建议微软买下放进 Azure 里面... https://deepnote.com/]]></summary>
+        <author>
+            <name>小熊猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2/2)，先是openstack的贡献者，然后是容器的核心贡献者，然后是k8s的核心贡献者，然后是安卓的主力贡献者。这些都改变不了本性。那就是抄，抄，抄。然后开发布...]]></title>
+        <id>https://twitter.com/xds2000/status/1400107494203084801</id>
+        <link href="https://twitter.com/xds2000/status/1400107494203084801"/>
+        <updated>2021-06-02T15:10:14.000Z</updated>
+        <summary type="html"><![CDATA[(2/2)，先是openstack的贡献者，然后是容器的核心贡献者，然后是k8s的核心贡献者，然后是安卓的主力贡献者。这些都改变不了本性。那就是抄，抄，抄。然后开发布会说自己多牛逼，投入了几千人研发了好几年，打造了一个比当前业界更牛逼的安卓系统。并且我也开源。请大家学习我，模范我，崇拜我。
+Tommy Xiao: （1/2）我给华为团队做过开源指导，华为工程师问我怎么做开源。我当时把曾经红帽的开源精神给华为讲了一遍，华为工程师不以为然，毕竟华为做事情只要决定了就狼群而上，以提交commit为KPI搞起]]></summary>
+        <author>
+            <name>Tommy Xiao</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
         <id>60b51f6e11ffb70827ef9f7c</id>
         <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
@@ -90,6 +130,39 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谢谢，吃得好饱，聊的很high]]></title>
+        <id>https://twitter.com/tinyfool/status/1400091749431738372</id>
+        <link href="https://twitter.com/tinyfool/status/1400091749431738372"/>
+        <updated>2021-06-02T14:07:40.000Z</updated>
+        <summary type="html"><![CDATA[谢谢，吃得好饱，聊的很high
+Wey Gu 古思为: 今天有幸和@tinyfool 叔见面聊天，能一点点打磨去用新的技术做自己喜欢的事情帮到别人真的特别酷。
+祝回天津一路平安☺️。]]></summary>
+        <author>
+            <name>Tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天有幸和@tinyfool 叔见面聊天，能一点点打磨去用新的技术做自己喜欢的事情帮到别人真的特别酷。 祝回天津一路平安☺️。]]></title>
+        <id>https://twitter.com/wey_gu/status/1400089487795884042</id>
+        <link href="https://twitter.com/wey_gu/status/1400089487795884042"/>
+        <updated>2021-06-02T13:58:40.000Z</updated>
+        <summary type="html"><![CDATA[今天有幸和@tinyfool 叔见面聊天，能一点点打磨去用新的技术做自己喜欢的事情帮到别人真的特别酷。
+祝回天津一路平安☺️。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waylybaye @conbas2019 怪不得最近短信提醒多了]]></title>
+        <id>https://twitter.com/wey_gu/status/1400085490955538434</id>
+        <link href="https://twitter.com/wey_gu/status/1400085490955538434"/>
+        <updated>2021-06-02T13:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @waylybaye @conbas2019 怪不得最近短信提醒多了]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +187,16 @@ The post Are Custom Properties a “Menu of What Will Change”? appeared first 
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lux2048 哈哈哈，我们运营小姐姐的idea😝]]></title>
+        <id>https://twitter.com/wey_gu/status/1400081180104351750</id>
+        <link href="https://twitter.com/wey_gu/status/1400081180104351750"/>
+        <updated>2021-06-02T13:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @lux2048 哈哈哈，我们运营小姐姐的idea😝]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
         </author>
     </entry>
     <entry>
@@ -147,6 +230,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 我们在大量招人，机会不错，非 996，开源，分布式图数据库，可远程。 #graphDatabase #nebulaGraph #hire #OpenSource]]></title>
+        <id>https://twitter.com/wey_gu/status/1400033449906360324</id>
+        <link href="https://twitter.com/wey_gu/status/1400033449906360324"/>
+        <updated>2021-06-02T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Re 我们在大量招人，机会不错，非 996，开源，分布式图数据库，可远程。
+#graphDatabase
+#nebulaGraph
+#hire #OpenSource https://vesoft.com/cn/careers/]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @waylybaye 赶紧先买了😓]]></title>
         <id>https://twitter.com/xiaopeng163/status/1400026894343495681</id>
         <link href="https://twitter.com/xiaopeng163/status/1400026894343495681"/>
@@ -154,6 +250,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Re @waylybaye 赶紧先买了😓]]></summary>
         <author>
             <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waylybaye @VnetLink @tblodt @github @sublimehq @antfu7 @Typora @googlecloud @Apple 哈，看起来比想象中便宜多了]]></title>
+        <id>https://twitter.com/wey_gu/status/1400011674426384386</id>
+        <link href="https://twitter.com/wey_gu/status/1400011674426384386"/>
+        <updated>2021-06-02T08:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Re @waylybaye @VnetLink @tblodt @github @sublimehq @antfu7 @Typora @googlecloud @Apple 哈，看起来比想象中便宜多了]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
         </author>
     </entry>
     <entry>
@@ -181,6 +287,17 @@ Various applications are running on #Ethereum : ICO, DeFi, NFT, etc.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我 App 的设计都是我自己做的，有机会我可以写下 「程序员如何做不难看的设计」😂]]></title>
+        <id>https://twitter.com/waylybaye/status/1399985674690850819</id>
+        <link href="https://twitter.com/waylybaye/status/1399985674690850819"/>
+        <updated>2021-06-02T07:06:09.000Z</updated>
+        <summary type="html"><![CDATA[我 App 的设计都是我自己做的，有机会我可以写下 「程序员如何做不难看的设计」😂
+秋色以晚: @waylybaye 我想咨询一下，app的ui界面设计，非常漂亮，是八爷一手操刀的还是请了外援？]]></summary>
+        <author>
+            <name>Baye</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Found this pic of me as a child]]></title>
         <id>https://twitter.com/elonmusk/status/1399985389725753346</id>
         <link href="https://twitter.com/elonmusk/status/1399985389725753346"/>
@@ -188,6 +305,50 @@ Various applications are running on #Ethereum : ICO, DeFi, NFT, etc.]]></summary
         <summary type="html"><![CDATA[Found this pic of me as a child]]></summary>
         <author>
             <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 链接：]]></title>
+        <id>https://twitter.com/wey_gu/status/1399936621932253187</id>
+        <link href="https://twitter.com/wey_gu/status/1399936621932253187"/>
+        <updated>2021-06-02T03:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Re 链接： https://mp.weixin.qq.com/s/OwzIbQDpNak41PCA4XlmGw]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关心 #graphDatabase 实时写入时延吞吐、导入性能可以参考美团的分享 #nebulaGraph 的存储是按照点的id取模分片，和出边存在同一个分片，在高并发实时写场景可以...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399936582560272392</id>
+        <link href="https://twitter.com/wey_gu/status/1399936582560272392"/>
+        <updated>2021-06-02T03:51:05.000Z</updated>
+        <summary type="html"><![CDATA[关心 #graphDatabase 实时写入时延吞吐、导入性能可以参考美团的分享
+#nebulaGraph 的存储是按照点的id取模分片，和出边存在同一个分片，在高并发实时写场景可以期线性scale/吞吐提升。
+Nebula的自研存储引擎使得用数据库之外计算生成SST 文件，直接插入底层存储实现超高速数据导入成为可能。
+链接：]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我一直以来的观点是，把东西往简单里做。如果可以的话，最好只有一个按钮，那就是启动。 因此微林的所有服务，都尽可能不要让开发者思考太多。这是微林的价值所...]]></title>
+        <id>https://twitter.com/DiafunO/status/1399905659777208320</id>
+        <link href="https://twitter.com/DiafunO/status/1399905659777208320"/>
+        <updated>2021-06-02T01:48:12.000Z</updated>
+        <summary type="html"><![CDATA[我一直以来的观点是，把东西往简单里做。如果可以的话，最好只有一个按钮，那就是启动。
+因此微林的所有服务，都尽可能不要让开发者思考太多。这是微林的价值所在。]]></summary>
+        <author>
+            <name>Diafun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jitterbug is an iOS app that lets you to wirelessly connect to another iOS device (neither are jailbroken) and then launch an app on the connected iOS...]]></title>
+        <id>https://twitter.com/UTMapp/status/1399879819349749761</id>
+        <link href="https://twitter.com/UTMapp/status/1399879819349749761"/>
+        <updated>2021-06-02T00:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Jitterbug is an iOS app that lets you to wirelessly connect to another iOS device (neither are jailbroken) and then launch an app on the connected iOS device with JIT enabled. https://github.com/osy/Jitterbug/releases]]></summary>
+        <author>
+            <name>UTM</name>
         </author>
     </entry>
     <entry>
@@ -287,6 +448,119 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[你忘了小时候的梦想吗？ 不，没有，并且依然在不断缓慢向前。]]></title>
+        <id>https://twitter.com/yyhxiaolang/status/1399709757938618380</id>
+        <link href="https://twitter.com/yyhxiaolang/status/1399709757938618380"/>
+        <updated>2021-06-01T12:49:46.000Z</updated>
+        <summary type="html"><![CDATA[你忘了小时候的梦想吗？
+不，没有，并且依然在不断缓慢向前。]]></summary>
+        <author>
+            <name>袁小狼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #m1Mac，m1 Mac的内存和 CPU 的组合使得日常使用的响应是真的快，Docker Desktop做了很多不硬核的场景下 x86_64 的东西完全可以跑的工作👍🏻，电池电池电...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399699179992010770</id>
+        <link href="https://twitter.com/wey_gu/status/1399699179992010770"/>
+        <updated>2021-06-01T12:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Re #m1Mac，m1 Mac的内存和 CPU 的组合使得日常使用的响应是真的快，Docker Desktop做了很多不硬核的场景下 x86_64 的东西完全可以跑的工作👍🏻，电池电池电池，我亲身验证的是基本上上出差一两天是可以忘记带充电器的，我感受到了从未有过的电量安全感。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #googleCloudShell 是 GCP 的免费的跑在一个VM里的 Shell，非常慷慨和良心，你在自己的目录下有一定的空间是持久化的，不用的时候他会把硬盘文件存到对象存储...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399698236554629120</id>
+        <link href="https://twitter.com/wey_gu/status/1399698236554629120"/>
+        <updated>2021-06-01T12:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Re #googleCloudShell 是 GCP 的免费的跑在一个VM里的 Shell，非常慷慨和良心，你在自己的目录下有一定的空间是持久化的，不用的时候他会把硬盘文件存到对象存储里。可能有些人不知道的是：1. 你可以从命令行连过去 2. 他的配置不低 基本上我们ad-hoc的一些开发编译工作都可以在上边快速的跑起来。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #uTools 是吸取了很多前辈 launcher 的存在，竟然做到了跨平台，虽然它也不开源，但是它不限于文本数组结构的插件输出设计让他的插件可以做的事情达到了不一...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399696919325151236</id>
+        <link href="https://twitter.com/wey_gu/status/1399696919325151236"/>
+        <updated>2021-06-01T11:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Re #uTools 是吸取了很多前辈 launcher 的存在，竟然做到了跨平台，虽然它也不开源，但是它不限于文本数组结构的插件输出设计让他的插件可以做的事情达到了不一样的维度(cheatsheet，json解析，文档速查，包含多媒体的剪切板历史)。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #typora 是我记录笔记，文章，工作中的唯一编辑器，在我的使用场景下，它的设计、性能都完全满足我的需求。 我唯一希望增加的功能就是支持 Grammerly 或者其...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399695058551459848</id>
+        <link href="https://twitter.com/wey_gu/status/1399695058551459848"/>
+        <updated>2021-06-01T11:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Re #typora 是我记录笔记，文章，工作中的唯一编辑器，在我的使用场景下，它的设计、性能都完全满足我的需求。
+我唯一希望增加的功能就是支持 Grammerly 或者其他的语法检查，不过现在看起来可能性比较小😭 https://github.com/typora/typora-issues/issues/1453]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #slidev 我一直在关注 #markdown 为核心的 slides editor，并且喜欢可以方便生成能放在 web server 上的（和支持 CLI的）的各种各样的轮子。我一看到 #slidev...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399694073775095817</id>
+        <link href="https://twitter.com/wey_gu/status/1399694073775095817"/>
+        <updated>2021-06-01T11:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Re #slidev 我一直在关注 #markdown 为核心的 slides editor，并且喜欢可以方便生成能放在 web server 上的（和支持 CLI的）的各种各样的轮子。我一看到 #slidev 出来就知道就是它了。它对我来说是 design taste, tech/engineering, product 三个维度都到了非常高的水准的存在。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #sublimeMerge，我是一个CLI Git用户，我实际上没使用过GUI的Git Client。我发现只有两个场景下我的内心是希望存在更 graphic 的工具的：1. 大量查看历史代码...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399692738610614278</id>
+        <link href="https://twitter.com/wey_gu/status/1399692738610614278"/>
+        <updated>2021-06-01T11:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Re #sublimeMerge，我是一个CLI Git用户，我实际上没使用过GUI的Git Client。我发现只有两个场景下我的内心是希望存在更 graphic 的工具的：1. 大量查看历史代码 2. 处理大量 merge conflict。在这个诉求下，sublime merge的资源占用、视觉设计、功能都完美匹配我的需求，即使抛去我用sublime text的因素]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #serverCat 真的太强大了，它不仅仅是一个远程server的mobile dashboard，你还能直接点一下就 ssh 到 server 上（不用在 iSH 里维护 ssh_config) 了，特别特...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399691521876586496</id>
+        <link href="https://twitter.com/wey_gu/status/1399691521876586496"/>
+        <updated>2021-06-01T11:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Re #serverCat 真的太强大了，它不仅仅是一个远程server的mobile dashboard，你还能直接点一下就 ssh 到 server 上（不用在 iSH 里维护 ssh_config) 了，特别特别 cool 的是，你能用它监控 server 里的 container，而且是那种你总是想截图分享的那种界面设计。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #GitHubMobile ，我日常的工作是在 github 上的，忘了今年还是去年推出的 mobile App 真的是良心之作，期待越来越好，现在的搜索功能我还不得不在浏览器里进...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399690867074494470</id>
+        <link href="https://twitter.com/wey_gu/status/1399690867074494470"/>
+        <updated>2021-06-01T11:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Re #GitHubMobile ，我日常的工作是在 github 上的，忘了今年还是去年推出的 mobile App 真的是良心之作，期待越来越好，现在的搜索功能我还不得不在浏览器里进行。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #iSH 让我在 iOS 和 iPadOS 上可以有一定程度的 CLI 能力，之前一直在 TestFlight 上分发，让我特别开心的是今年它居然能被 Apple 上架 App Store 👍🏻。]]></title>
+        <id>https://twitter.com/wey_gu/status/1399690352873730056</id>
+        <link href="https://twitter.com/wey_gu/status/1399690352873730056"/>
+        <updated>2021-06-01T11:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Re #iSH 让我在 iOS 和 iPadOS 上可以有一定程度的 CLI 能力，之前一直在 TestFlight 上分发，让我特别开心的是今年它居然能被 Apple 上架 App Store 👍🏻。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re #vxTrans 支撑了我作为远程办公开发者日常的基本网络需求，它是一个 affordable 的 tunnel，大大提升了我访问那些国内没有CDN的服务网络体验。 #vxServer 支...]]></title>
+        <id>https://twitter.com/wey_gu/status/1399689663019831298</id>
+        <link href="https://twitter.com/wey_gu/status/1399689663019831298"/>
+        <updated>2021-06-01T11:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Re #vxTrans 支撑了我作为远程办公开发者日常的基本网络需求，它是一个 affordable 的 tunnel，大大提升了我访问那些国内没有CDN的服务网络体验。
+#vxServer 支撑了我的个人 gh-pages 网站的国内访问加速，刚好最近支持 TLS http://cn.siwei.io]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All the Chinese miners are waiting for the result of tomorrow meeting in Sichuan.]]></title>
         <id>https://twitter.com/pancunai/status/1399672231450402818</id>
         <link href="https://twitter.com/pancunai/status/1399672231450402818"/>
@@ -380,6 +654,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[同事已经开始排暑假的休假安排了，休3周+基本是标配。但是我们还没有想好暑假可以去哪，十月一号之前我还有24天年假……，按我每周只工作四天算的话，可以休6周。]]></summary>
         <author>
             <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT yihong0618:  Re 感谢 @FanyangMeng]]></title>
+        <id>https://twitter.com/yihong06181/status/1399638686992535552</id>
+        <link href="https://twitter.com/yihong06181/status/1399638686992535552"/>
+        <updated>2021-06-01T08:07:21.000Z</updated>
+        <summary type="html"><![CDATA[RT yihong0618
+Re 感谢 @FanyangMeng https://wiki.mfydev.run/baiyin/intro/]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vxServer 将支持上传压缩包的形式，部署非 Github 仓库的静态资源，使其具备更广泛的用途。]]></title>
+        <id>https://twitter.com/VnetLink/status/1399610268779302917</id>
+        <link href="https://twitter.com/VnetLink/status/1399610268779302917"/>
+        <updated>2021-06-01T06:14:26.000Z</updated>
+        <summary type="html"><![CDATA[vxServer 将支持上传压缩包的形式，部署非 Github 仓库的静态资源，使其具备更广泛的用途。]]></summary>
+        <author>
+            <name>VnetLink</name>
         </author>
     </entry>
     <entry>
@@ -480,6 +775,17 @@ Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pynguin the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically. $ pip install pynguin]]></title>
+        <id>https://twitter.com/philipvollet/status/1399583562597347332</id>
+        <link href="https://twitter.com/philipvollet/status/1399583562597347332"/>
+        <updated>2021-06-01T04:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Pynguin the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.
+$ pip install pynguin https://github.com/se2p/pynguin]]></summary>
+        <author>
+            <name>Philip Vollet</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我不换了，搜了一下，四边有点暗在 va屏或窄边框似乎挺常见（我以前的普通ips没这样），今天的优惠价是 1999 啊，你在页面没领到券吗，保价...]]></title>
         <id>https://twitter.com/shrugged_hi/status/1399583459136339972</id>
         <link href="https://twitter.com/shrugged_hi/status/1399583459136339972"/>
@@ -500,6 +806,26 @@ Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[爷的contributor没了🥲]]></title>
+        <id>https://twitter.com/dragon_lyl/status/1399567567836958720</id>
+        <link href="https://twitter.com/dragon_lyl/status/1399567567836958720"/>
+        <updated>2021-06-01T03:24:45.000Z</updated>
+        <summary type="html"><![CDATA[爷的contributor没了🥲 https://github.com/oceanbase/oceanbase/pull/5#issuecomment-851776716]]></summary>
+        <author>
+            <name>李逸龙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前一秒听闻有一个朋友来访，而我刚写好这段话，看起来可以给他看。]]></title>
+        <id>https://twitter.com/sofish/status/1399566722240180225</id>
+        <link href="https://twitter.com/sofish/status/1399566722240180225"/>
+        <updated>2021-06-01T03:21:23.000Z</updated>
+        <summary type="html"><![CDATA[前一秒听闻有一个朋友来访，而我刚写好这段话，看起来可以给他看。]]></summary>
+        <author>
+            <name>小鱼（sofish）</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我买啦，但是感觉全白背景下，四边有点暗，你的是这样吗？]]></title>
         <id>https://twitter.com/shrugged_hi/status/1399558842413764609</id>
         <link href="https://twitter.com/shrugged_hi/status/1399558842413764609"/>
@@ -507,6 +833,26 @@ Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的
         <summary type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我买啦，但是感觉全白背景下，四边有点暗，你的是这样吗？]]></summary>
         <author>
             <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OB 开源，]]></title>
+        <id>https://twitter.com/zty0826/status/1399546477626630146</id>
+        <link href="https://twitter.com/zty0826/status/1399546477626630146"/>
+        <updated>2021-06-01T02:00:57.000Z</updated>
+        <summary type="html"><![CDATA[OB 开源， https://github.com/oceanbase/oceanbase/pull/5 http://CONTRIBUTING.md]]></summary>
+        <author>
+            <name>干物纯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 因为一些原因，这个文章可能会被删掉，我存在了 issues 中。]]></title>
+        <id>https://twitter.com/yihong06181/status/1399526230290960386</id>
+        <link href="https://twitter.com/yihong06181/status/1399526230290960386"/>
+        <updated>2021-06-01T00:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Re 因为一些原因，这个文章可能会被删掉，我存在了 issues 中。 https://github.com/yihong0618/running_page/issues/135]]></summary>
+        <author>
+            <name>yihong0618</name>
         </author>
     </entry>
     <entry>
@@ -569,6 +915,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @waylybaye 能给DAMA高级版加个“保留水印”的选项么，给你打打广告]]></title>
+        <id>https://twitter.com/zty0826/status/1399332878081687554</id>
+        <link href="https://twitter.com/zty0826/status/1399332878081687554"/>
+        <updated>2021-05-31T11:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @waylybaye 能给DAMA高级版加个“保留水印”的选项么，给你打打广告]]></summary>
+        <author>
+            <name>干物纯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 165: vxServer 现在增加了 SSL 的支持，现在您可以使用自己的 SSL 证书来部署 HTTPS 站点。]]></title>
+        <id>https://twitter.com/VnetLink/status/1399291120924839937</id>
+        <link href="https://twitter.com/VnetLink/status/1399291120924839937"/>
+        <updated>2021-05-31T09:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Version 165:
+vxServer 现在增加了 SSL 的支持，现在您可以使用自己的 SSL 证书来部署 HTTPS 站点。]]></summary>
+        <author>
+            <name>VnetLink</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @Tentamons ikbc]]></title>
         <id>https://twitter.com/shrugged_hi/status/1399262231318065155</id>
         <link href="https://twitter.com/shrugged_hi/status/1399262231318065155"/>
@@ -586,6 +953,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[新键盘，嘻嘻]]></summary>
         <author>
             <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12306确实挺厉害的了😂😂]]></title>
+        <id>https://twitter.com/abskoop/status/1399133990439723012</id>
+        <link href="https://twitter.com/abskoop/status/1399133990439723012"/>
+        <updated>2021-05-30T22:41:52.000Z</updated>
+        <summary type="html"><![CDATA[12306确实挺厉害的了😂😂]]></summary>
+        <author>
+            <name>ahhhhfs</name>
         </author>
     </entry>
     <entry>
@@ -619,6 +996,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我在 Qcon@路过 nebula 展台 #NebulaGraph]]></title>
+        <id>https://twitter.com/explorerzero/status/1398857852752601090</id>
+        <link href="https://twitter.com/explorerzero/status/1398857852752601090"/>
+        <updated>2021-05-30T04:24:36.000Z</updated>
+        <summary type="html"><![CDATA[我在 Qcon@路过 nebula 展台 #NebulaGraph]]></summary>
+        <author>
+            <name>侯容</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Batgirl doin her Batty-Thang on the Edge of The World!! #NFT #Batgirl #kuliouou #oahu #hawaii #Veveapp #Ecomifam ⁦@vevecollectible⁩ ⁦@ecomi_⁩]]></title>
         <id>https://twitter.com/VeVe0NE/status/1398838570647900165</id>
         <link href="https://twitter.com/VeVe0NE/status/1398838570647900165"/>
@@ -628,6 +1015,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 ⁦@vevecollectible⁩ ⁦@ecomi_⁩]]></summary>
         <author>
             <name>VeVe1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有个学弟（是的，学弟）很快要来北京帮做 Nebula。约饭已经安排上了。希望他以后不要和我一样废物]]></title>
+        <id>https://twitter.com/kivdaychen/status/1398822722310795268</id>
+        <link href="https://twitter.com/kivdaychen/status/1398822722310795268"/>
+        <updated>2021-05-30T02:05:00.000Z</updated>
+        <summary type="html"><![CDATA[有个学弟（是的，学弟）很快要来北京帮做 Nebula。约饭已经安排上了。希望他以后不要和我一样废物]]></summary>
+        <author>
+            <name>Kiv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @laixintao @lichuang 开放源代码， 开源协作，社区共识等。 以前面试过很多人，简历上都写着一句相同的话“热爱开源”，然后具体一问，PR/issue没提过，甚至...]]></title>
+        <id>https://twitter.com/zhangjintao9020/status/1398793937700024320</id>
+        <link href="https://twitter.com/zhangjintao9020/status/1398793937700024320"/>
+        <updated>2021-05-30T00:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @laixintao @lichuang 开放源代码， 开源协作，社区共识等。
+以前面试过很多人，简历上都写着一句相同的话“热爱开源”，然后具体一问，PR/issue没提过，甚至都没有过讨论（无论是GitHub 上或者其他渠道）。只不过是喜欢下载下来就能用的免费软件罢了]]></summary>
+        <author>
+            <name>Jintao Zhang</name>
         </author>
     </entry>
     <entry>
@@ -648,6 +1056,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[“每一个在昆明的人都觉得，大象是来找自己的”]]></summary>
         <author>
             <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wey_gu 一群小鸭子]]></title>
+        <id>https://twitter.com/ErichMeow/status/1398585659846053890</id>
+        <link href="https://twitter.com/ErichMeow/status/1398585659846053890"/>
+        <updated>2021-05-29T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @wey_gu 一群小鸭子]]></summary>
+        <author>
+            <name>Erich+Meow</name>
         </author>
     </entry>
     <entry>
@@ -2477,6 +2895,19 @@ Chore: Reorganize to monorepo with npm workspace.]]></summary>
 An open source network automation suite https://github.com/automateyournetwork/merlin]]></summary>
         <author>
             <name>John Capobianco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Wey Gu 古思为: 同学们，我们 #nebulaGraph 在招人，开发的role可以remote 。 工程师文化，开源，remote，求转发。 我们在做分布分布式图数据库 #graphDataba...]]></title>
+        <id>https://twitter.com/wey_gu/status/1393953916044275714</id>
+        <link href="https://twitter.com/wey_gu/status/1393953916044275714"/>
+        <updated>2021-05-16T15:38:06.000Z</updated>
+        <summary type="html"><![CDATA[RT Wey Gu 古思为
+同学们，我们 #nebulaGraph 在招人，开发的role可以remote 。
+工程师文化，开源，remote，求转发。
+我们在做分布分布式图数据库 #graphDatabase https://share.api.weibo.cn/share/222521209.html?weibo_id=4637624783868169]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
         </author>
     </entry>
     <entry>
