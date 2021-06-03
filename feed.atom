@@ -2,10 +2,534 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T02:39:56.080Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-03T03:07:28.176Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
+        <id>60afce3011ffb70827ef869c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
+        <updated>2021-06-02T23:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
+        <id>60b3a25211ffb70827ef9b39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
+        <updated>2021-06-02T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
+        <id>60b3ccee11ffb70827ef9bc0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
+        <updated>2021-06-02T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
+        <id>https://css-tricks.com/?p=341724</id>
+        <link href="https://css-tricks.com/debugging-ios-safari/"/>
+        <updated>2021-06-02T21:15:28.000Z</updated>
+        <summary type="html"><![CDATA[How do I debug Safari on iOS?
+These are my general steps, starting with not even using iOS Safari.
+1. Is this just a small-screen problem?
+Lemme just use the device mode in Chrome quick.
+Note that this does a …
+The post Debugging iOS Safari appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
+        <id>60a699b0906c5207e3a7f5ab</id>
+        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
+        <updated>2021-06-02T20:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
+        <id>60b0f11411ffb70827ef8dbc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
+        <updated>2021-06-02T19:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
+        <id>60b4ff4711ffb70827ef9eb2</id>
+        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
+        <updated>2021-06-02T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
+        <id>60b51f6e11ffb70827ef9f7c</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
+        <updated>2021-06-02T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
+        <id>https://css-tricks.com/?p=341442</id>
+        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
+        <updated>2021-06-02T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
+The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Dmitry Mayorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
+        <id>https://css-tricks.com/?p=341572</id>
+        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
+        <updated>2021-06-02T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
+The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDCCの古い設備でした。今日で退役です。お疲れ様でした。]]></title>
+        <id>https://twitter.com/projectdc01/status/1400058535564648452</id>
+        <link href="https://twitter.com/projectdc01/status/1400058535564648452"/>
+        <updated>2021-06-02T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[SDCCの古い設備でした。今日で退役です。お疲れ様でした。]]></summary>
+        <author>
+            <name>ProjectDC01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VonOliver7]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1400053890138230784</id>
+        <link href="https://twitter.com/xiaopeng163/status/1400053890138230784"/>
+        <updated>2021-06-02T11:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @VonOliver7]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要是真能拿到这个钱，估计想12点之前睡觉也不太可能吧]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1400041801709465600</id>
+        <link href="https://twitter.com/xiaopeng163/status/1400041801709465600"/>
+        <updated>2021-06-02T10:49:11.000Z</updated>
+        <summary type="html"><![CDATA[要是真能拿到这个钱，估计想12点之前睡觉也不太可能吧]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @waylybaye 赶紧先买了😓]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1400026894343495681</id>
+        <link href="https://twitter.com/xiaopeng163/status/1400026894343495681"/>
+        <updated>2021-06-02T09:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @waylybaye 赶紧先买了😓]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ETH= currency freedom+ contract freedom ETH= deflation/ stored-value asset+ interest-bearing/ capital goods Besides, the EIP 1559，ETH 2.0, ETH w...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1400006015093985282</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1400006015093985282"/>
+        <updated>2021-06-02T08:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Re ETH= currency freedom+ contract freedom
+ETH= deflation/ stored-value asset+ interest-bearing/ capital goods
+Besides, the EIP 1559，ETH 2.0, ETH will lead great growth in the second half of this atypical bull round, eventually surpass BTC market cap.
+We are 44% of that target.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Ethereum VS #BTC rate is too strong! Despite the market weakness, It has only dropped from the peak 0.08 to 0.07 since May 12, showing no sign of bea...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1400004997878849538</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1400004997878849538"/>
+        <updated>2021-06-02T08:22:56.000Z</updated>
+        <summary type="html"><![CDATA[#Ethereum VS #BTC rate is too strong! Despite the market weakness, It has only dropped from the peak 0.08 to 0.07 since May 12, showing no sign of bear market.  
+Various applications are running on #Ethereum : ICO, DeFi, NFT, etc.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Found this pic of me as a child]]></title>
+        <id>https://twitter.com/elonmusk/status/1399985389725753346</id>
+        <link href="https://twitter.com/elonmusk/status/1399985389725753346"/>
+        <updated>2021-06-02T07:05:02.000Z</updated>
+        <summary type="html"><![CDATA[Found this pic of me as a child]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[营销鬼才，变废为宝]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399877820772360192</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399877820772360192"/>
+        <updated>2021-06-01T23:57:35.000Z</updated>
+        <summary type="html"><![CDATA[营销鬼才，变废为宝]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code blocks, but better]]></title>
+        <id>https://css-tricks.com/?p=341720</id>
+        <link href="https://ped.ro/blog/code-blocks-but-better"/>
+        <updated>2021-06-01T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
+The post Code blocks, but better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe]]></title>
+        <id>60b1eed311ffb70827ef9504</id>
+        <link href="https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/"/>
+        <updated>2021-06-01T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ansible has a new open source, data, container, developer first interface called 'ansible-navigator' (included in the next @RedHat Ansible Automat...]]></title>
+        <id>https://twitter.com/codethenetwork/status/1399810005423980546</id>
+        <link href="https://twitter.com/codethenetwork/status/1399810005423980546"/>
+        <updated>2021-06-01T19:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @ansible has a new open source, data, container, developer first interface called 'ansible-navigator' (included in the next @RedHat Ansible Automation Platform release). Try today's alpha release. Help make this great. https://pypi.org/project/ansible-navigator/1.0.0a1/]]></summary>
+        <author>
+            <name>Brad Thornton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Next.js and Make React Development Simpler]]></title>
+        <id>60b668c0acb62507dd1d710b</id>
+        <link href="https://www.freecodecamp.org/news/learn-next-js/"/>
+        <updated>2021-06-01T17:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
+        <id>https://css-tricks.com/?p=341342</id>
+        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
+        <updated>2021-06-01T14:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
+The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Evgeny Klimenchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
+        <id>https://css-tricks.com/?p=341296</id>
+        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
+        <updated>2021-06-01T14:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
+The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 经过这两周的震荡，在没有什么特别明显利好的情况下，目前的价格基本到底了，计划长期持有的话，是个入场的时机，现在还是属于非常早期。（非投资建议）]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1399712800013008901</id>
+        <link href="https://twitter.com/xiaopeng163/status/1399712800013008901"/>
+        <updated>2021-06-01T13:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Re 经过这两周的震荡，在没有什么特别明显利好的情况下，目前的价格基本到底了，计划长期持有的话，是个入场的时机，现在还是属于非常早期。（非投资建议）]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the Chinese miners are waiting for the result of tomorrow meeting in Sichuan.]]></title>
+        <id>https://twitter.com/pancunai/status/1399672231450402818</id>
+        <link href="https://twitter.com/pancunai/status/1399672231450402818"/>
+        <updated>2021-06-01T10:20:39.000Z</updated>
+        <summary type="html"><![CDATA[All the Chinese miners are waiting for the result of tomorrow meeting in Sichuan. https://www.reuters.com/world/china/widening-chinese-bitcoin-crackdown-sichuan-probe-cryptomining-official-2021-05-27/]]></summary>
+        <author>
+            <name>Arnaud_ding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【增长黑客周刊】英文播客转中文翻译的尝试（招内测）（20210601）]]></title>
+        <id>https://mailchi.mp/2ffa0106db63/i3ezqv3zws-4947530</id>
+        <link href="https://mailchi.mp/2ffa0106db63/i3ezqv3zws-4947530"/>
+        <updated>2021-06-01T08:52:25.000Z</updated>
+        <summary type="html"><![CDATA[96
+            
+        
+        
+        
+        
+        
+        【增长黑客周刊】英文播客转中文翻译的尝试（招内测）（20210601）
+        
+    
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=s…]]></summary>
+        <author>
+            <name>增长黑客通讯周刊 Archive Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈佛幸福课 第二十讲笔记  幽默是一种正念视角]]></title>
+        <id>https://ljf.com/?p=1009</id>
+        <link href="https://ljf.com/2021/06/01/1009/"/>
+        <updated>2021-06-01T08:38:31.000Z</updated>
+        <summary type="html"><![CDATA[幽默是一种选择 有意的去选择 怎样去看待这个世界  弗洛伊德 本我 自我 超为幽默是对压抑的释放  亨利 伯根森幽默是一种社会纠正器 Dale Sturtevant 幽默是一种正念视角 阿尔法因素和贝塔因素阿尔法因素指 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同事已经开始排暑假的休假安排了，休3周+基本是标配。但是我们还没有想好暑假可以去哪，十月一号之前我还有24天年假……，按我每周只工作四天算的话，可以休6周...]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1399640596558630916</id>
+        <link href="https://twitter.com/xiaopeng163/status/1399640596558630916"/>
+        <updated>2021-06-01T08:14:56.000Z</updated>
+        <summary type="html"><![CDATA[同事已经开始排暑假的休假安排了，休3周+基本是标配。但是我们还没有想好暑假可以去哪，十月一号之前我还有24天年假……，按我每周只工作四天算的话，可以休6周。]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @virushuo 啊，感谢霍老师]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399605314131959811</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399605314131959811"/>
+        <updated>2021-06-01T05:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @virushuo 啊，感谢霍老师]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @mrseaox @virushuo 哈哈，没办法，“请允许我在传统文本上讨论超文本，本书中出现的几位先驱也曾这样做，就像电子迷宫网站（The Electronic Labyrinth）说的...]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399604787264385024</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399604787264385024"/>
+        <updated>2021-06-01T05:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @mrseaox @virushuo 哈哈，没办法，“请允许我在传统文本上讨论超文本，本书中出现的几位先驱也曾这样做，就像电子迷宫网站（The Electronic Labyrinth）说的那样：‘任何为出版图书面写超文本的人都面临一个直接矛盾一一一本赞美电子文本优点的纸质书。’”]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实体书对我买起来有点困难，但看了作者手记我就决定可以推荐这本书了。买买买！]]></title>
+        <id>https://twitter.com/virushuo/status/1399602146379808770</id>
+        <link href="https://twitter.com/virushuo/status/1399602146379808770"/>
+        <updated>2021-06-01T05:42:09.000Z</updated>
+        <summary type="html"><![CDATA[实体书对我买起来有点困难，但看了作者手记我就决定可以推荐这本书了。买买买！
+黄猫: 感谢读库，欢迎购买]]></summary>
+        <author>
+            <name>virushuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这篇写的太好了，现在很少有人关心链接，但是链接又如此重要，而且充满了隐喻。]]></title>
+        <id>https://twitter.com/virushuo/status/1399601915219124227</id>
+        <link href="https://twitter.com/virushuo/status/1399601915219124227"/>
+        <updated>2021-06-01T05:41:14.000Z</updated>
+        <summary type="html"><![CDATA[这篇写的太好了，现在很少有人关心链接，但是链接又如此重要，而且充满了隐喻。
+黄猫: 写了篇作者手记，“超链接的自由是信息的自由。”
+不过，任何在国内互联网写超链接的人都面临一个直接矛盾：文章里的超链接常常无法显现或正常跳转。
+ https://mp.weixin.qq.com/s/QID9vDZqsUeKjfXf4NMVaQ]]></summary>
+        <author>
+            <name>virushuo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 叠加优惠券的价格，普通的保价似乎会失败，有时要下一单不付款，用截图和订单号找人工客服保价。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399599824102584327</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399599824102584327"/>
+        <updated>2021-06-01T05:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 叠加优惠券的价格，普通的保价似乎会失败，有时要下一单不付款，用截图和订单号找人工客服保价。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Kenshin:  Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的内容（略长），算作是这一大段时间对简悦的一个总结。 因为 2.2 的发布才是简悦真...]]></title>
+        <id>https://twitter.com/wanglei001/status/1399592997537255427</id>
+        <link href="https://twitter.com/wanglei001/status/1399592997537255427"/>
+        <updated>2021-06-01T05:05:48.000Z</updated>
+        <summary type="html"><![CDATA[RT Kenshin
+Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的内容（略长），算作是这一大段时间对简悦的一个总结。
+因为 2.2 的发布才是简悦真正意义的 2.0 版本。]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的内容（略长），算作是这一大段时间对简悦的一个总结。 因为 2.2 的发布才是简悦真正意义的 2.0 ...]]></title>
+        <id>https://twitter.com/wanglei001/status/1399592997537255427</id>
+        <link href="https://twitter.com/wanglei001/status/1399592997537255427"/>
+        <updated>2021-06-01T05:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Re 今天是 #简悦 上架到 Chrome Webstore 四周年，写了一些简悦的内容（略长），算作是这一大段时间对简悦的一个总结。
+因为 2.2 的发布才是简悦真正意义的 2.0 版本。]]></summary>
+        <author>
+            <name>Kenshin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 对]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399592850375929856</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399592850375929856"/>
+        <updated>2021-06-01T05:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 对]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.10.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
+        <updated>2021-06-01T04:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我不换了，搜了一下，四边有点暗在 va屏或窄边框似乎挺常见（我以前的普通ips没这样），今天的优惠价是 1999 啊，你在页面没领到券吗，保价...]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399583459136339972</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399583459136339972"/>
+        <updated>2021-06-01T04:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我不换了，搜了一下，四边有点暗在 va屏或窄边框似乎挺常见（我以前的普通ips没这样），今天的优惠价是 1999 啊，你在页面没领到券吗，保价或换个账号领券下单吧。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 感谢]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399578121477648384</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399578121477648384"/>
+        <updated>2021-06-01T04:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 感谢]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我买啦，但是感觉全白背景下，四边有点暗，你的是这样吗？]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399558842413764609</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399558842413764609"/>
+        <updated>2021-06-01T02:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @KpF0hEvuq4IbgFQ 我买啦，但是感觉全白背景下，四边有点暗，你的是这样吗？]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了篇作者手记，“超链接的自由是信息的自由。” 不过，任何在国内互联网写超链接的人都面临一个直接矛盾：文章里的超链接常常无法显现或正常跳转。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399515009340768256</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399515009340768256"/>
+        <updated>2021-05-31T23:55:54.000Z</updated>
+        <summary type="html"><![CDATA[写了篇作者手记，“超链接的自由是信息的自由。”
+不过，任何在国内互联网写超链接的人都面临一个直接矛盾：文章里的超链接常常无法显现或正常跳转。 https://mp.weixin.qq.com/s/QID9vDZqsUeKjfXf4NMVaQ]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5/29 的 Rust 培训复盘及视频]]></title>
+        <id>https://mp.weixin.qq.com/s/bU3U-lyc7kMoEgOB0_unIw</id>
+        <link href="https://mp.weixin.qq.com/s/bU3U-lyc7kMoEgOB0_unIw"/>
+        <updated>2021-05-31T22:17:48.000Z</updated>
+        <summary type="html"><![CDATA[前几天一次突发奇想，促成了上周六的 Rust 培训。这篇文章是个复盘。视频链接见「查看原文」]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
         <id>https://css-tricks.com/?p=340465</id>
@@ -42,6 +566,26 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[隔壁这装修，刚好是我面对的这堵墙，没法工作了😭]]></summary>
         <author>
             <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Tentamons ikbc]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399262231318065155</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399262231318065155"/>
+        <updated>2021-05-31T07:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @Tentamons ikbc]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新键盘，嘻嘻]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1399243272967528448</id>
+        <link href="https://twitter.com/shrugged_hi/status/1399243272967528448"/>
+        <updated>2021-05-31T05:56:07.000Z</updated>
+        <summary type="html"><![CDATA[新键盘，嘻嘻]]></summary>
+        <author>
+            <name>黄猫</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +641,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“每一个在昆明的人都觉得，大象是来找自己的”]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1398716686740561920</id>
+        <link href="https://twitter.com/shrugged_hi/status/1398716686740561920"/>
+        <updated>2021-05-29T19:03:39.000Z</updated>
+        <summary type="html"><![CDATA[“每一个在昆明的人都觉得，大象是来找自己的”]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[这个保安小哥哥要火了。]]></title>
         <id>https://twitter.com/Onebtcer/status/1398565920499449863</id>
         <link href="https://twitter.com/Onebtcer/status/1398565920499449863"/>
@@ -104,6 +658,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[这个保安小哥哥要火了。]]></summary>
         <author>
             <name>武汉普通人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想起一件事。初中，微机教室，和同学用局域网共享文件夹里的 TXT 文档聊天。遗憾的是，全是男同学。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1398467921320366083</id>
+        <link href="https://twitter.com/shrugged_hi/status/1398467921320366083"/>
+        <updated>2021-05-29T02:35:09.000Z</updated>
+        <summary type="html"><![CDATA[想起一件事。初中，微机教室，和同学用局域网共享文件夹里的 TXT 文档聊天。遗憾的是，全是男同学。]]></summary>
+        <author>
+            <name>黄猫</name>
         </author>
     </entry>
     <entry>
@@ -252,6 +816,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Probably no new regulatory policy will be released on Friday. For a sector (#Bitcoin mining) that involves lots interests: power consumption, job crea...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1397880981110116357</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1397880981110116357"/>
+        <updated>2021-05-27T11:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Probably no new regulatory policy will be released on Friday. For a sector (#Bitcoin mining) that involves lots interests: power consumption, job creation, power grid revenue, government tax, etc., difficult for stakeholders to reach consensus within 1 week.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[哈佛幸福课 第十八讲 睡眠、触摸和亲密关系]]></title>
         <id>https://ljf.com/?p=1005</id>
         <link href="https://ljf.com/2021/05/27/1005/"/>
@@ -259,6 +833,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[睡眠应该把睡眠看成一项投资 每天需要的睡眠大概是8个小时 睡眠的好处 1，增强免疫系统 2，精力 3，缺乏熟眠导致肥胖 4，缺乏熟眠会导致交通事故 5，缺乏睡眠会导致认知能力下降 6，缺乏睡眠会导致发脾气 7 …]]></summary>
         <author>
             <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[？？？]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1397722483789205507</id>
+        <link href="https://twitter.com/shrugged_hi/status/1397722483789205507"/>
+        <updated>2021-05-27T01:13:03.000Z</updated>
+        <summary type="html"><![CDATA[？？？]]></summary>
+        <author>
+            <name>黄猫</name>
         </author>
     </entry>
     <entry>
@@ -378,6 +962,16 @@ Thank you @Zenigata]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这个周末，要不要学点 Rust？]]></title>
+        <id>https://mp.weixin.qq.com/s/tkH6zZt5vsDL2gld6ufk2w</id>
+        <link href="https://mp.weixin.qq.com/s/tkH6zZt5vsDL2gld6ufk2w"/>
+        <updated>2021-05-26T05:30:08.000Z</updated>
+        <summary type="html"><![CDATA[北京时间 5/29 周六 11:50am-4:00pm，4小时 Rust 入门课程，来不来？]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
         <id>60ac3a2711ffb70827ef6aec</id>
         <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
@@ -423,6 +1017,36 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @JieYi26066636 Indeed, decentralization is better.]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1397160101094445064</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1397160101094445064"/>
+        <updated>2021-05-25T11:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @JieYi26066636 Indeed, decentralization is better.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EricYan27730637 @fiona__klein Most of us, the veteran miners are true believers & Hodles of BTC, massively dumping btc is unlikely to happen.]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1397159913017675778</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1397159913017675778"/>
+        <updated>2021-05-25T11:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @EricYan27730637 @fiona__klein Most of us, the veteran miners are true believers & Hodles of BTC, massively dumping btc is unlikely to happen.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @HoraRaminder The WHO report concluded that it is "extremely unlikely" that Coronavirus linked from laboratory.]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1397159349684871168</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1397159349684871168"/>
+        <updated>2021-05-25T11:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @HoraRaminder The WHO report concluded that it is "extremely unlikely" that Coronavirus linked from laboratory. https://www.nature.com/articles/d41586-021-00877-4]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @UniversalVeve @ronenglishart @vevecollectible Why thank you! @DavidYuNZ has been friends with Ron for many years, we can't wait to share more info...]]></title>
         <id>https://twitter.com/ecomi_/status/1397159178087538691</id>
         <link href="https://twitter.com/ecomi_/status/1397159178087538691"/>
@@ -460,6 +1084,49 @@ To participate:
  🍀 The NFTs will be added to http://ecomi.win http://ecomi.win http://ecomi.win]]></summary>
         <author>
             <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @forkhouhou 苏堤散步]]></title>
+        <id>https://twitter.com/plidezus/status/1397037605745659904</id>
+        <link href="https://twitter.com/plidezus/status/1397037605745659904"/>
+        <updated>2021-05-25T03:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @forkhouhou 苏堤散步]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Albert_LiuBin @huhexian 等我们的国际版吧，到时候会放在 AWS]]></title>
+        <id>https://twitter.com/plidezus/status/1397037467564339201</id>
+        <link href="https://twitter.com/plidezus/status/1397037467564339201"/>
+        <updated>2021-05-25T03:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @Albert_LiuBin @huhexian 等我们的国际版吧，到时候会放在 AWS]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感谢推荐]]></title>
+        <id>https://twitter.com/plidezus/status/1397037373641216001</id>
+        <link href="https://twitter.com/plidezus/status/1397037373641216001"/>
+        <updated>2021-05-25T03:50:40.000Z</updated>
+        <summary type="html"><![CDATA[感谢推荐
+小胡同学: 虽然已经注册120天，实际使用是在这几天内，使用体验特别舒服。有想试试的可以从这个链接注册：
+大赞 #flomo
+ https://flomoapp.com/register2/?Mjk0OTA]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @fiona__klein @JiangZhuoer the majority miners, like @JiangZhuoer, are veteran crosing several bull and bear circle, at least in this bullish momen...]]></title>
+        <id>https://twitter.com/EricYan27730637/status/1397005707258388481</id>
+        <link href="https://twitter.com/EricYan27730637/status/1397005707258388481"/>
+        <updated>2021-05-25T01:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @fiona__klein @JiangZhuoer the majority miners, like @JiangZhuoer, are veteran crosing several bull and bear circle, at least in this bullish moment,  they have a beautiful balance sheet than ever. not like new traders like me.😢😢😢]]></summary>
+        <author>
+            <name>Eric Yang</name>
         </author>
     </entry>
     <entry>
@@ -542,6 +1209,26 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @JiangZhuoer Exactly what I was thinking but in caveman terms. 😂]]></title>
+        <id>https://twitter.com/ShroomsVision/status/1396898875030519817</id>
+        <link href="https://twitter.com/ShroomsVision/status/1396898875030519817"/>
+        <updated>2021-05-24T18:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @JiangZhuoer Exactly what I was thinking but in caveman terms. 😂]]></summary>
+        <author>
+            <name>Jt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JiangZhuoer @100trillionUSD In fact, those are great news to BTC]]></title>
+        <id>https://twitter.com/ConceInvestment/status/1396897433490186240</id>
+        <link href="https://twitter.com/ConceInvestment/status/1396897433490186240"/>
+        <updated>2021-05-24T18:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @JiangZhuoer @100trillionUSD In fact, those are great news to BTC]]></summary>
+        <author>
+            <name>Pasaba por aquí</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @hmm_xchan 荷兰这个应该是最齁的，太甜了😓]]></title>
         <id>https://twitter.com/xiaopeng163/status/1396850295137705985</id>
         <link href="https://twitter.com/xiaopeng163/status/1396850295137705985"/>
@@ -592,6 +1279,151 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[也许这一代中国企业家的使命，就是去解决包括服务业在内的很多领域的基础品质问题。 不要求提供的服务有多好，但是要求能够保持不差，也就是能够提供基本水平之上的稳定的服务。【方差小】 读书是一项最北 …]]></summary>
         <author>
             <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re During the process, there will not be obvious changes in the entire Bitcoin network, except that European and North American mining pools will rank...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396775670500442116</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396775670500442116"/>
+        <updated>2021-05-24T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Re During the process, there will not be obvious changes in the entire Bitcoin network, except that European and North American mining pools will rank higher than the Chinese pools.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re In the end, Chinese hashpower will flow abroad just like the Exchanges did in 2017, China will play a less significant role in the global hashpower...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396774593537495042</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396774593537495042"/>
+        <updated>2021-05-24T10:26:28.000Z</updated>
+        <summary type="html"><![CDATA[Re In the end, Chinese hashpower will flow abroad just like the Exchanges did in 2017, China will play a less significant role in the global hashpower distribution.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re But in the long run, if China takes regulatory actions against crypto mining, then major Chinese manufactures #bitmain will probably sell most of t...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396773325746147329</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396773325746147329"/>
+        <updated>2021-05-24T10:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Re But in the long run, if China takes regulatory actions against crypto mining, then major Chinese manufactures #bitmain will probably sell most of their machines aborad:
+Selling domestic = violation of regulation
+Selling aboard = earn foreign currency]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re In conclusion, #Bicoin mining will exist as normal, except the mining in China will be shifted from industrial-size datacenters to home miners, sma...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396771484828409856</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396771484828409856"/>
+        <updated>2021-05-24T10:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Re In conclusion, #Bicoin mining will exist as normal, except the mining in China will be shifted from industrial-size datacenters to home miners, small or medium sized miners. The entire Bitcoin network will always be strong even its hashrate decline by 50%.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Although home miners pay higher electricity costs, the whole industry becomes less efficient , the number of running machines will decline, making ...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396770299417354240</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396770299417354240"/>
+        <updated>2021-05-24T10:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Re Although home miners pay higher electricity costs, the whole industry becomes less efficient , the number of running machines will decline, making the output per unit rise and counterbalancing the impact of rising power costs.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Given that home-based miners need new machines, and they are not the target of this crackdown, in addition, most of the cutting-edge machines will ...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396769568920678403</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396769568920678403"/>
+        <updated>2021-05-24T10:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Re Given that home-based miners need new machines, and they are not the target of this crackdown, in addition, most of the cutting-edge machines will be shipped overseas, the machines' price will remain in a reasonable price range.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re At the end of 2013, when I first entered the cryptocurrency industry, I bought two graphic card miners to mine at home, because at that time, one m...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396768685075861504</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396768685075861504"/>
+        <updated>2021-05-24T10:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Re At the end of 2013, when I first entered the cryptocurrency industry, I bought two graphic card miners to mine at home, because at that time, one miner can generate a $500-$700 revenue per month. We were glad to earn this extra income.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Small miners install several miners at home; Medium miners set dozens of miners in a warehouse or a few hundred miners in a factory; Veteran miners...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396767430123393024</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396767430123393024"/>
+        <updated>2021-05-24T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Re Small miners install several miners at home;
+Medium miners set dozens of miners in a warehouse or a few hundred miners in a factory;
+Veteran miners find a small remote hydroelectric power plant and locate there a couple thousand miners.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Large datacenter and major veteran miners may suffer a significant loss this time, while the whole Bitcoin network  will be as resilient as always....]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396765982249689088</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396765982249689088"/>
+        <updated>2021-05-24T09:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Re Large datacenter and major veteran miners may suffer a significant loss this time, while the whole Bitcoin network  will be as resilient as always.
+The worst scenario would be: large datacenters are shut down and we go back to old days in 2014-15.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re In September 2017, all China-based exchanges were required to be shut down, but users were given enough time to withdraw their tokens and none of t...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396762746092408834</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396762746092408834"/>
+        <updated>2021-05-24T09:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Re In September 2017, all China-based exchanges were required to be shut down, but users were given enough time to withdraw their tokens and none of their crypto assets were seized by the government.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re For instance, In the Announcement on Preventing the Risks of Token Issuance and Financing on September 4, 2017, the ICOs were banned, but ICOs issu...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396762201818648577</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396762201818648577"/>
+        <updated>2021-05-24T09:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Re For instance, In the Announcement on Preventing the Risks of Token Issuance and Financing on September 4, 2017, the ICOs were banned, but ICOs issued prior to that date were not punished as long as the issuers refunded investors at the fund raising price.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re but that Notice also stated that "Bitcoin trade, as an online purchase and sale activity, the general public has the freedom to take part in at the...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396760980747689991</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396760980747689991"/>
+        <updated>2021-05-24T09:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Re but that Notice also stated that "Bitcoin trade, as an online purchase and sale activity, the general public has the freedom to take part in at their own risk. "]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re This minutes repeated the definition for #Bitcoin trading in 2013 "Notice on Preventing Bitcoin Risks Issued by the People's Bank and Five Other Mi...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396760390046990338</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396760390046990338"/>
+        <updated>2021-05-24T09:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Re This minutes repeated the definition for #Bitcoin trading in 2013 "Notice on Preventing Bitcoin Risks Issued by the People's Bank and Five Other Ministries": Financial and payment institutions shall not participate in or provide service for #Bitcoin trading.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re In other words, individual mining is and has always been allowed as long as you're responsible for your own risks and profits, whilst the mining op...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1396758868085067777</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1396758868085067777"/>
+        <updated>2021-05-24T09:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Re In other words, individual mining is and has always been allowed as long as you're responsible for your own risks and profits, whilst the mining operated by financial capital might be forbiddend.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
         </author>
     </entry>
     <entry>
@@ -661,6 +1493,27 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @JohnWangYR7 前端要杀人了]]></title>
+        <id>https://twitter.com/plidezus/status/1396691650320076800</id>
+        <link href="https://twitter.com/plidezus/status/1396691650320076800"/>
+        <updated>2021-05-24T04:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @JohnWangYR7 前端要杀人了]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@直走的螃蟹 和  lupeng 接力完成的kindle2flomo上线了。 快把你的kindle从泡面上拿下来充充电，让读书笔记回家啦]]></title>
+        <id>https://twitter.com/plidezus/status/1396691516337188865</id>
+        <link href="https://twitter.com/plidezus/status/1396691516337188865"/>
+        <updated>2021-05-24T04:56:21.000Z</updated>
+        <summary type="html"><![CDATA[@直走的螃蟹 和  lupeng 接力完成的kindle2flomo上线了。
+快把你的kindle从泡面上拿下来充充电，让读书笔记回家啦 https://tit1e.github.io/kindle2Flomo/]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[所谓「陪伴需求」就是打发时间的需求。想通这点，退订了一波解决陪伴需求的播客。我想不应该存在这么多被打发的时间。]]></title>
         <id>https://twitter.com/XDash/status/1396681987008524289</id>
         <link href="https://twitter.com/XDash/status/1396681987008524289"/>
@@ -682,6 +1535,47 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[也无风雨也无晴]]></title>
+        <id>https://twitter.com/plidezus/status/1396674359465443331</id>
+        <link href="https://twitter.com/plidezus/status/1396674359465443331"/>
+        <updated>2021-05-24T03:48:10.000Z</updated>
+        <summary type="html"><![CDATA[也无风雨也无晴]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ThaddeusJiang 有你在，很安心]]></title>
+        <id>https://twitter.com/plidezus/status/1396674134298353664</id>
+        <link href="https://twitter.com/plidezus/status/1396674134298353664"/>
+        <updated>2021-05-24T03:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @ThaddeusJiang 有你在，很安心]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @liuyi0922 真棒！不过那个设计和实现确实没话说，赞的很]]></title>
+        <id>https://twitter.com/plidezus/status/1396674001255034880</id>
+        <link href="https://twitter.com/plidezus/status/1396674001255034880"/>
+        <updated>2021-05-24T03:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @liuyi0922 真棒！不过那个设计和实现确实没话说，赞的很]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早上看到Alan duan同学给沉思录的反馈很有趣 不要把事与愿违看作是一种「失败」—— 把它想成一个你发掘的「不匹配性」。]]></title>
+        <id>https://twitter.com/plidezus/status/1396673796812120064</id>
+        <link href="https://twitter.com/plidezus/status/1396673796812120064"/>
+        <updated>2021-05-24T03:45:56.000Z</updated>
+        <summary type="html"><![CDATA[早上看到Alan duan同学给沉思录的反馈很有趣
+不要把事与愿违看作是一种「失败」—— 把它想成一个你发掘的「不匹配性」。]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[罗素的老师怀特海说：「智慧增长，知识就会消减，因为细节会被原则包容。」]]></title>
         <id>https://twitter.com/XDash/status/1396644616917590016</id>
         <link href="https://twitter.com/XDash/status/1396644616917590016"/>
@@ -689,6 +1583,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[罗素的老师怀特海说：「智慧增长，知识就会消减，因为细节会被原则包容。」]]></summary>
         <author>
             <name>XDash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索 libp2p：基本知识]]></title>
+        <id>https://mp.weixin.qq.com/s/0dtf-OrPb01iRuTl1Bv-0Q</id>
+        <link href="https://mp.weixin.qq.com/s/0dtf-OrPb01iRuTl1Bv-0Q"/>
+        <updated>2021-05-24T00:46:59.000Z</updated>
+        <summary type="html"><![CDATA[这周我们来讲讲 libp2p。题图：海蒂和爷爷。一部非常治愈的电影，推荐！]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
         </author>
     </entry>
     <entry>
@@ -733,6 +1637,26 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re 夹在大家伙之间，被归为冷知识......]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1396242946240835587</id>
+        <link href="https://twitter.com/shrugged_hi/status/1396242946240835587"/>
+        <updated>2021-05-22T23:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Re 夹在大家伙之间，被归为冷知识......]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忘记在哪看到，滥用类比的科普作家早晚要入地狱]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1396229316669804547</id>
+        <link href="https://twitter.com/shrugged_hi/status/1396229316669804547"/>
+        <updated>2021-05-22T22:19:44.000Z</updated>
+        <summary type="html"><![CDATA[忘记在哪看到，滥用类比的科普作家早晚要入地狱]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#MDClock 𝙽𝙴𝙾𝙽 with charging animation]]></title>
         <id>https://twitter.com/liuyi0922/status/1396077141477888001</id>
         <link href="https://twitter.com/liuyi0922/status/1396077141477888001"/>
@@ -740,6 +1664,16 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[#MDClock 𝙽𝙴𝙾𝙽 with charging animation https://mdclock.app]]></summary>
         <author>
             <name>61</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @shidenggui 缘分很奇妙]]></title>
+        <id>https://twitter.com/plidezus/status/1395982755813642242</id>
+        <link href="https://twitter.com/plidezus/status/1395982755813642242"/>
+        <updated>2021-05-22T05:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @shidenggui 缘分很奇妙]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
         </author>
     </entry>
     <entry>
@@ -765,6 +1699,16 @@ Ping.: 5月30号，我们将在广州未来社举办一次WWDC21 的开发者�
  https://mp.weixin.qq.com/s/nH6rz34s5bXGJV7ADAiZWw]]></summary>
         <author>
             <name>61</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flomo居然被回形针推荐了]]></title>
+        <id>https://twitter.com/plidezus/status/1395966006325960716</id>
+        <link href="https://twitter.com/plidezus/status/1395966006325960716"/>
+        <updated>2021-05-22T04:53:26.000Z</updated>
+        <summary type="html"><![CDATA[flomo居然被回形针推荐了 https://mp.weixin.qq.com/s/8Ht7TXooK-w2e0eOds0v5g]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
         </author>
     </entry>
     <entry>
@@ -826,6 +1770,69 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[不转不行]]></title>
+        <id>https://twitter.com/plidezus/status/1395656197739483136</id>
+        <link href="https://twitter.com/plidezus/status/1395656197739483136"/>
+        <updated>2021-05-21T08:22:22.000Z</updated>
+        <summary type="html"><![CDATA[不转不行
+61: 把 idea 做出来的感觉很好 #谜底时钟
+ https://mdclock.app]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kevinzhow 我去，居然这样了？]]></title>
+        <id>https://twitter.com/plidezus/status/1395656101752819714</id>
+        <link href="https://twitter.com/plidezus/status/1395656101752819714"/>
+        <updated>2021-05-21T08:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @kevinzhow 我去，居然这样了？]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @zachzhaozy 过份和谐]]></title>
+        <id>https://twitter.com/plidezus/status/1395656041010917376</id>
+        <link href="https://twitter.com/plidezus/status/1395656041010917376"/>
+        <updated>2021-05-21T08:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @zachzhaozy 过份和谐]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wshuyi 感谢]]></title>
+        <id>https://twitter.com/plidezus/status/1395655966012502017</id>
+        <link href="https://twitter.com/plidezus/status/1395655966012502017"/>
+        <updated>2021-05-21T08:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @wshuyi 感谢]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Lsama0 好事不怕等]]></title>
+        <id>https://twitter.com/plidezus/status/1395655934765006851</id>
+        <link href="https://twitter.com/plidezus/status/1395655934765006851"/>
+        <updated>2021-05-21T08:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @Lsama0 好事不怕等]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Bitcoin is still leaving Coinbase's balances. The trend is intact. However, it seems broken on overall charts because of the increase on Binance.]]></title>
+        <id>https://twitter.com/mskvsk/status/1395647883844755458</id>
+        <link href="https://twitter.com/mskvsk/status/1395647883844755458"/>
+        <updated>2021-05-21T07:49:20.000Z</updated>
+        <summary type="html"><![CDATA[#Bitcoin is still leaving Coinbase's balances.
+The trend is intact. However, it seems broken on overall charts because of the increase on Binance.]]></summary>
+        <author>
+            <name>Lex Moskovski</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[把 idea 做出来的感觉很好 #谜底时钟]]></title>
         <id>https://twitter.com/liuyi0922/status/1395610684050735104</id>
         <link href="https://twitter.com/liuyi0922/status/1395610684050735104"/>
@@ -879,6 +1886,26 @@ Plidezus 少楠: flomo被果子老爷推荐了，开心😊]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[flomo被果子老爷推荐了，开心😊]]></title>
+        <id>https://twitter.com/plidezus/status/1395596837394948101</id>
+        <link href="https://twitter.com/plidezus/status/1395596837394948101"/>
+        <updated>2021-05-21T04:26:29.000Z</updated>
+        <summary type="html"><![CDATA[flomo被果子老爷推荐了，开心😊]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @AstroJordy @Tesla We can’t wait to build this crazy truck! It’s a total rethink of vehicle mechanical architecture & production methods, so supe...]]></title>
+        <id>https://twitter.com/elonmusk/status/1395553735510663169</id>
+        <link href="https://twitter.com/elonmusk/status/1395553735510663169"/>
+        <updated>2021-05-21T01:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @AstroJordy @Tesla We can’t wait to build this crazy truck! It’s a total rethink of vehicle mechanical architecture & production methods, so super hard project, but worthwhile in the end.]]></summary>
+        <author>
+            <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Body shaming and it’s effect on our #digitalcollectibles’ mental health.   We love you #batman #DadbodBatman 💪  Another great drop today... keep ...]]></title>
         <id>https://twitter.com/cryptofreshwest/status/1395541580266737665</id>
         <link href="https://twitter.com/cryptofreshwest/status/1395541580266737665"/>
@@ -889,6 +1916,16 @@ Another great drop today... keep them coming @vevecollectible @ecomi_
 #VeVe #NFT #AR #AugmentedReality]]></summary>
         <author>
             <name>cryptofreshwest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @shrugged_hi]]></title>
+        <id>https://twitter.com/musiccow/status/1395531154367860739</id>
+        <link href="https://twitter.com/musiccow/status/1395531154367860739"/>
+        <updated>2021-05-21T00:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @shrugged_hi]]></summary>
+        <author>
+            <name>P</name>
         </author>
     </entry>
     <entry>
@@ -916,6 +1953,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[截自：The Invention of Comfort - John E. Crowley]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1395476340145483776</id>
+        <link href="https://twitter.com/shrugged_hi/status/1395476340145483776"/>
+        <updated>2021-05-20T20:27:40.000Z</updated>
+        <summary type="html"><![CDATA[截自：The Invention of Comfort - John E. Crowley]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
         <id>60a6b3ab906c5207e3a7f5fa</id>
         <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
@@ -926,6 +1973,18 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[你挑选公众号，精简联系人，屏蔽亲友群，少打开朋友圈，以为能逃过垃圾内容。 结果刚打开订阅号，一坨粪便就塞你嘴里。 前三个都是推荐/广告。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1395449803929128961</id>
+        <link href="https://twitter.com/shrugged_hi/status/1395449803929128961"/>
+        <updated>2021-05-20T18:42:14.000Z</updated>
+        <summary type="html"><![CDATA[你挑选公众号，精简联系人，屏蔽亲友群，少打开朋友圈，以为能逃过垃圾内容。
+结果刚打开订阅号，一坨粪便就塞你嘴里。
+前三个都是推荐/广告。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
         <id>60a694ab906c5207e3a7f544</id>
         <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
@@ -933,6 +1992,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买了三本，详谈左晖]]></title>
+        <id>https://twitter.com/plidezus/status/1395418079715229701</id>
+        <link href="https://twitter.com/plidezus/status/1395418079715229701"/>
+        <updated>2021-05-20T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[买了三本，详谈左晖]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
         </author>
     </entry>
     <entry>
@@ -1001,6 +2070,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 月中旬了，我依然怀恋 coco 下架的樱花粉荔]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1395314811366297603</id>
+        <link href="https://twitter.com/shrugged_hi/status/1395314811366297603"/>
+        <updated>2021-05-20T09:45:49.000Z</updated>
+        <summary type="html"><![CDATA[5 月中旬了，我依然怀恋 coco 下架的樱花粉荔]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @virushuo 马老板估计6万偷偷卖了吧，然后唱衰，3万又给买回来了]]></title>
         <id>https://twitter.com/xiaopeng163/status/1395295233877946375</id>
         <link href="https://twitter.com/xiaopeng163/status/1395295233877946375"/>
@@ -1008,6 +2087,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Re @virushuo 马老板估计6万偷偷卖了吧，然后唱衰，3万又给买回来了]]></summary>
         <author>
             <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$5.28B of stablecoins were deposited to exchanges in 24h. This is absolute ATH. Even bigger than pre-Tesla announcement move. Lots of people bought th...]]></title>
+        <id>https://twitter.com/mskvsk/status/1395255118992265217</id>
+        <link href="https://twitter.com/mskvsk/status/1395255118992265217"/>
+        <updated>2021-05-20T05:48:37.000Z</updated>
+        <summary type="html"><![CDATA[$5.28B of stablecoins were deposited to exchanges in 24h.
+This is absolute ATH.
+Even bigger than pre-Tesla announcement move.
+Lots of people bought the dip.]]></summary>
+        <author>
+            <name>Lex Moskovski</name>
         </author>
     </entry>
     <entry>
@@ -1063,6 +2155,26 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @elonmusk #Bitcoin has no master.]]></title>
+        <id>https://twitter.com/mskvsk/status/1395042218075774987</id>
+        <link href="https://twitter.com/mskvsk/status/1395042218075774987"/>
+        <updated>2021-05-19T15:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Re @elonmusk #Bitcoin has no master.]]></summary>
+        <author>
+            <name>Lex Moskovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @elonmusk Right after selling the top and buying the dip.]]></title>
+        <id>https://twitter.com/mskvsk/status/1395032254225600515</id>
+        <link href="https://twitter.com/mskvsk/status/1395032254225600515"/>
+        <updated>2021-05-19T15:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @elonmusk Right after selling the top and buying the dip.]]></summary>
+        <author>
+            <name>Lex Moskovski</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
         <id>https://css-tricks.com/?p=340692</id>
         <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
@@ -1072,6 +2184,47 @@ The post svg-loader: A Different Way to Work With External SVG appeared first on
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Shubham Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这样跌下去，我买 3060 玩半条命 Alyx的梦终于能圆了吗？]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1395009258358337539</id>
+        <link href="https://twitter.com/shrugged_hi/status/1395009258358337539"/>
+        <updated>2021-05-19T13:31:39.000Z</updated>
+        <summary type="html"><![CDATA[这样跌下去，我买 3060 玩半条命 Alyx的梦终于能圆了吗？]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @zhuangbiaowei 其实我日常都是手工输入flomo的，不复制。类似你的做法。]]></title>
+        <id>https://twitter.com/plidezus/status/1394921350116958209</id>
+        <link href="https://twitter.com/plidezus/status/1394921350116958209"/>
+        <updated>2021-05-19T07:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @zhuangbiaowei 其实我日常都是手工输入flomo的，不复制。类似你的做法。]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16,835 #Bitcoin withdrawn from exchanges in last 10 minutes. Someone's buying fear.]]></title>
+        <id>https://twitter.com/mskvsk/status/1394917496143056897</id>
+        <link href="https://twitter.com/mskvsk/status/1394917496143056897"/>
+        <updated>2021-05-19T07:27:02.000Z</updated>
+        <summary type="html"><![CDATA[16,835 #Bitcoin withdrawn from exchanges in last 10 minutes.
+Someone's buying fear.]]></summary>
+        <author>
+            <name>Lex Moskovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seems like an ideal day to begin this masterpiece from Mr @nntaleb.]]></title>
+        <id>https://twitter.com/TylerDurden/status/1394888055429820417</id>
+        <link href="https://twitter.com/TylerDurden/status/1394888055429820417"/>
+        <updated>2021-05-19T05:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Seems like an ideal day to begin this masterpiece from Mr @nntaleb.]]></summary>
+        <author>
+            <name>Tyler</name>
         </author>
     </entry>
     <entry>
@@ -1263,6 +2416,28 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @JiangZhuoer @JihanWu BCH will win in the long run because it has sound fundamentals and community is driven by the passion to bring economic freed...]]></title>
+        <id>https://twitter.com/wisewizzz/status/1394243852014399489</id>
+        <link href="https://twitter.com/wisewizzz/status/1394243852014399489"/>
+        <updated>2021-05-17T10:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @JiangZhuoer @JihanWu BCH will win in the long run because it has sound fundamentals and community is driven by the passion to bring economic freedom. That's unique. While BTC folks are laser focused on number go up to 100k, BCH is focused on adoption and utility.]]></summary>
+        <author>
+            <name>wisewizzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indeed, we started issuing work that signals for taproot and it is no longer a test. :) #Bitcoin]]></title>
+        <id>https://twitter.com/btctop_official/status/1394188949082415105</id>
+        <link href="https://twitter.com/btctop_official/status/1394188949082415105"/>
+        <updated>2021-05-17T07:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Indeed, we started issuing work that signals for taproot and it is no longer a test. :) #Bitcoin
+Andrew Chow: .@btctop_official Just started issuing work that signals for taproot.
+It has gone on and off a few times in the past couple of minutes, so they may just be testing it. But hopefully it will be permanently on soon.]]></summary>
+        <author>
+            <name>BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.7.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
@@ -1271,6 +2446,26 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己做点小项目，前端怎么选？]]></title>
+        <id>https://mp.weixin.qq.com/s/KyofrOwhgoEfghW95WDTfQ</id>
+        <link href="https://mp.weixin.qq.com/s/KyofrOwhgoEfghW95WDTfQ"/>
+        <updated>2021-05-16T23:38:33.000Z</updated>
+        <summary type="html"><![CDATA[就跟人都绕不过生老病死一样，一个软件开发者，只要做一个完整的项目，无论如何都绕不过前端。]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fighting for the Dragons]]></title>
+        <id>https://mp.weixin.qq.com/s/fPiejsvzAadwMRM-XpeNNg</id>
+        <link href="https://mp.weixin.qq.com/s/fPiejsvzAadwMRM-XpeNNg"/>
+        <updated>2021-05-16T23:38:33.000Z</updated>
+        <summary type="html"><![CDATA[这是周六下午我们例行的写作会，小宝写下的故事。大家看着玩。:)]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
         </author>
     </entry>
     <entry>
@@ -1285,6 +2480,16 @@ An open source network automation suite https://github.com/automateyournetwork
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Big block!]]></title>
+        <id>https://twitter.com/JihanWu/status/1393877895907446784</id>
+        <link href="https://twitter.com/JihanWu/status/1393877895907446784"/>
+        <updated>2021-05-16T10:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Big block!]]></summary>
+        <author>
+            <name>Jihan Wu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我的clubhouse终于1万了]]></title>
         <id>https://twitter.com/tinyfool/status/1393834749584678913</id>
         <link href="https://twitter.com/tinyfool/status/1393834749584678913"/>
@@ -1292,6 +2497,16 @@ An open source network automation suite https://github.com/automateyournetwork
         <summary type="html"><![CDATA[我的clubhouse终于1万了]]></summary>
         <author>
             <name>Tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big block??]]></title>
+        <id>https://twitter.com/JihanWu/status/1393816443486015489</id>
+        <link href="https://twitter.com/JihanWu/status/1393816443486015489"/>
+        <updated>2021-05-16T06:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Big block??]]></summary>
+        <author>
+            <name>Jihan Wu</name>
         </author>
     </entry>
     <entry>
@@ -1349,6 +2564,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MORE #BCH FOR YOU Create a video of yourself saying “Happy Bitcoin Pizza Day” in your native language, with a BCH logo. And you could earn up to $15...]]></title>
+        <id>https://twitter.com/BitcoinCashSite/status/1392932547739504640</id>
+        <link href="https://twitter.com/BitcoinCashSite/status/1392932547739504640"/>
+        <updated>2021-05-13T19:59:33.000Z</updated>
+        <summary type="html"><![CDATA[MORE #BCH FOR YOU
+Create a video of yourself saying “Happy Bitcoin Pizza Day” in your native language, with a BCH logo.
+And you could earn up to $15 USD in #BitcoinCash.
+👉👉 https://read.cash/@BitcoinCashSite/up-to-15-in-bch-for-happy-bitcoin-pizza-day-videos-e4684a0e]]></summary>
+        <author>
+            <name>Bitcoin Cash Site: build your prosperity</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @kenshinji @FreiheitYu 德语和荷兰语太像了，Drie tomaten]]></title>
         <id>https://twitter.com/xiaopeng163/status/1392924476816470018</id>
         <link href="https://twitter.com/xiaopeng163/status/1392924476816470018"/>
@@ -1380,6 +2608,16 @@ See https://github.com/willmcgugan/rich/releases/tag/v10.2.0]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @JiangZhuoer Similar situation with the s9. We didn't even sell them when the price dropped below $50 apiece. If you are interested in mining in Ka...]]></title>
+        <id>https://twitter.com/arruah/status/1392440391132123140</id>
+        <link href="https://twitter.com/arruah/status/1392440391132123140"/>
+        <updated>2021-05-12T11:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @JiangZhuoer Similar situation with the s9. We didn't even sell them when the price dropped below $50 apiece. If you are interested in mining in Kazakhstan pm :)]]></summary>
+        <author>
+            <name>kanat amren</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[显卡个人几乎不可能买到了，当然想要花大价钱另说。最近以太坊的挖矿收益猛涨，3090每天的收益超过了32美金 前20名主力显卡90%的一个月可以回本，当然这个本是基...]]></title>
         <id>https://twitter.com/xiaopeng163/status/1392218987107344387</id>
         <link href="https://twitter.com/xiaopeng163/status/1392218987107344387"/>
@@ -1397,6 +2635,18 @@ See https://github.com/willmcgugan/rich/releases/tag/v10.2.0]]></summary>
         <summary type="html"><![CDATA[Do you want Tesla to accept Doge?]]></summary>
         <author>
             <name>Elon Musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many people now still hold the opinion that the market capitalization of #Ethereum  cannot exceed that of #Bitcoin in this bull run? Currently, th...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1392022833438494723</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1392022833438494723"/>
+        <updated>2021-05-11T07:44:40.000Z</updated>
+        <summary type="html"><![CDATA[How many people now still hold the opinion that the market capitalization of #Ethereum  cannot exceed that of #Bitcoin in this bull run?
+Currently, the ETH's market cap reaches 45% of that target.
+According to Jessi Livermore, ETH/BTC ratio is 15.38% away from the position 8.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
         </author>
     </entry>
     <entry>
@@ -1502,6 +2752,26 @@ Removed: href for each source in cache. The value was never used so it's not a b
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[技术债：人的因素]]></title>
+        <id>https://mp.weixin.qq.com/s/Twz_3bfVjBorUMB1epaHFQ</id>
+        <link href="https://mp.weixin.qq.com/s/Twz_3bfVjBorUMB1epaHFQ"/>
+        <updated>2021-05-10T00:33:59.000Z</updated>
+        <summary type="html"><![CDATA[一篇随笔。]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【活动预告】Elixir Meetup 第五期线下活动登陆魔都！]]></title>
+        <id>https://mp.weixin.qq.com/s/36ctax4GGsX-wVG5oSW8NQ</id>
+        <link href="https://mp.weixin.qq.com/s/36ctax4GGsX-wVG5oSW8NQ"/>
+        <updated>2021-05-10T00:33:59.000Z</updated>
+        <summary type="html"><![CDATA[01活动介绍伴随着国内疫情的显著好转，以及应广大群众的殷切需求，由 Tubi 赞助的第五期 Elixir Meetup 将于本周五登陆魔都！]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @C8jgoYM1CfMnpe1 风险自控]]></title>
         <id>https://twitter.com/xiaopeng163/status/1391481671317340160</id>
         <link href="https://twitter.com/xiaopeng163/status/1391481671317340160"/>
@@ -1598,6 +2868,17 @@ AlternativeTo: Visual Studio Code April 2021 released with Electron 12, bringi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[必须购买支持，附个超链接：]]></title>
+        <id>https://twitter.com/fm100/status/1390588212012216321</id>
+        <link href="https://twitter.com/fm100/status/1390588212012216321"/>
+        <updated>2021-05-07T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[必须购买支持，附个超链接：
+黄猫: 感谢读库，欢迎购买]]></summary>
+        <author>
+            <name>傅丰元</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥]]></title>
         <id>https://twitter.com/github/status/1390382527588798477</id>
         <link href="https://twitter.com/github/status/1390382527588798477"/>
@@ -1648,6 +2929,26 @@ AlternativeTo: Visual Studio Code April 2021 released with Electron 12, bringi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Re @shrugged_hi 34小米曲面带鱼+24寸（16:9）dell竖屏]]></title>
+        <id>https://twitter.com/KpF0hEvuq4IbgFQ/status/1390217757036138496</id>
+        <link href="https://twitter.com/KpF0hEvuq4IbgFQ/status/1390217757036138496"/>
+        <updated>2021-05-06T08:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @shrugged_hi 34小米曲面带鱼+24寸（16:9）dell竖屏]]></summary>
+        <author>
+            <name>生活家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了正在写的一篇文章查资料，结果查到了自己之前写的文章被人翻译成英文……我说怎么看着这么熟悉。]]></title>
+        <id>https://twitter.com/LichtSpektrum/status/1389815968654774275</id>
+        <link href="https://twitter.com/LichtSpektrum/status/1389815968654774275"/>
+        <updated>2021-05-05T05:35:23.000Z</updated>
+        <summary type="html"><![CDATA[为了正在写的一篇文章查资料，结果查到了自己之前写的文章被人翻译成英文……我说怎么看着这么熟悉。]]></summary>
+        <author>
+            <name>cd/dc://</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[v1.3.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
@@ -1674,6 +2975,17 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[早先我以为，每个人的认知都是有局限的，这很自然，也不算缺点。如果在讨论中说明自己了解的那一部分，很多人参与讨论，就能拼凑出接近全貌的内容。这就是 Open ...]]></title>
+        <id>https://twitter.com/songma/status/1389810963197554693</id>
+        <link href="https://twitter.com/songma/status/1389810963197554693"/>
+        <updated>2021-05-05T05:15:29.000Z</updated>
+        <summary type="html"><![CDATA[早先我以为，每个人的认知都是有局限的，这很自然，也不算缺点。如果在讨论中说明自己了解的那一部分，很多人参与讨论，就能拼凑出接近全貌的内容。这就是 Open Source 得以成功的原因。事实上，我还是想错了。现实的情况是，站队的认同感已经打败了对全貌了解的好奇心。
+黄猫: 很多“大问题”的争论是在一个模糊的标尺上对比两个模糊的事物]]></summary>
+        <author>
+            <name>Song Ma</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub骚操作 在域名后加个 1s 就可以通过VS Code模式来阅读源码 并且支持语法高亮]]></title>
         <id>https://twitter.com/abskoop/status/1389736600683356164</id>
         <link href="https://twitter.com/abskoop/status/1389736600683356164"/>
@@ -1697,17 +3009,6 @@ It's open source, and written in go. It's the quickest and easiest way to access
 1/n http://IPinfo.io https://github.com/ipinfo/cli]]></summary>
         <author>
             <name>IPinfo.io – IP Data Provider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和无脑黑一个道理，先了解下再去黑，连了解一下都不愿意花点时间的人，很可悲。]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1389109008334737408</id>
-        <link href="https://twitter.com/xiaopeng163/status/1389109008334737408"/>
-        <updated>2021-05-03T06:46:10.000Z</updated>
-        <summary type="html"><![CDATA[和无脑黑一个道理，先了解下再去黑，连了解一下都不愿意花点时间的人，很可悲。
-CZ 🔶 Binance: For all people who mock #bitcoin that I have ever met, none of them could explain what an address / pub key is. And they all show an attitude of refusal to learn. Yet, they have no problem mocking something they don't understand. Don't be like that.]]></summary>
-        <author>
-            <name>Peng Xiao</name>
         </author>
     </entry>
 </feed>
