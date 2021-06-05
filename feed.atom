@@ -2,10 +2,469 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T06:20:22.331Z</updated>
+    <updated>2021-06-05T01:27:25.931Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[偶像已经三个娃，我却研究了一周如何结扎。]]></title>
+        <id>https://twitter.com/yihong06181/status/1400969110775861249</id>
+        <link href="https://twitter.com/yihong06181/status/1400969110775861249"/>
+        <updated>2021-06-05T00:13:59.000Z</updated>
+        <summary type="html"><![CDATA[偶像已经三个娃，我却研究了一周如何结扎。
+云风: 下午四点过后，家里三个娃闹腾。晚上专职带娃。倒逼白天的工作效率。]]></summary>
+        <author>
+            <name>yihong0618</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
+        <id>60b2a4c611ffb70827ef9842</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
+        <updated>2021-06-04T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google终于要把一部分Youtube的基础设施迁移到自家公有云上了，太期待一些细节的分享了。]]></title>
+        <id>https://twitter.com/wey_gu/status/1400868558205116416</id>
+        <link href="https://twitter.com/wey_gu/status/1400868558205116416"/>
+        <updated>2021-06-04T17:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Google终于要把一部分Youtube的基础设施迁移到自家公有云上了，太期待一些细节的分享了。
+Stephanie Wong: ▶️ This is fun: @YouTube is moving part of its infra from Google's own infra to @GoogleCloud. Being that it's the 2nd largest website on the Internet, it'll be a test of scalability for a 2B+ user multimedia processing service.
+ https://www.cnbc.com/2021/06/04/google-is-moving-parts-of-youtube-to-its-cloud-service.html]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0ren13 @kelseyhightower - relays feedback back to eng team, and uses it to determine where needs are for samples, docs, and so on - spreads awaren...]]></title>
+        <id>https://twitter.com/chabotc/status/1400819329109827584</id>
+        <link href="https://twitter.com/chabotc/status/1400819329109827584"/>
+        <updated>2021-06-04T14:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @0ren13 @kelseyhightower - relays feedback back to eng team, and uses it to determine where needs are for samples, docs, and so on
+- spreads awareness through blogs, videos, conferences, social media 
+- provides feedback to product team
+- works with Dev marketing on topics/messaging]]></summary>
+        <author>
+            <name>Chris Chabot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @0ren13 @kelseyhightower I can’t speak to Kelsey’s day to day, but generally a dev advocate: - masters a platform - is the zeroth customer, givin...]]></title>
+        <id>https://twitter.com/chabotc/status/1400818778208878595</id>
+        <link href="https://twitter.com/chabotc/status/1400818778208878595"/>
+        <updated>2021-06-04T14:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @0ren13 @kelseyhightower I can’t speak to Kelsey’s day to day, but generally a dev advocate:
+- masters a platform
+- is the zeroth customer, giving feedback to eng team
+- might help with bug fixes 
+- creates sample code, demos
+- helps developers be successful wherever they hang out]]></summary>
+        <author>
+            <name>Chris Chabot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在南方呆了几年都忘了夏天的北方天可以这么长了。快八点了，还亮着呢。]]></title>
+        <id>https://twitter.com/wey_gu/status/1400782641582854144</id>
+        <link href="https://twitter.com/wey_gu/status/1400782641582854144"/>
+        <updated>2021-06-04T11:53:01.000Z</updated>
+        <summary type="html"><![CDATA[在南方呆了几年都忘了夏天的北方天可以这么长了。快八点了，还亮着呢。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling the projen `auto-approve` support for my CDK projects. Thank you @nija_at]]></title>
+        <id>https://twitter.com/pahudnet/status/1400762209991479301</id>
+        <link href="https://twitter.com/pahudnet/status/1400762209991479301"/>
+        <updated>2021-06-04T10:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Enabling the projen `auto-approve` support for my CDK projects. Thank you @nija_at https://github.com/projen/projen/pull/824]]></summary>
+        <author>
+            <name>pahudnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @randyloop 唯一认识的设计师，求推荐，我也是只看过那本写给大家看的设计书 @xiaolanggoum]]></title>
+        <id>https://twitter.com/wey_gu/status/1400739283372183554</id>
+        <link href="https://twitter.com/wey_gu/status/1400739283372183554"/>
+        <updated>2021-06-04T09:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @randyloop 唯一认识的设计师，求推荐，我也是只看过那本写给大家看的设计书 @xiaolanggoum]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @xymopen 既然已经说了基于AOSP，我觉得也没啥好说的了…… 我更在意的是LiteOS，如果真是自主研发倒是好事，但是从去年的一个分析来看，我觉得悬：]]></title>
+        <id>https://twitter.com/chenshaoju/status/1400710520085258248</id>
+        <link href="https://twitter.com/chenshaoju/status/1400710520085258248"/>
+        <updated>2021-06-04T07:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @xymopen 既然已经说了基于AOSP，我觉得也没啥好说的了……
+我更在意的是LiteOS，如果真是自主研发倒是好事，但是从去年的一个分析来看，我觉得悬： https://mp.weixin.qq.com/s/NIBKLlv9xg9DQSiZCik8yA]]></summary>
+        <author>
+            <name>陈少举</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Minimal_Q 感谢感谢，还要不断精进！（编辑器得重构下）]]></title>
+        <id>https://twitter.com/plidezus/status/1400707314059943937</id>
+        <link href="https://twitter.com/plidezus/status/1400707314059943937"/>
+        <updated>2021-06-04T06:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @Minimal_Q 感谢感谢，还要不断精进！（编辑器得重构下）]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dad sent me this today, it’s me and my cousins.]]></title>
+        <id>https://twitter.com/wey_gu/status/1400706306420449283</id>
+        <link href="https://twitter.com/wey_gu/status/1400706306420449283"/>
+        <updated>2021-06-04T06:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Dad sent me this today, it’s me and my cousins. https://www.instagram.com/p/CPsFV_InbZKFnhH-XAtwn3CBCLVXPCJ7AAtifQ0/?utm_medium=twitter]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真不错，能提供安全和许可证相关的依赖信息，昨天没有注意到有图表示，这是nebula-go 的依赖。 这是一个实在的#graphDatabase 的场景哈。]]></title>
+        <id>https://twitter.com/wey_gu/status/1400677631612252161</id>
+        <link href="https://twitter.com/wey_gu/status/1400677631612252161"/>
+        <updated>2021-06-04T04:55:45.000Z</updated>
+        <summary type="html"><![CDATA[真不错，能提供安全和许可证相关的依赖信息，昨天没有注意到有图表示，这是nebula-go 的依赖。
+这是一个实在的#graphDatabase 的场景哈。
+
+Steren: Example with Google Cloud Functions Framework npm package (and it's massive express dependency):
+ https://deps.dev/ https://deps.dev/npm/%40google-cloud%2Ffunctions-framework/1.7.1/dependencies/graph]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我把父亲的声音留了，想他的时候就听一听。#爸爸在那边可好]]></title>
+        <id>https://twitter.com/xds2000/status/1400676887555411968</id>
+        <link href="https://twitter.com/xds2000/status/1400676887555411968"/>
+        <updated>2021-06-04T04:52:47.000Z</updated>
+        <summary type="html"><![CDATA[我把父亲的声音留了，想他的时候就听一听。#爸爸在那边可好]]></summary>
+        <author>
+            <name>Tommy Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「约会网站OKCupid发现，自我介绍的语法和拼写糟糕，会使潜在的约会对象兴趣大减。一个用户说：如果你想约会，我不指望你写得像简·奥斯汀那样锦心绣口，但为什...]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1400650399334354947</id>
+        <link href="https://twitter.com/shrugged_hi/status/1400650399334354947"/>
+        <updated>2021-06-04T03:07:32.000Z</updated>
+        <summary type="html"><![CDATA[「约会网站OKCupid发现，自我介绍的语法和拼写糟糕，会使潜在的约会对象兴趣大减。一个用户说：如果你想约会，我不指望你写得像简·奥斯汀那样锦心绣口，但为什么不努力给人留个好印象呢？」
+摘自《风格感觉：21世纪写作指南》 - 史蒂芬·平克]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伦敦大学的科学家想知道，人类能否适应第六根手指。他们就 3D 打印了一个手指，套在实验者手上。里面装了电机，可以通过按钮触发弯曲。 经过一段时间试用，实验...]]></title>
+        <id>https://twitter.com/ruanyf/status/1400633229397266436</id>
+        <link href="https://twitter.com/ruanyf/status/1400633229397266436"/>
+        <updated>2021-06-04T01:59:19.000Z</updated>
+        <summary type="html"><![CDATA[伦敦大学的科学家想知道，人类能否适应第六根手指。他们就 3D 打印了一个手指，套在实验者手上。里面装了电机，可以通过按钮触发弯曲。
+经过一段时间试用，实验者纷纷表示很适应，第六根手指相当有用。
+#科技爱好者周刊（第161期） https://www.daniclodedesign.com/thethirdthumb http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html]]></summary>
+        <author>
+            <name>ruanyf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @yihong06181 哈哈，好呀！小tip，他们大多数项目用的是gerrit的review flow，GitHub上是只读的mirror哈，不过我知道比如 rust-vmm 还是在GitHub上。]]></title>
+        <id>https://twitter.com/wey_gu/status/1400618639112376324</id>
+        <link href="https://twitter.com/wey_gu/status/1400618639112376324"/>
+        <updated>2021-06-04T01:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @yihong06181 哈哈，好呀！小tip，他们大多数项目用的是gerrit的review flow，GitHub上是只读的mirror哈，不过我知道比如 rust-vmm 还是在GitHub上。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openinfra 是我对开源充满憧憬的起点，是我最亲切的开源社区😝]]></title>
+        <id>https://twitter.com/wey_gu/status/1400617130689658880</id>
+        <link href="https://twitter.com/wey_gu/status/1400617130689658880"/>
+        <updated>2021-06-04T00:55:20.000Z</updated>
+        <summary type="html"><![CDATA[openinfra 是我对开源充满憧憬的起点，是我最亲切的开源社区😝
+OpenStack: #WeAreOpenInfra
+#OpenInfra Foundation hosted a news conference this week showcasing growth in China with China Platinum members including Ant Group, FiberHome, Huawei, and Tencent, supporting emerging use cases in AI, 5G and edge computing. 
+@sparkycollier @jbryce @amprice88]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey #DevRel community! I know of an awesome founder who is looking for their first developer advocate hire. They're seeking an experienced developer w...]]></title>
+        <id>https://twitter.com/tessak22/status/1400614888704204810</id>
+        <link href="https://twitter.com/tessak22/status/1400614888704204810"/>
+        <updated>2021-06-04T00:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Hey #DevRel community! I know of an awesome founder who is looking for their first developer advocate hire. They're seeking an experienced developer who LOVES the command line. 
+If that's you, please reach out. If that's not you, please RT! #devadvocacy #devadvocate 🥑]]></summary>
+        <author>
+            <name>Tessa Kriesel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congrats to my student @codyaustun (with @pbailis) on defending his PhD today! Cody did amazing work  improving the resource and data efficiency of de...]]></title>
+        <id>https://twitter.com/matei_zaharia/status/1400599259389509643</id>
+        <link href="https://twitter.com/matei_zaharia/status/1400599259389509643"/>
+        <updated>2021-06-03T23:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Congrats to my student @codyaustun (with @pbailis) on defending his PhD today! Cody did amazing work  improving the resource and data efficiency of deep learning, including widely used benchmarks (DAWNBench/MLPerf), perf analysis, and new 10-1000x faster algorithms (SVP & SEALS).]]></summary>
+        <author>
+            <name>Matei Zaharia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>60b11ff811ffb70827ef8f94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2021-06-03T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a prolific journalist who wrote for The Guardian and covered technology for nearly four decades. During that time, he wrote three particular articles called "Schofield's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#WeAreOpenInfra #OpenInfra Foundation hosted a news conference this week showcasing growth in China with China Platinum members including Ant Group, F...]]></title>
+        <id>https://twitter.com/OpenStack/status/1400523807245234177</id>
+        <link href="https://twitter.com/OpenStack/status/1400523807245234177"/>
+        <updated>2021-06-03T18:44:30.000Z</updated>
+        <summary type="html"><![CDATA[#WeAreOpenInfra
+#OpenInfra Foundation hosted a news conference this week showcasing growth in China with China Platinum members including Ant Group, FiberHome, Huawei, and Tencent, supporting emerging use cases in AI, 5G and edge computing. 
+@sparkycollier @jbryce @amprice88]]></summary>
+        <author>
+            <name>OpenStack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrote a small article to show how to run gRPC and HTTP together in a single Go-based Cloud Run service (because cmux does not work for this case).]]></title>
+        <id>https://twitter.com/ahmetb/status/1400512248078946309</id>
+        <link href="https://twitter.com/ahmetb/status/1400512248078946309"/>
+        <updated>2021-06-03T17:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Wrote a small article to show how to run gRPC and HTTP together in a single Go-based Cloud Run service (because cmux does not work for this case). https://ahmet.im/blog/grpc-http-mux-go/]]></summary>
+        <author>
+            <name>Ahmet Alp Balkan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wfh 因为中午忘记点外卖，老婆开始每天帮我点，今天外卖忘了吃，当做晚饭吃了🧎‍♂️（给老婆跪的]]></title>
+        <id>https://twitter.com/wey_gu/status/1400501723131650052</id>
+        <link href="https://twitter.com/wey_gu/status/1400501723131650052"/>
+        <updated>2021-06-03T17:16:45.000Z</updated>
+        <summary type="html"><![CDATA[wfh 因为中午忘记点外卖，老婆开始每天帮我点，今天外卖忘了吃，当做晚饭吃了🧎‍♂️（给老婆跪的]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Space Cloud is a Kubernetes based serverless platform that provides instant, realtime APIs on any database, with event triggers and unified APIs for y...]]></title>
+        <id>https://twitter.com/K8sArchitect/status/1400499193828024320</id>
+        <link href="https://twitter.com/K8sArchitect/status/1400499193828024320"/>
+        <updated>2021-06-03T17:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Space Cloud is a Kubernetes based serverless platform that provides instant, realtime APIs on any database, with event triggers and unified APIs for your custom business logic
+→ https://github.com/spaceuptech/space-cloud/]]></summary>
+        <author>
+            <name>Kubernetes Architect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ReadMark: Call for alpha testers for our new app ReadMark, an RSS reader that is markable - Just recorded a quick demo for our “mark” experience!...]]></title>
+        <id>https://twitter.com/readmarkreader/status/1400494781222985733</id>
+        <link href="https://twitter.com/readmarkreader/status/1400494781222985733"/>
+        <updated>2021-06-03T16:49:10.000Z</updated>
+        <summary type="html"><![CDATA[RT ReadMark
+Call for alpha testers for our new app ReadMark, an RSS reader that is markable - Just recorded a quick demo for our “mark” experience!  Sign up here at https://readmark.app/twtr]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for alpha testers for our new app ReadMark, an RSS reader that is markable - Just recorded a quick demo for our “mark” experience!  Sign up her...]]></title>
+        <id>https://twitter.com/readmarkreader/status/1400494781222985733</id>
+        <link href="https://twitter.com/readmarkreader/status/1400494781222985733"/>
+        <updated>2021-06-03T16:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Call for alpha testers for our new app ReadMark, an RSS reader that is markable - Just recorded a quick demo for our “mark” experience!  Sign up here at https://readmark.app/twtr]]></summary>
+        <author>
+            <name>ReadMark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re I've also benefited from contributions to various open source projects I've started. People step up to add new features, fix bugs, improve the docs...]]></title>
+        <id>https://twitter.com/kelseyhightower/status/1400492346840535043</id>
+        <link href="https://twitter.com/kelseyhightower/status/1400492346840535043"/>
+        <updated>2021-06-03T16:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Re I've also benefited from contributions to various open source projects I've started. People step up to add new features, fix bugs, improve the docs, and even take over maintainership.]]></summary>
+        <author>
+            <name>Kelsey Hightower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wey_gu 谢谢]]></title>
+        <id>https://twitter.com/tinyfool/status/1400412434242760704</id>
+        <link href="https://twitter.com/tinyfool/status/1400412434242760704"/>
+        <updated>2021-06-03T11:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @wey_gu 谢谢]]></summary>
+        <author>
+            <name>Tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @tinyfool 恭喜Tiny叔开启新的一页，为你高兴。]]></title>
+        <id>https://twitter.com/wey_gu/status/1400412273215111169</id>
+        <link href="https://twitter.com/wey_gu/status/1400412273215111169"/>
+        <updated>2021-06-03T11:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @tinyfool 恭喜Tiny叔开启新的一页，为你高兴。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了防止忘了交房租，我在手机上设置了每月交租日的提醒。昨天，我删掉了本月的提醒，也删掉了一切未来的提醒。幸福，以后是个不用交房租的人了]]></title>
+        <id>https://twitter.com/tinyfool/status/1400372969776369664</id>
+        <link href="https://twitter.com/tinyfool/status/1400372969776369664"/>
+        <updated>2021-06-03T08:45:08.000Z</updated>
+        <summary type="html"><![CDATA[为了防止忘了交房租，我在手机上设置了每月交租日的提醒。昨天，我删掉了本月的提醒，也删掉了一切未来的提醒。幸福，以后是个不用交房租的人了]]></summary>
+        <author>
+            <name>Tinyfool</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再推一下，我上个月用 #nebulaGraph #graphDatabase 在 #chianetwork 上做的尝试，导入代码也开源在  →  也欢迎转发墙内的公众号 →]]></title>
         <id>https://twitter.com/wey_gu/status/1400281942856114179</id>
@@ -456,6 +915,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 不，没有，并且依然在不断缓慢向前。]]></summary>
         <author>
             <name>袁小狼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flomo的体验的确很不错，作为“输入”的主要工具比Notion好多了，今天买了一年的Pro。 但是一个缺点是没有网络的时候，没法做记录。导致我这个现在读书大部分是...]]></title>
+        <id>https://twitter.com/xuwenhao/status/1399702367013019649</id>
+        <link href="https://twitter.com/xuwenhao/status/1399702367013019649"/>
+        <updated>2021-06-01T12:20:24.000Z</updated>
+        <summary type="html"><![CDATA[flomo的体验的确很不错，作为“输入”的主要工具比Notion好多了，今天买了一年的Pro。
+但是一个缺点是没有网络的时候，没法做记录。导致我这个现在读书大部分是在飞机上的人异常地痛苦。
+@plidezus 
+#flomo]]></summary>
+        <author>
+            <name>Steam &amp;#38; Magic</name>
         </author>
     </entry>
     <entry>
@@ -3337,109 +3809,6 @@ AlternativeTo: Visual Studio Code April 2021 released with Electron 12, bringi
         <summary type="html"><![CDATA[Re @GaishiY 可以啊，不错]]></summary>
         <author>
             <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[很佩服这种能稳稳拿住一个币纹丝不动的。反正我是不可能做到的。]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1390255336448315393</id>
-        <link href="https://twitter.com/xiaopeng163/status/1390255336448315393"/>
-        <updated>2021-05-06T10:41:16.000Z</updated>
-        <summary type="html"><![CDATA[很佩服这种能稳稳拿住一个币纹丝不动的。反正我是不可能做到的。]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司windows policy下发失误导致非常多的同事今天无法登陆电脑，啥也干不了，只能手机看看邮件聊聊天了😓]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1390246570994642946</id>
-        <link href="https://twitter.com/xiaopeng163/status/1390246570994642946"/>
-        <updated>2021-05-06T10:06:26.000Z</updated>
-        <summary type="html"><![CDATA[公司windows policy下发失误导致非常多的同事今天无法登陆电脑，啥也干不了，只能手机看看邮件聊聊天了😓]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @shrugged_hi 34小米曲面带鱼+24寸（16:9）dell竖屏]]></title>
-        <id>https://twitter.com/KpF0hEvuq4IbgFQ/status/1390217757036138496</id>
-        <link href="https://twitter.com/KpF0hEvuq4IbgFQ/status/1390217757036138496"/>
-        <updated>2021-05-06T08:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @shrugged_hi 34小米曲面带鱼+24寸（16:9）dell竖屏]]></summary>
-        <author>
-            <name>生活家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了正在写的一篇文章查资料，结果查到了自己之前写的文章被人翻译成英文……我说怎么看着这么熟悉。]]></title>
-        <id>https://twitter.com/LichtSpektrum/status/1389815968654774275</id>
-        <link href="https://twitter.com/LichtSpektrum/status/1389815968654774275"/>
-        <updated>2021-05-05T05:35:23.000Z</updated>
-        <summary type="html"><![CDATA[为了正在写的一篇文章查资料，结果查到了自己之前写的文章被人翻译成英文……我说怎么看着这么熟悉。]]></summary>
-        <author>
-            <name>cd/dc://</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早先我以为，每个人的认知都是有局限的，这很自然，也不算缺点。如果在讨论中说明自己了解的那一部分，很多人参与讨论，就能拼凑出接近全貌的内容。这就是 Open ...]]></title>
-        <id>https://twitter.com/songma/status/1389810963197554693</id>
-        <link href="https://twitter.com/songma/status/1389810963197554693"/>
-        <updated>2021-05-05T05:15:29.000Z</updated>
-        <summary type="html"><![CDATA[早先我以为，每个人的认知都是有局限的，这很自然，也不算缺点。如果在讨论中说明自己了解的那一部分，很多人参与讨论，就能拼凑出接近全貌的内容。这就是 Open Source 得以成功的原因。事实上，我还是想错了。现实的情况是，站队的认同感已经打败了对全貌了解的好奇心。
-黄猫: 很多“大问题”的争论是在一个模糊的标尺上对比两个模糊的事物]]></summary>
-        <author>
-            <name>Song Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub骚操作 在域名后加个 1s 就可以通过VS Code模式来阅读源码 并且支持语法高亮]]></title>
-        <id>https://twitter.com/abskoop/status/1389736600683356164</id>
-        <link href="https://twitter.com/abskoop/status/1389736600683356164"/>
-        <updated>2021-05-05T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[GitHub骚操作
-在域名后加个 1s
-就可以通过VS Code模式来阅读源码
-并且支持语法高亮]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet the official   It's open source, and written in go. It's the quickest and easiest way to access our data, but it also includes a bunch of new fun...]]></title>
-        <id>https://twitter.com/ipinfoio/status/1389662352086212614</id>
-        <link href="https://twitter.com/ipinfoio/status/1389662352086212614"/>
-        <updated>2021-05-04T19:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Meet the official 
-
-It's open source, and written in go. It's the quickest and easiest way to access our data, but it also includes a bunch of new functionality...
-1/n http://IPinfo.io https://github.com/ipinfo/cli]]></summary>
-        <author>
-            <name>IPinfo.io – IP Data Provider</name>
         </author>
     </entry>
 </feed>
