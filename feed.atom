@@ -2,10 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T01:27:25.931Z</updated>
+    <updated>2021-06-06T01:21:24.116Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[感谢花肉小姐姐给机会上台介绍了一下#nebulaGraph 这次一定拼对 #segmentfault #devTogether]]></title>
+        <id>https://twitter.com/wey_gu/status/1401232863790387201</id>
+        <link href="https://twitter.com/wey_gu/status/1401232863790387201"/>
+        <updated>2021-06-05T17:42:03.000Z</updated>
+        <summary type="html"><![CDATA[感谢花肉小姐姐给机会上台介绍了一下#nebulaGraph 这次一定拼对
+#segmentfault #devTogether]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[segemetfault 真的很厉害，开发者生态峰会真是教科书式的组织，学到很多东西，认识好多厉害的人。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401188020724715521</id>
+        <link href="https://twitter.com/wey_gu/status/1401188020724715521"/>
+        <updated>2021-06-05T14:43:51.000Z</updated>
+        <summary type="html"><![CDATA[segemetfault 真的很厉害，开发者生态峰会真是教科书式的组织，学到很多东西，认识好多厉害的人。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tommy Xiao:]]></title>
+        <id>https://twitter.com/xds2000/status/1401125816524849155</id>
+        <link href="https://twitter.com/xds2000/status/1401125816524849155"/>
+        <updated>2021-06-05T10:36:40.000Z</updated>
+        <summary type="html"><![CDATA[RT Tommy Xiao
+ https://gitbook.cn/m/mazi/comp/column?columnId=5f27b043f84af80b7669f79b]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那么它能点评鸿蒙吗🤣]]></title>
+        <id>https://twitter.com/zty0826/status/1401112650302427141</id>
+        <link href="https://twitter.com/zty0826/status/1401112650302427141"/>
+        <updated>2021-06-05T09:44:21.000Z</updated>
+        <summary type="html"><![CDATA[那么它能点评鸿蒙吗🤣
+高阳Sunny: 开发者点评上线
+ https://segmentfault.com/dianping]]></summary>
+        <author>
+            <name>干物纯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思否今天发布了开发者点评平台，非常有意思。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401109686644985858</id>
+        <link href="https://twitter.com/wey_gu/status/1401109686644985858"/>
+        <updated>2021-06-05T09:32:35.000Z</updated>
+        <summary type="html"><![CDATA[思否今天发布了开发者点评平台，非常有意思。
+高阳Sunny: 开发者点评上线
+ https://segmentfault.com/dianping]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re I’m now a fan of both @martinliu and @elastic .]]></title>
+        <id>https://twitter.com/wey_gu/status/1401106145217978369</id>
+        <link href="https://twitter.com/wey_gu/status/1401106145217978369"/>
+        <updated>2021-06-05T09:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Re I’m now a fan of both @martinliu and @elastic .]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @martinliu is truly awesome.]]></title>
+        <id>https://twitter.com/wey_gu/status/1401105776341491713</id>
+        <link href="https://twitter.com/wey_gu/status/1401105776341491713"/>
+        <updated>2021-06-05T09:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @martinliu is truly awesome.]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free WiFi. Wait for it ... via]]></title>
+        <id>https://twitter.com/nixcraft/status/1401092247194542082</id>
+        <link href="https://twitter.com/nixcraft/status/1401092247194542082"/>
+        <updated>2021-06-05T08:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Free WiFi. Wait for it ... via https://chirmartir.tumblr.com/post/653133284403003393/ch]]></summary>
+        <author>
+            <name>nixCraft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moon on the water]]></title>
+        <id>https://twitter.com/yyhxiaolang/status/1401091618334076932</id>
+        <link href="https://twitter.com/yyhxiaolang/status/1401091618334076932"/>
+        <updated>2021-06-05T08:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Moon on the water]]></summary>
+        <author>
+            <name>袁小狼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wusheng1108 受益匪浅。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401069614377828353</id>
+        <link href="https://twitter.com/wey_gu/status/1401069614377828353"/>
+        <updated>2021-06-05T06:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @wusheng1108 受益匪浅。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blueberrygoal 我大部分时候用 mute]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1401050843185508352</id>
+        <link href="https://twitter.com/shrugged_hi/status/1401050843185508352"/>
+        <updated>2021-06-05T05:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @blueberrygoal 我大部分时候用 mute]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @binghe_lisp 我在微博上会定期追两个人的微博，一个是伞哥，一个是tk教主😊]]></title>
+        <id>https://twitter.com/wey_gu/status/1401026764814503943</id>
+        <link href="https://twitter.com/wey_gu/status/1401026764814503943"/>
+        <updated>2021-06-05T04:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @binghe_lisp 我在微博上会定期追两个人的微博，一个是伞哥，一个是tk教主😊]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wey_gu 好的谢谢古老师！]]></title>
+        <id>https://twitter.com/ruhuang2001/status/1401026468096856068</id>
+        <link href="https://twitter.com/ruhuang2001/status/1401026468096856068"/>
+        <updated>2021-06-05T04:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @wey_gu 好的谢谢古老师！]]></summary>
+        <author>
+            <name>ruhuang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ruhuang2001 我本科毕业去了500 强跨国企业工作，工作语言是英语（邮件，会议），英语要求只是面试时候的语言表现，我记得好像是提了要有证（不是很确定了）...]]></title>
+        <id>https://twitter.com/wey_gu/status/1401026324450271235</id>
+        <link href="https://twitter.com/wey_gu/status/1401026324450271235"/>
+        <updated>2021-06-05T04:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @ruhuang2001 我本科毕业去了500 强跨国企业工作，工作语言是英语（邮件，会议），英语要求只是面试时候的语言表现，我记得好像是提了要有证（不是很确定了），一定是没有cet-6分数要求。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ruhuang2001 我的经验是找工作不看的。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401025654875770883</id>
+        <link href="https://twitter.com/wey_gu/status/1401025654875770883"/>
+        <updated>2021-06-05T03:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Re @ruhuang2001 我的经验是找工作不看的。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年也做到了，坚持]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1401018762791317504</id>
+        <link href="https://twitter.com/shrugged_hi/status/1401018762791317504"/>
+        <updated>2021-06-05T03:31:17.000Z</updated>
+        <summary type="html"><![CDATA[今年也做到了，坚持
+黄猫: 我这几年养成的最好习惯是不在网上争论和说服别人（尽管不是每次都能做到），预防性 mute 和 block]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偶像已经三个娃，我却研究了一周如何结扎。]]></title>
         <id>https://twitter.com/yihong06181/status/1400969110775861249</id>
@@ -122,6 +289,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 - helps developers be successful wherever they hang out]]></summary>
         <author>
             <name>Chris Chabot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cyanapps @TaioApp Unicode!! *shakes fist*]]></title>
+        <id>https://twitter.com/a2/status/1400818558813229059</id>
+        <link href="https://twitter.com/a2/status/1400818558813229059"/>
+        <updated>2021-06-04T14:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @cyanapps @TaioApp Unicode!! *shakes fist*]]></summary>
+        <author>
+            <name>Alexsander Akers</name>
         </author>
     </entry>
     <entry>
@@ -3768,47 +3945,6 @@ AlternativeTo: Visual Studio Code April 2021 released with Electron 12, bringi
         <summary type="html"><![CDATA[回顾完美主义《极客与怪杰》 完美主义的定义一种充斥着我们生活中的对失败的失能性恐惧 ，尤其是在我们最在意的方面。失能性恐惧：一种让我们在面对问题的时候 裹足不前的畏惧all nor nothing：这会对生活 …]]></summary>
         <author>
             <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[必须购买支持，附个超链接：]]></title>
-        <id>https://twitter.com/fm100/status/1390588212012216321</id>
-        <link href="https://twitter.com/fm100/status/1390588212012216321"/>
-        <updated>2021-05-07T08:44:00.000Z</updated>
-        <summary type="html"><![CDATA[必须购买支持，附个超链接：
-黄猫: 感谢读库，欢迎购买]]></summary>
-        <author>
-            <name>傅丰元</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥]]></title>
-        <id>https://twitter.com/github/status/1390382527588798477</id>
-        <link href="https://twitter.com/github/status/1390382527588798477"/>
-        <updated>2021-05-06T19:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Is your fork behind? You can now sync from the parent repo with just a single click! 🖱💥]]></summary>
-        <author>
-            <name>GitHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @FreiheitYu 大国就是不一样啊，荷兰这边估计轮到30-40年龄段起码的7月份以后吧😓😓]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1390344901603336197</id>
-        <link href="https://twitter.com/xiaopeng163/status/1390344901603336197"/>
-        <updated>2021-05-06T16:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @FreiheitYu 大国就是不一样啊，荷兰这边估计轮到30-40年龄段起码的7月份以后吧😓😓]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GaishiY 可以啊，不错]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1390344354670293000</id>
-        <link href="https://twitter.com/xiaopeng163/status/1390344354670293000"/>
-        <updated>2021-05-06T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @GaishiY 可以啊，不错]]></summary>
-        <author>
-            <name>Peng Xiao</name>
         </author>
     </entry>
 </feed>
