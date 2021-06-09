@@ -67,33 +67,6 @@
           "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
         }
       ]
     },
@@ -164,33 +137,6 @@
           "publishedOn": "2021-05-10T19:45:00.000Z",
           "wordCount": 83,
           "title": "哈佛幸福课 第十七讲笔记 冥想是锻炼心灵的体操"
-        },
-        {
-          "id": "https://ljf.com/?p=1000",
-          "author": "ljf",
-          "description": "完美主义者和追求卓越者的区别追求卓越者和完美主义者的区别是前者会同时享受这个旅程 如何改善完美主义？0，认识关注过程而不仅仅是结果。 1，主动接受佛教徒：把出现的问题看成是了解自己的机会和成长的 …",
-          "link": "https://ljf.com/2021/05/10/1000/",
-          "publishedOn": "2021-05-09T18:32:00.000Z",
-          "wordCount": 134,
-          "title": "哈佛幸福课 第十六讲笔记 锻炼身体和锻炼心灵同样重要"
-        },
-        {
-          "id": "https://ljf.com/?p=999",
-          "author": "ljf",
-          "description": "前几天，从亚马逊美国海淘的Oculus quest2送到了，昨天开了箱，体验了一下。 首先需要激活，因为国内的网络原因，激活花了不少的时间，经过搜索学习，折腾各种网络设置和尝试，折腾了几个小时，最终终于激 …",
-          "link": "https://ljf.com/2021/05/09/999/",
-          "publishedOn": "2021-05-09T06:04:49.000Z",
-          "wordCount": 50,
-          "title": "Oculus quest2初体验"
-        },
-        {
-          "id": "https://ljf.com/?p=998",
-          "author": "ljf",
-          "description": "回顾完美主义《极客与怪杰》 完美主义的定义一种充斥着我们生活中的对失败的失能性恐惧 ，尤其是在我们最在意的方面。失能性恐惧：一种让我们在面对问题的时候 裹足不前的畏惧all nor nothing：这会对生活 …",
-          "link": "https://ljf.com/2021/05/07/998/",
-          "publishedOn": "2021-05-07T15:52:25.000Z",
-          "wordCount": 95,
-          "title": "哈佛幸福课 第十五讲笔记 成功的道路不是一条直线而是螺旋式上升的"
         }
       ]
     },
@@ -199,6 +145,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341982",
+          "author": "Todd Libby",
+          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
+          "publishedOn": "2021-06-08T18:31:08.000Z",
+          "wordCount": 3036,
+          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341884",
+          "author": "Chris Coyier",
+          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
+          "publishedOn": "2021-06-08T14:16:07.000Z",
+          "wordCount": 708,
+          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341805",
+          "author": "Chris Coyier",
+          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-accessibility/",
+          "publishedOn": "2021-06-07T19:52:26.000Z",
+          "wordCount": 621,
+          "title": "Links on Accessibility"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340390",
+          "author": "Chris Coyier",
+          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
+          "publishedOn": "2021-06-07T14:13:50.000Z",
+          "wordCount": 1725,
+          "title": "VS Code Extensions for HTML"
+        },
         {
           "id": "https://css-tricks.com/?p=341793",
           "author": "Chris Coyier",
@@ -557,6 +539,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
+        {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
+        {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
+          "id": "60be863cd3126007592d4c36",
+          "author": null,
+          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "publishedOn": "2021-06-07T20:54:41.000Z",
+          "wordCount": 439,
+          "title": "How to Use OpenCV and Python for Computer Vision and AI"
+        },
+        {
+          "id": "5ff625967af2371468bb8645",
+          "author": null,
+          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
+          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
+          "publishedOn": "2021-06-07T18:18:01.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b136d911ffb70827ef912b",
+          "author": null,
+          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
+          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
+          "publishedOn": "2021-06-07T15:01:26.000Z",
+          "wordCount": 1547,
+          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
+        },
         {
           "id": "60b3480c11ffb70827ef9a88",
           "author": null,
@@ -1006,6 +1051,33 @@
       "siteUrl": "https://twitter.com/xiaopeng163/",
       "articles": [
         {
+          "id": "https://twitter.com/xiaopeng163/status/1402016943553531911",
+          "author": "Peng Xiao",
+          "description": "今天去了Efteling游乐园，非常不错。就是我家娃年纪略小，很多东西玩不了，或者害怕，再过三年差不多了。",
+          "link": "https://twitter.com/xiaopeng163/status/1402016943553531911",
+          "publishedOn": "2021-06-07T21:37:42.000Z",
+          "wordCount": 196,
+          "title": "今天去了Efteling游乐园，非常不错。就是我家娃年纪略小，很多东西玩不了，或者害怕，再过三年差不多了。"
+        },
+        {
+          "id": "https://twitter.com/xiaopeng163/status/1401593361136508930",
+          "author": "Peng Xiao",
+          "description": "看了看正在进行的热身赛阵容，唯一一个名字熟悉的是德容，84年的。\nPeng Xiao: 超市里欧洲杯的人氛围开始起来了，不看足球好多年了，最后一代能叫的上名字的球星估计是同龄人罗本这一代了",
+          "link": "https://twitter.com/xiaopeng163/status/1401593361136508930",
+          "publishedOn": "2021-06-06T17:34:32.000Z",
+          "wordCount": 196,
+          "title": "看了看正在进行的热身赛阵容，唯一一个名字熟悉的是德容，84年的。"
+        },
+        {
+          "id": "https://twitter.com/xiaopeng163/status/1401589057814253570",
+          "author": "Peng Xiao",
+          "description": "超市里欧洲杯的人氛围开始起来了，不看足球好多年了，最后一代能叫的上名字的球星估计是同龄人罗本这一代了",
+          "link": "https://twitter.com/xiaopeng163/status/1401589057814253570",
+          "publishedOn": "2021-06-06T17:17:26.000Z",
+          "wordCount": 196,
+          "title": "超市里欧洲杯的人氛围开始起来了，不看足球好多年了，最后一代能叫的上名字的球星估计是同龄人罗本这一代了"
+        },
+        {
           "id": "https://twitter.com/xiaopeng163/status/1400053890138230784",
           "author": "Peng Xiao",
           "description": "Re @VonOliver7",
@@ -1166,24 +1238,6 @@
           "publishedOn": "2021-05-11T20:44:07.000Z",
           "wordCount": 196,
           "title": "显卡个人几乎不可能买到了，当然想要花大价钱另说。最近以太坊的挖矿收益猛涨，3090每天的收益超过了32美金 前20名主力显卡90%的一个月可以回本，当然这个本是基..."
-        },
-        {
-          "id": "https://twitter.com/xiaopeng163/status/1391481671317340160",
-          "author": "Peng Xiao",
-          "description": "Re @C8jgoYM1CfMnpe1 风险自控",
-          "link": "https://twitter.com/xiaopeng163/status/1391481671317340160",
-          "publishedOn": "2021-05-09T19:54:17.000Z",
-          "wordCount": 196,
-          "title": "Re @C8jgoYM1CfMnpe1 风险自控"
-        },
-        {
-          "id": "https://twitter.com/xiaopeng163/status/1391168056005640203",
-          "author": "Peng Xiao",
-          "description": "刚好正式工作也满10年，这10年里有七年半在Cisco。Do you remember when you joined Twitter? I do! #MyTwitterAnniversary",
-          "link": "https://twitter.com/xiaopeng163/status/1391168056005640203",
-          "publishedOn": "2021-05-08T23:08:05.000Z",
-          "wordCount": 196,
-          "title": "刚好正式工作也满10年，这10年里有七年半在Cisco。Do you remember when you joined Twitter? I do! #MyTwitterAnniversary"
         }
       ]
     },
@@ -1192,6 +1246,15 @@
       "feedUrl": "https://rsshub.app/twitter/likes/xiaopeng163/",
       "siteUrl": "https://twitter.com/xiaopeng163/likes",
       "articles": [
+        {
+          "id": "https://twitter.com/vevecollectible/status/1401357013855076355",
+          "author": "VeVe | Collecting 2.0",
+          "description": "Some really good things happen over on ⁦@DavidYuNZ⁩’s instagram 📸 https://www.instagram.com/p/CPt0BVSgFNw/?utm_medium=share_sheet",
+          "link": "https://twitter.com/vevecollectible/status/1401357013855076355",
+          "publishedOn": "2021-06-06T01:55:22.000Z",
+          "wordCount": 196,
+          "title": "Some really good things happen over on ⁦@DavidYuNZ⁩’s instagram 📸"
+        },
         {
           "id": "https://twitter.com/nixcraft/status/1401092247194542082",
           "author": "nixCraft",
@@ -1362,33 +1425,6 @@
           "publishedOn": "2021-05-11T08:13:35.000Z",
           "wordCount": 196,
           "title": "Do you want Tesla to accept Doge?"
-        },
-        {
-          "id": "https://twitter.com/virushuo/status/1391427542066868224",
-          "author": "virushuo",
-          "description": "云上贵州突然有了存在价值，美国之外的苹果用户，比如你下个盗版论文，那推荐搞个云上贵州帐号用。除此之外没有其它任何办法能让苹果不把你的数据交给FBI。只有云上贵州依照中国法律交不了。可惜scihub创始人早先不知道这事 🤦‍♂️",
-          "link": "https://twitter.com/virushuo/status/1391427542066868224",
-          "publishedOn": "2021-05-09T16:19:12.000Z",
-          "wordCount": 196,
-          "title": "云上贵州突然有了存在价值，美国之外的苹果用户，比如你下个盗版论文，那推荐搞个云上贵州帐号用。除此之外没有其它任何办法能让苹果不把你的数据交给FBI。只有..."
-        },
-        {
-          "id": "https://twitter.com/vikingmute/status/1390848138840133635",
-          "author": "Viking",
-          "description": "给大家推荐一篇文章 MongoDB 官网的数据库设计最佳实践 非常浅显易懂 但是看了又受益匪浅 https://developer.mongodb.com/article/mongodb-schema-design-best-practices/",
-          "link": "https://twitter.com/vikingmute/status/1390848138840133635",
-          "publishedOn": "2021-05-08T01:56:51.000Z",
-          "wordCount": 196,
-          "title": "给大家推荐一篇文章 MongoDB 官网的数据库设计最佳实践 非常浅显易懂 但是看了又受益匪浅"
-        },
-        {
-          "id": "https://twitter.com/code/status/1390734931328966657",
-          "author": "Visual Studio Code",
-          "description": "Good news for our Linux users\nAlternativeTo: Visual Studio Code April 2021 released with Electron 12, bringing Wayland support.\n https://bit.ly/33iHrOv",
-          "link": "https://twitter.com/code/status/1390734931328966657",
-          "publishedOn": "2021-05-07T18:27:00.000Z",
-          "wordCount": 196,
-          "title": "Good news for our Linux users"
         }
       ]
     },
@@ -1397,6 +1433,33 @@
       "feedUrl": "https://rsshub.app/twitter/user/shrugged_hi/",
       "siteUrl": "https://twitter.com/shrugged_hi/",
       "articles": [
+        {
+          "id": "https://twitter.com/shrugged_hi/status/1402254484097486851",
+          "author": "黄猫",
+          "description": "我似乎只对人造物感兴趣，对自然物没有多少了解的欲望。难怪我喜欢「捡瓶盖」。",
+          "link": "https://twitter.com/shrugged_hi/status/1402254484097486851",
+          "publishedOn": "2021-06-08T13:21:36.000Z",
+          "wordCount": 196,
+          "title": "我似乎只对人造物感兴趣，对自然物没有多少了解的欲望。难怪我喜欢「捡瓶盖」。"
+        },
+        {
+          "id": "https://twitter.com/shrugged_hi/status/1401920375768842245",
+          "author": "黄猫",
+          "description": "写作是一种表演，靠文字是很难了解一个人的。",
+          "link": "https://twitter.com/shrugged_hi/status/1401920375768842245",
+          "publishedOn": "2021-06-07T15:13:58.000Z",
+          "wordCount": 196,
+          "title": "写作是一种表演，靠文字是很难了解一个人的。"
+        },
+        {
+          "id": "https://twitter.com/shrugged_hi/status/1401902425489821700",
+          "author": "黄猫",
+          "description": "有一种预感，把器物史/家居史系列写完，我可能至少 35 了。",
+          "link": "https://twitter.com/shrugged_hi/status/1401902425489821700",
+          "publishedOn": "2021-06-07T14:02:38.000Z",
+          "wordCount": 196,
+          "title": "有一种预感，把器物史/家居史系列写完，我可能至少 35 了。"
+        },
         {
           "id": "https://twitter.com/shrugged_hi/status/1401050843185508352",
           "author": "黄猫",
@@ -1646,6 +1709,24 @@
       "siteUrl": "https://twitter.com/plidezus/",
       "articles": [
         {
+          "id": "https://twitter.com/plidezus/status/1401876799974301698",
+          "author": "Plidezus 少楠",
+          "description": "这篇的视角很有趣~\nLIGHT: 今年写了 13 篇啦，这是第二篇自己比较满意的\n https://mp.weixin.qq.com/s/1M7a7d6nytWBfQ00ogNRWg",
+          "link": "https://twitter.com/plidezus/status/1401876799974301698",
+          "publishedOn": "2021-06-07T12:20:49.000Z",
+          "wordCount": 196,
+          "title": "这篇的视角很有趣~"
+        },
+        {
+          "id": "https://twitter.com/plidezus/status/1401876796383977473",
+          "author": "Plidezus 少楠",
+          "description": "一座城，可赛博朋克，可古墓探秘",
+          "link": "https://twitter.com/plidezus/status/1401876796383977473",
+          "publishedOn": "2021-06-07T12:20:48.000Z",
+          "wordCount": 196,
+          "title": "一座城，可赛博朋克，可古墓探秘"
+        },
+        {
           "id": "https://twitter.com/plidezus/status/1400707314059943937",
           "author": "Plidezus 少楠",
           "description": "Re @Minimal_Q 感谢感谢，还要不断精进！（编辑器得重构下）",
@@ -1850,6 +1931,51 @@
       "feedUrl": "https://rsshub.app/twitter/likes/plidezus/",
       "siteUrl": "https://twitter.com/plidezus/likes",
       "articles": [
+        {
+          "id": "https://twitter.com/XDash/status/1401873231481491463",
+          "author": "XDash",
+          "description": "昨天剧本杀遇到一个女玩家，今天女玩家高考了。\nLIGHT: 昨天关注了一个女菩萨，\n今天女菩萨高考了。",
+          "link": "https://twitter.com/XDash/status/1401873231481491463",
+          "publishedOn": "2021-06-07T12:06:38.000Z",
+          "wordCount": 196,
+          "title": "昨天剧本杀遇到一个女玩家，今天女玩家高考了。"
+        },
+        {
+          "id": "https://twitter.com/ftium4/status/1401855006081372160",
+          "author": "龙爪槐守望者",
+          "description": "Re @lightory 指条路，我也要关注",
+          "link": "https://twitter.com/ftium4/status/1401855006081372160",
+          "publishedOn": "2021-06-07T10:54:13.000Z",
+          "wordCount": 196,
+          "title": "Re @lightory 指条路，我也要关注"
+        },
+        {
+          "id": "https://twitter.com/lightory/status/1401828820827598854",
+          "author": "LIGHT",
+          "description": "昨天关注了一个女菩萨，\n今天女菩萨高考了。",
+          "link": "https://twitter.com/lightory/status/1401828820827598854",
+          "publishedOn": "2021-06-07T09:10:10.000Z",
+          "wordCount": 196,
+          "title": "昨天关注了一个女菩萨， 今天女菩萨高考了。"
+        },
+        {
+          "id": "https://twitter.com/XDash/status/1401804414965497862",
+          "author": "XDash",
+          "description": "「精罗」原来是精神上的罗马人的意思。照这么说当初也可以叫作「神马」。",
+          "link": "https://twitter.com/XDash/status/1401804414965497862",
+          "publishedOn": "2021-06-07T07:33:11.000Z",
+          "wordCount": 196,
+          "title": "「精罗」原来是精神上的罗马人的意思。照这么说当初也可以叫作「神马」。"
+        },
+        {
+          "id": "https://twitter.com/sofish/status/1401008017567481857",
+          "author": "小鱼（sofish）",
+          "description": "真正（内心）强大的人都是温暖明媚的。",
+          "link": "https://twitter.com/sofish/status/1401008017567481857",
+          "publishedOn": "2021-06-05T02:48:35.000Z",
+          "wordCount": 196,
+          "title": "真正（内心）强大的人都是温暖明媚的。"
+        },
         {
           "id": "https://twitter.com/readmarkreader/status/1400494781222985733",
           "author": "ReadMark",
@@ -2074,6 +2200,24 @@
       "siteUrl": "https://twitter.com/JiangZhuoer/",
       "articles": [
         {
+          "id": "https://twitter.com/BlocksBridgeCOM/status/1401919229088219136",
+          "author": "江卓尔 Jiang Zhuoer BTC.TOP",
+          "description": "RT BlocksBridge Consulting\n\"More capital is flowing into #Bitcoin in the West, especially in North America…because the industry is becoming more institutionalized and there’s a lack of clarity in China,\" our founder @nishantsharma87 informed @TIME \nFull story, h/t @CharlieCamp6ell: https://time.com/6051991/why-china-is-cracking-down-on-bitcoin-mining-and-what-it-could-mean-for-other-countries/",
+          "link": "https://twitter.com/BlocksBridgeCOM/status/1401919229088219136",
+          "publishedOn": "2021-06-07T15:09:25.000Z",
+          "wordCount": 196,
+          "title": "RT BlocksBridge Consulting: \"More capital is flowing into #Bitcoin in the West, especially in North America…because the industry is becoming more ins..."
+        },
+        {
+          "id": "https://twitter.com/JiangZhuoer/status/1401847264646205444",
+          "author": "江卓尔 Jiang Zhuoer BTC.TOP",
+          "description": "Re @michael_saylor @nayibbukele Bienvenido a #Bitcoin , @nayibbukele.",
+          "link": "https://twitter.com/JiangZhuoer/status/1401847264646205444",
+          "publishedOn": "2021-06-07T10:23:27.000Z",
+          "wordCount": 196,
+          "title": "Re @michael_saylor @nayibbukele Bienvenido a #Bitcoin , @nayibbukele."
+        },
+        {
           "id": "https://twitter.com/JiangZhuoer/status/1400006015093985282",
           "author": "江卓尔 Jiang Zhuoer BTC.TOP",
           "description": "Re ETH= currency freedom+ contract freedom\nETH= deflation/ stored-value asset+ interest-bearing/ capital goods\nBesides, the EIP 1559，ETH 2.0, ETH will lead great growth in the second half of this atypical bull round, eventually surpass BTC market cap.\nWe are 44% of that target.",
@@ -2261,6 +2405,24 @@
       "siteUrl": "https://twitter.com/JiangZhuoer/likes",
       "articles": [
         {
+          "id": "https://twitter.com/nishantsharma87/status/1401922149460361218",
+          "author": "Nishant Sharma",
+          "description": "Wondering what is true and what isn't about the news of #bitcoinmining \"ban\" in China? This article, with comments from @JiangZhuoer, me and others, does a great job of shining light on the #Bitcoin scene in #China\nBlocksBridge Consulting: \"More capital is flowing into #Bitcoin in the West, especially in North America…because the industry is becoming more institutionalized and there’s a lack of clarity in China,\" our founder @nishantsharma87 informed @TIME \nFull story, h/t @CharlieCamp6ell:\n https://time.com/6051991/why-china-is-cracking-down-on-bitcoin-mining-and-what-it-could-mean-for-other-countries/",
+          "link": "https://twitter.com/nishantsharma87/status/1401922149460361218",
+          "publishedOn": "2021-06-07T15:21:01.000Z",
+          "wordCount": 196,
+          "title": "Wondering what is true and what isn't about the news of #bitcoinmining \"ban\" in China? This article, with comments from @JiangZhuoer, me and others, d..."
+        },
+        {
+          "id": "https://twitter.com/michael_saylor/status/1401533560734076934",
+          "author": "Michael Saylor",
+          "description": "Welcome to #Bitcoin @nayibbukele.  No force on earth can stop an idea whose time has come.\nNayib Bukele 🇸🇻: #NewProfilePic",
+          "link": "https://twitter.com/michael_saylor/status/1401533560734076934",
+          "publishedOn": "2021-06-06T13:36:54.000Z",
+          "wordCount": 196,
+          "title": "Welcome to #Bitcoin @nayibbukele.  No force on earth can stop an idea whose time has come."
+        },
+        {
           "id": "https://twitter.com/elonmusk/status/1399985389725753346",
           "author": "Elon Musk",
           "description": "Found this pic of me as a child",
@@ -2439,6 +2601,96 @@
       "siteUrl": "https://twitter.com/wey_gu/",
       "articles": [
         {
+          "id": "https://twitter.com/wey_gu/status/1402268681565048835",
+          "author": "Wey Gu 古思为",
+          "description": "Re @VnetLink 推荐一下，我希望开始收费哈，对于我来说，有两个场景。\n1. 我的个人网站 \n2. 小项目landing page或者下载地址短化， http://siwei.io http://cn.siwei.io https://github.com/wey-gu/nebula-operator-kind",
+          "link": "https://twitter.com/wey_gu/status/1402268681565048835",
+          "publishedOn": "2021-06-08T14:18:01.000Z",
+          "wordCount": 196,
+          "title": "Re @VnetLink 推荐一下，我希望开始收费哈，对于我来说，有两个场景。 1. 我的个人网站  2. 小项目landing page或者下载地址短化，"
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401749647756910593",
+          "author": "Wey Gu 古思为",
+          "description": "看到了 @gokeeper ，爷青回，谷奥是我 Google Reader 里最靠上的 feed。\nPS. 这个成色好棒不舍得拆掉吧，如果成色差一些，机箱到现在拿来改装服务器放在桌子下边都很可行~~\nNan Chen: 看来对老 Mac 感兴趣的推油还不少啊，那再发一个前几年50（真的50）收的。这个型号相对新一些，但是所有包装说明书光盘一件不少。",
+          "link": "https://twitter.com/wey_gu/status/1401749647756910593",
+          "publishedOn": "2021-06-07T03:55:33.000Z",
+          "wordCount": 196,
+          "title": "看到了 @gokeeper ，爷青回，谷奥是我 Google Reader 里最靠上的 feed。 PS. 这个成色好棒不舍得拆掉吧，如果成色差一些，机箱到现在拿来改装服务器放在桌子下边..."
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401748585247477762",
+          "author": "Wey Gu 古思为",
+          "description": "Re @jamie_writer 哈，只可惜还不知道小姐姐的 twitter handle",
+          "link": "https://twitter.com/wey_gu/status/1401748585247477762",
+          "publishedOn": "2021-06-07T03:51:20.000Z",
+          "wordCount": 196,
+          "title": "Re @jamie_writer 哈，只可惜还不知道小姐姐的 twitter handle"
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401612995956928514",
+          "author": "Wey Gu 古思为",
+          "description": "骄傲地成为英语轻松读订阅者 \ncc @sycx @tinyfool",
+          "link": "https://twitter.com/wey_gu/status/1401612995956928514",
+          "publishedOn": "2021-06-06T18:52:33.000Z",
+          "wordCount": 196,
+          "title": "骄傲地成为英语轻松读订阅者  cc @sycx @tinyfool"
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401604517666250752",
+          "author": "Wey Gu 古思为",
+          "description": "今天晚上发现老婆能很远听到apple 5v1a 的充电头里的脉冲声音，而离更近的我是几乎贴到耳朵上才能听到。\n不知道是因为女生对高频更敏感还是我听力退化这两个因素，还是，both😭。",
+          "link": "https://twitter.com/wey_gu/status/1401604517666250752",
+          "publishedOn": "2021-06-06T18:18:52.000Z",
+          "wordCount": 196,
+          "title": "今天晚上发现老婆能很远听到apple 5v1a 的充电头里的脉冲声音，而离更近的我是几乎贴到耳朵上才能听到。 不知道是因为女生对高频更敏感还是我听力退化这两个因素..."
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401594157680893956",
+          "author": "Wey Gu 古思为",
+          "description": "老榕这个微博 thread 让我知道原来复兴是第一个投资给BioBTech 研发疫苗的\n老榕的微博里没有提及开始的投资里提到了技术转让，我理解后边的技术转让给复兴和BioBtech合资公司以加大全人类疫苗产量是绝对的善意而为。\n如果这些领域也能一定程度上借鉴CS 的开源又会如何呢？ https://share.api.weibo.cn/share/227011024.html?weibo_id=4645215745347575",
+          "link": "https://twitter.com/wey_gu/status/1401594157680893956",
+          "publishedOn": "2021-06-06T17:37:42.000Z",
+          "wordCount": 196,
+          "title": "老榕这个微博 thread 让我知道原来复兴是第一个投资给BioBTech 研发疫苗的 老榕的微博里没有提及开始的投资里提到了技术转让，我理解后边的技术转让给复兴和BioB..."
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401526324536172550",
+          "author": "Wey Gu 古思为",
+          "description": "我同意这个观点，这个模糊处理是有代价的。\nRei: 基于 AOSP 开发移动系统本是最现实的选择，在 Android 没出大问题的情况下，开发者是没意愿再投入一个全新的平台的。\n希望华为能在宣传上理清这两个系统的区别，模糊不清会伤害鸿蒙的开发者和支持者。",
+          "link": "https://twitter.com/wey_gu/status/1401526324536172550",
+          "publishedOn": "2021-06-06T13:08:09.000Z",
+          "wordCount": 196,
+          "title": "我同意这个观点，这个模糊处理是有代价的。"
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401491009029038081",
+          "author": "Wey Gu 古思为",
+          "description": "PingCAP 社区做的真好。\nAndreas: During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation.\nNow you can execute arbitrary programs directly on storage nodes 👉 significant speedup in query execution\n https://tikv.org/blog/lfx-2021-copr-v2/",
+          "link": "https://twitter.com/wey_gu/status/1401491009029038081",
+          "publishedOn": "2021-06-06T10:47:49.000Z",
+          "wordCount": 196,
+          "title": "PingCAP 社区做的真好。"
+        },
+        {
+          "id": "https://twitter.com/wey_gu/status/1401392368402632704",
+          "author": "Wey Gu 古思为",
+          "description": "Re @kalasoo 亲测西昊 M57 足够，更便宜的缺 feature ，（西昊）更贵的型号的 feature 不需要，做工质量达到了一个满足我需求的程度。",
+          "link": "https://twitter.com/wey_gu/status/1401392368402632704",
+          "publishedOn": "2021-06-06T04:15:51.000Z",
+          "wordCount": 196,
+          "title": "Re @kalasoo 亲测西昊 M57 足够，更便宜的缺 feature ，（西昊）更贵的型号的 feature 不需要，做工质量达到了一个满足我需求的程度。"
+        },
+        {
+          "id": "https://twitter.com/update4weekly/status/1401382840407822336",
+          "author": "Wey Gu 古思为",
+          "description": "RT Android Weekly Update ⚡\nChrome、Edge、Safari 以及 Firefox 四家宣布成立了一个新的浏览器扩展规范组织，目标是帮助扩展开发者一次开发即可让插件在上述四个浏览器中都正常使用 https://www.androidcentral.com/google-apple-microsoft-and-mozilla-want-make-extension-development-easier-all?utm_source=ac_tw&utm_medium=tw_card&utm_content=101883&utm_campaign=social",
+          "link": "https://twitter.com/update4weekly/status/1401382840407822336",
+          "publishedOn": "2021-06-06T03:38:00.000Z",
+          "wordCount": 196,
+          "title": "RT Android Weekly Update ⚡: Chrome、Edge、Safari 以及 Firefox 四家宣布成立了一个新的浏览器扩展规范组织，目标是帮助扩展开发者一次开发即可让插件在上述..."
+        },
+        {
           "id": "https://twitter.com/wey_gu/status/1401232863790387201",
           "author": "Wey Gu 古思为",
           "description": "感谢花肉小姐姐给机会上台介绍了一下#nebulaGraph 这次一定拼对\n#segmentfault #devTogether",
@@ -2491,6 +2743,15 @@
           "publishedOn": "2021-06-05T09:17:03.000Z",
           "wordCount": 196,
           "title": "Re @martinliu is truly awesome."
+        },
+        {
+          "id": "https://twitter.com/_jibbow/status/1401090931764469761",
+          "author": "Wey Gu 古思为",
+          "description": "RT Andreas\nDuring the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation.\nNow you can execute arbitrary programs directly on storage nodes 👉 significant speedup in query execution https://tikv.org/blog/lfx-2021-copr-v2/",
+          "link": "https://twitter.com/_jibbow/status/1401090931764469761",
+          "publishedOn": "2021-06-05T08:18:03.000Z",
+          "wordCount": 196,
+          "title": "RT Andreas: During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfo..."
         },
         {
           "id": "https://twitter.com/wey_gu/status/1401069614377828353",
@@ -2599,6 +2860,15 @@
           "publishedOn": "2021-06-03T17:16:45.000Z",
           "wordCount": 196,
           "title": "wfh 因为中午忘记点外卖，老婆开始每天帮我点，今天外卖忘了吃，当做晚饭吃了🧎‍♂️（给老婆跪的"
+        },
+        {
+          "id": "https://twitter.com/NebulaGraph/status/1400484940203139084",
+          "author": "Wey Gu 古思为",
+          "description": "RT NebulaGraph\nAnalyzing #Relationships in #GameofThrones With NetworkX, Gephi, and #NebulaGraph (Part One)\nWe will access the #opensource #graphdatabase Nebula Graph with NetworkX and #visualize the complex character connections in Game of Thrones with Gephi. https://nebula-graph.io/posts/game-of-thrones-relationship-networkx-gephi-nebula-graph/",
+          "link": "https://twitter.com/NebulaGraph/status/1400484940203139084",
+          "publishedOn": "2021-06-03T16:10:04.000Z",
+          "wordCount": 196,
+          "title": "RT NebulaGraph: Analyzing #Relationships in #GameofThrones With NetworkX, Gephi, and #NebulaGraph (Part One) We will access the #opensource #graphdata..."
         },
         {
           "id": "https://twitter.com/wey_gu/status/1400412273215111169",
@@ -2797,6 +3067,69 @@
       "siteUrl": "https://twitter.com/wey_gu/likes",
       "articles": [
         {
+          "id": "https://twitter.com/elenalindq/status/1402328456478736389",
+          "author": "Elena Lindqvist",
+          "description": "20°C in the sea so early in June, at Askrike. I love this time of the year in Stockholm when we don't have dark nights.",
+          "link": "https://twitter.com/elenalindq/status/1402328456478736389",
+          "publishedOn": "2021-06-08T18:15:32.000Z",
+          "wordCount": 196,
+          "title": "20°C in the sea so early in June, at Askrike. I love this time of the year in Stockholm when we don't have dark nights."
+        },
+        {
+          "id": "https://twitter.com/jimmysongio/status/1402149728951832576",
+          "author": "Jimmy Song(宋净超)",
+          "description": "Attend the wedding of a good friend of mine today and wish them happiness forever.",
+          "link": "https://twitter.com/jimmysongio/status/1402149728951832576",
+          "publishedOn": "2021-06-08T06:25:20.000Z",
+          "wordCount": 196,
+          "title": "Attend the wedding of a good friend of mine today and wish them happiness forever."
+        },
+        {
+          "id": "https://twitter.com/YigeKing/status/1401950214517235715",
+          "author": "一格",
+          "description": "非苹果设备，通过链接也可以打开 FaceTime，产品之神直接掀桌，这特么不先扫码登陆能行？",
+          "link": "https://twitter.com/YigeKing/status/1401950214517235715",
+          "publishedOn": "2021-06-07T17:12:32.000Z",
+          "wordCount": 196,
+          "title": "非苹果设备，通过链接也可以打开 FaceTime，产品之神直接掀桌，这特么不先扫码登陆能行？"
+        },
+        {
+          "id": "https://twitter.com/sycx/status/1401697237445402632",
+          "author": "碎月成星",
+          "description": "Re @wey_gu @tinyfool 哇 感谢支持\n这下更有动力写代码了！",
+          "link": "https://twitter.com/sycx/status/1401697237445402632",
+          "publishedOn": "2021-06-07T00:27:18.000Z",
+          "wordCount": 196,
+          "title": "Re @wey_gu @tinyfool 哇 感谢支持 这下更有动力写代码了！"
+        },
+        {
+          "id": "https://twitter.com/yihong06181/status/1401693482951999489",
+          "author": "yihong0618",
+          "description": "看到有人给我拉黑我还是有点沮丧的，虽然不知道为什么。但一想无论怎么努力都没能让老丈人喜欢我倒是释然了。",
+          "link": "https://twitter.com/yihong06181/status/1401693482951999489",
+          "publishedOn": "2021-06-07T00:12:23.000Z",
+          "wordCount": 196,
+          "title": "看到有人给我拉黑我还是有点沮丧的，虽然不知道为什么。但一想无论怎么努力都没能让老丈人喜欢我倒是释然了。"
+        },
+        {
+          "id": "https://twitter.com/ErichMeow/status/1401684490729054209",
+          "author": "Erich+Meow",
+          "description": "Re @wey_gu 个人体质差异。\n我对低频声音也特别敏感。以前小区对面工地的设备待机电流声就使得我整夜无法入睡，只好搬家。而我老婆听不到也不受影响。\n@bunny_echo Echo 则对气味特别敏感，经常被周边的异常气味干扰头晕恶心。",
+          "link": "https://twitter.com/ErichMeow/status/1401684490729054209",
+          "publishedOn": "2021-06-06T23:36:39.000Z",
+          "wordCount": 196,
+          "title": "Re @wey_gu 个人体质差异。 我对低频声音也特别敏感。以前小区对面工地的设备待机电流声就使得我整夜无法入睡，只好搬家。而我老婆听不到也不受影响。 @bunny_ec..."
+        },
+        {
+          "id": "https://twitter.com/kgc_workshop/status/1401577717624152071",
+          "author": "KGC Workshop",
+          "description": "After a long day with many interesting presentations and discussions, we finish the #KGCW21 at @eswc_conf with an amazing panel about #MachineLearning for #KnowledgeGraph Construction",
+          "link": "https://twitter.com/kgc_workshop/status/1401577717624152071",
+          "publishedOn": "2021-06-06T16:32:22.000Z",
+          "wordCount": 196,
+          "title": "After a long day with many interesting presentations and discussions, we finish the #KGCW21 at @eswc_conf with an amazing panel about #MachineLearning..."
+        },
+        {
           "id": "https://twitter.com/zty0826/status/1401112650302427141",
           "author": "干物纯",
           "description": "那么它能点评鸿蒙吗🤣\n高阳Sunny: 开发者点评上线\n https://segmentfault.com/dianping",
@@ -2813,6 +3146,15 @@
           "publishedOn": "2021-06-05T08:20:47.000Z",
           "wordCount": 196,
           "title": "Moon on the water"
+        },
+        {
+          "id": "https://twitter.com/_jibbow/status/1401090931764469761",
+          "author": "Andreas",
+          "description": "During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation.\nNow you can execute arbitrary programs directly on storage nodes 👉 significant speedup in query execution https://tikv.org/blog/lfx-2021-copr-v2/",
+          "link": "https://twitter.com/_jibbow/status/1401090931764469761",
+          "publishedOn": "2021-06-05T08:18:03.000Z",
+          "wordCount": 196,
+          "title": "During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation. No..."
         },
         {
           "id": "https://twitter.com/ruhuang2001/status/1401026468096856068",
@@ -3171,15 +3513,6 @@
           "publishedOn": "2021-05-24T08:21:16.000Z",
           "wordCount": 333,
           "title": "【增长黑客周刊】我的高效阅读技巧 20 条（20210524）"
-        },
-        {
-          "id": "https://mailchi.mp/b71b010e124e/i3ezqv3zws-4937426",
-          "author": null,
-          "description": "96\n            \n        \n        \n        \n        \n        \n        【增长黑客周刊】持续改版：专注效能、盈利、智识增长（20210510）\n        \n    \n\t\tp{\n\t\t\tmargin:10px 0;\n\t\t\tpadding:0;\n\t\t}\n\t\ttable{\n\t\t\tborder-collapse:collapse;\n\t\t}\n\t\th1,h2,h3,h4,h5,h6{\n\t\t\tdisplay:block;\n\t\t\tmargin:0;\n\t\t\tpadding:0;\n\t\t}\n\t\timg,a img{\n\t\t\tborder:0;\n\t\t\theight:auto;\n\t\t\toutline:none;\n\t\t\ttext-decoration:none;\n\t\t}\n\t\tbody,#bodyTable,#bodyCell{\n\t\t\theight:100%;\n\t\t\tmargin:0;\n\t\t\tpadding:0;\n\t\t\twidth:100%;\n\t\t}\n\t\t.mcnPreviewText{\n\t\t\tdisplay:none !important;\n\t\t}\n\t\t#outlook a{\n\t\t\tpadding:0;\n\t\t}\n\t\timg{\n\t\t\t-ms-interpolation-mode:bicubic;\n\t\t}\n\t\ttable{\n\t\t\tmso-table-lspace:0pt;\n\t\t\tmso-table-rspace:0pt;\n\t\t}\n\t\t.ReadMsgBody{\n\t\t\twidth:100%;\n\t\t}\n\t\t.ExternalClass{\n\t\t\twidth:100%;\n\t\t}\n\t\tp,a,li,td,blockquote{\n\t\t\tmso-line-height-rule:exactly;\n\t\t}\n\t\ta[href^=tel],a[href^=s…",
-          "link": "https://mailchi.mp/b71b010e124e/i3ezqv3zws-4937426",
-          "publishedOn": "2021-05-10T08:45:06.000Z",
-          "wordCount": 321,
-          "title": "【增长黑客周刊】持续改版：专注效能、盈利、智识增长（20210510）"
         }
       ]
     },
@@ -3188,6 +3521,24 @@
       "feedUrl": "https://github.com/hellodword/wechat-feeds/raw/feeds/MzA3NDM0ODQwMw==.xml/",
       "siteUrl": "http://MzA3NDM0ODQwMw.favicon.privacyhide.com/favicon.ico",
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/UWqK7Kx95o6rx0CNvDF0CQ",
+          "author": null,
+          "description": "在我们学习和工作中，一个非常重要的技能就是能够快速阅读和理解别人的代码，从而为我所用。",
+          "link": "https://mp.weixin.qq.com/s/UWqK7Kx95o6rx0CNvDF0CQ",
+          "publishedOn": "2021-06-07T02:11:55.000Z",
+          "wordCount": 317,
+          "title": "如何快速掌握并使用第三方代码"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/uQzWBSZ4NF0M1Mny0VJMnA",
+          "author": null,
+          "description": "在我撰写这段文字的时候，小宝喜滋滋冲上三楼，激动地冲我大喊：爸爸，我已经读完第二册啦！第二遍哦！",
+          "link": "https://mp.weixin.qq.com/s/uQzWBSZ4NF0M1Mny0VJMnA",
+          "publishedOn": "2021-06-07T02:11:55.000Z",
+          "wordCount": 127,
+          "title": "感谢大家对小宝的厚爱"
+        },
         {
           "id": "https://mp.weixin.qq.com/s/bU3U-lyc7kMoEgOB0_unIw",
           "author": null,
@@ -3232,24 +3583,6 @@
           "publishedOn": "2021-05-16T23:38:33.000Z",
           "wordCount": 2391,
           "title": "Fighting for the Dragons"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/Twz_3bfVjBorUMB1epaHFQ",
-          "author": null,
-          "description": "一篇随笔。",
-          "link": "https://mp.weixin.qq.com/s/Twz_3bfVjBorUMB1epaHFQ",
-          "publishedOn": "2021-05-10T00:33:59.000Z",
-          "wordCount": 205,
-          "title": "技术债：人的因素"
-        },
-        {
-          "id": "https://mp.weixin.qq.com/s/36ctax4GGsX-wVG5oSW8NQ",
-          "author": null,
-          "description": "01活动介绍伴随着国内疫情的显著好转，以及应广大群众的殷切需求，由 Tubi 赞助的第五期 Elixir Meetup 将于本周五登陆魔都！",
-          "link": "https://mp.weixin.qq.com/s/36ctax4GGsX-wVG5oSW8NQ",
-          "publishedOn": "2021-05-10T00:33:59.000Z",
-          "wordCount": 145,
-          "title": "【活动预告】Elixir Meetup 第五期线下活动登陆魔都！"
         }
       ]
     }

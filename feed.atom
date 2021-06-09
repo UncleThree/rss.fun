@@ -2,10 +2,519 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T01:21:24.116Z</updated>
+    <updated>2021-06-09T01:00:14.058Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
+        <id>60bfd986d3126007592d53a1</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
+        <updated>2021-06-08T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/?p=341982</id>
+        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
+        <updated>2021-06-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
+The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Todd Libby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20°C in the sea so early in June, at Askrike. I love this time of the year in Stockholm when we don't have dark nights.]]></title>
+        <id>https://twitter.com/elenalindq/status/1402328456478736389</id>
+        <link href="https://twitter.com/elenalindq/status/1402328456478736389"/>
+        <updated>2021-06-08T18:15:32.000Z</updated>
+        <summary type="html"><![CDATA[20°C in the sea so early in June, at Askrike. I love this time of the year in Stockholm when we don't have dark nights.]]></summary>
+        <author>
+            <name>Elena Lindqvist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VnetLink 推荐一下，我希望开始收费哈，对于我来说，有两个场景。 1. 我的个人网站  2. 小项目landing page或者下载地址短化，]]></title>
+        <id>https://twitter.com/wey_gu/status/1402268681565048835</id>
+        <link href="https://twitter.com/wey_gu/status/1402268681565048835"/>
+        <updated>2021-06-08T14:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @VnetLink 推荐一下，我希望开始收费哈，对于我来说，有两个场景。
+1. 我的个人网站 
+2. 小项目landing page或者下载地址短化， http://siwei.io http://cn.siwei.io https://github.com/wey-gu/nebula-operator-kind]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我似乎只对人造物感兴趣，对自然物没有多少了解的欲望。难怪我喜欢「捡瓶盖」。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1402254484097486851</id>
+        <link href="https://twitter.com/shrugged_hi/status/1402254484097486851"/>
+        <updated>2021-06-08T13:21:36.000Z</updated>
+        <summary type="html"><![CDATA[我似乎只对人造物感兴趣，对自然物没有多少了解的欲望。难怪我喜欢「捡瓶盖」。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attend the wedding of a good friend of mine today and wish them happiness forever.]]></title>
+        <id>https://twitter.com/jimmysongio/status/1402149728951832576</id>
+        <link href="https://twitter.com/jimmysongio/status/1402149728951832576"/>
+        <updated>2021-06-08T06:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Attend the wedding of a good friend of mine today and wish them happiness forever.]]></summary>
+        <author>
+            <name>Jimmy Song(宋净超)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
+        <id>60bbd28eacb62507dd1d99fb</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
+        <updated>2021-06-07T23:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build full stack serverless apps with Supabase and Next.js.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天去了Efteling游乐园，非常不错。就是我家娃年纪略小，很多东西玩不了，或者害怕，再过三年差不多了。]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1402016943553531911</id>
+        <link href="https://twitter.com/xiaopeng163/status/1402016943553531911"/>
+        <updated>2021-06-07T21:37:42.000Z</updated>
+        <summary type="html"><![CDATA[今天去了Efteling游乐园，非常不错。就是我家娃年纪略小，很多东西玩不了，或者害怕，再过三年差不多了。]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
+        <id>60be863cd3126007592d4c36</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
+        <updated>2021-06-07T20:54:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Accessibility]]></title>
+        <id>https://css-tricks.com/?p=341805</id>
+        <link href="https://css-tricks.com/links-on-accessibility/"/>
+        <updated>2021-06-07T19:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
+…
+The post Links on Accessibility appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Closures in JavaScript – A Beginner&#x27;s Guide]]></title>
+        <id>5ff625967af2371468bb8645</id>
+        <link href="https://www.freecodecamp.org/news/closures-in-javascript/"/>
+        <updated>2021-06-07T18:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非苹果设备，通过链接也可以打开 FaceTime，产品之神直接掀桌，这特么不先扫码登陆能行？]]></title>
+        <id>https://twitter.com/YigeKing/status/1401950214517235715</id>
+        <link href="https://twitter.com/YigeKing/status/1401950214517235715"/>
+        <updated>2021-06-07T17:12:32.000Z</updated>
+        <summary type="html"><![CDATA[非苹果设备，通过链接也可以打开 FaceTime，产品之神直接掀桌，这特么不先扫码登陆能行？]]></summary>
+        <author>
+            <name>一格</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wondering what is true and what isn't about the news of #bitcoinmining "ban" in China? This article, with comments from @JiangZhuoer, me and others, d...]]></title>
+        <id>https://twitter.com/nishantsharma87/status/1401922149460361218</id>
+        <link href="https://twitter.com/nishantsharma87/status/1401922149460361218"/>
+        <updated>2021-06-07T15:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Wondering what is true and what isn't about the news of #bitcoinmining "ban" in China? This article, with comments from @JiangZhuoer, me and others, does a great job of shining light on the #Bitcoin scene in #China
+BlocksBridge Consulting: "More capital is flowing into #Bitcoin in the West, especially in North America…because the industry is becoming more institutionalized and there’s a lack of clarity in China," our founder @nishantsharma87 informed @TIME 
+Full story, h/t @CharlieCamp6ell:
+ https://time.com/6051991/why-china-is-cracking-down-on-bitcoin-mining-and-what-it-could-mean-for-other-countries/]]></summary>
+        <author>
+            <name>Nishant Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写作是一种表演，靠文字是很难了解一个人的。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1401920375768842245</id>
+        <link href="https://twitter.com/shrugged_hi/status/1401920375768842245"/>
+        <updated>2021-06-07T15:13:58.000Z</updated>
+        <summary type="html"><![CDATA[写作是一种表演，靠文字是很难了解一个人的。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT BlocksBridge Consulting: "More capital is flowing into #Bitcoin in the West, especially in North America…because the industry is becoming more ins...]]></title>
+        <id>https://twitter.com/BlocksBridgeCOM/status/1401919229088219136</id>
+        <link href="https://twitter.com/BlocksBridgeCOM/status/1401919229088219136"/>
+        <updated>2021-06-07T15:09:25.000Z</updated>
+        <summary type="html"><![CDATA[RT BlocksBridge Consulting
+"More capital is flowing into #Bitcoin in the West, especially in North America…because the industry is becoming more institutionalized and there’s a lack of clarity in China," our founder @nishantsharma87 informed @TIME 
+Full story, h/t @CharlieCamp6ell: https://time.com/6051991/why-china-is-cracking-down-on-bitcoin-mining-and-what-it-could-mean-for-other-countries/]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
+        <id>60b136d911ffb70827ef912b</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
+        <updated>2021-06-07T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
+        <id>https://css-tricks.com/?p=340390</id>
+        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
+        <updated>2021-06-07T14:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
+The post VS Code Extensions for HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有一种预感，把器物史/家居史系列写完，我可能至少 35 了。]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1401902425489821700</id>
+        <link href="https://twitter.com/shrugged_hi/status/1401902425489821700"/>
+        <updated>2021-06-07T14:02:38.000Z</updated>
+        <summary type="html"><![CDATA[有一种预感，把器物史/家居史系列写完，我可能至少 35 了。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这篇的视角很有趣~]]></title>
+        <id>https://twitter.com/plidezus/status/1401876799974301698</id>
+        <link href="https://twitter.com/plidezus/status/1401876799974301698"/>
+        <updated>2021-06-07T12:20:49.000Z</updated>
+        <summary type="html"><![CDATA[这篇的视角很有趣~
+LIGHT: 今年写了 13 篇啦，这是第二篇自己比较满意的
+ https://mp.weixin.qq.com/s/1M7a7d6nytWBfQ00ogNRWg]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一座城，可赛博朋克，可古墓探秘]]></title>
+        <id>https://twitter.com/plidezus/status/1401876796383977473</id>
+        <link href="https://twitter.com/plidezus/status/1401876796383977473"/>
+        <updated>2021-06-07T12:20:48.000Z</updated>
+        <summary type="html"><![CDATA[一座城，可赛博朋克，可古墓探秘]]></summary>
+        <author>
+            <name>Plidezus 少楠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨天剧本杀遇到一个女玩家，今天女玩家高考了。]]></title>
+        <id>https://twitter.com/XDash/status/1401873231481491463</id>
+        <link href="https://twitter.com/XDash/status/1401873231481491463"/>
+        <updated>2021-06-07T12:06:38.000Z</updated>
+        <summary type="html"><![CDATA[昨天剧本杀遇到一个女玩家，今天女玩家高考了。
+LIGHT: 昨天关注了一个女菩萨，
+今天女菩萨高考了。]]></summary>
+        <author>
+            <name>XDash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @lightory 指条路，我也要关注]]></title>
+        <id>https://twitter.com/ftium4/status/1401855006081372160</id>
+        <link href="https://twitter.com/ftium4/status/1401855006081372160"/>
+        <updated>2021-06-07T10:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @lightory 指条路，我也要关注]]></summary>
+        <author>
+            <name>龙爪槐守望者</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @michael_saylor @nayibbukele Bienvenido a #Bitcoin , @nayibbukele.]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1401847264646205444</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1401847264646205444"/>
+        <updated>2021-06-07T10:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @michael_saylor @nayibbukele Bienvenido a #Bitcoin , @nayibbukele.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨天关注了一个女菩萨， 今天女菩萨高考了。]]></title>
+        <id>https://twitter.com/lightory/status/1401828820827598854</id>
+        <link href="https://twitter.com/lightory/status/1401828820827598854"/>
+        <updated>2021-06-07T09:10:10.000Z</updated>
+        <summary type="html"><![CDATA[昨天关注了一个女菩萨，
+今天女菩萨高考了。]]></summary>
+        <author>
+            <name>LIGHT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「精罗」原来是精神上的罗马人的意思。照这么说当初也可以叫作「神马」。]]></title>
+        <id>https://twitter.com/XDash/status/1401804414965497862</id>
+        <link href="https://twitter.com/XDash/status/1401804414965497862"/>
+        <updated>2021-06-07T07:33:11.000Z</updated>
+        <summary type="html"><![CDATA[「精罗」原来是精神上的罗马人的意思。照这么说当初也可以叫作「神马」。]]></summary>
+        <author>
+            <name>XDash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看到了 @gokeeper ，爷青回，谷奥是我 Google Reader 里最靠上的 feed。 PS. 这个成色好棒不舍得拆掉吧，如果成色差一些，机箱到现在拿来改装服务器放在桌子下边...]]></title>
+        <id>https://twitter.com/wey_gu/status/1401749647756910593</id>
+        <link href="https://twitter.com/wey_gu/status/1401749647756910593"/>
+        <updated>2021-06-07T03:55:33.000Z</updated>
+        <summary type="html"><![CDATA[看到了 @gokeeper ，爷青回，谷奥是我 Google Reader 里最靠上的 feed。
+PS. 这个成色好棒不舍得拆掉吧，如果成色差一些，机箱到现在拿来改装服务器放在桌子下边都很可行~~
+Nan Chen: 看来对老 Mac 感兴趣的推油还不少啊，那再发一个前几年50（真的50）收的。这个型号相对新一些，但是所有包装说明书光盘一件不少。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @jamie_writer 哈，只可惜还不知道小姐姐的 twitter handle]]></title>
+        <id>https://twitter.com/wey_gu/status/1401748585247477762</id>
+        <link href="https://twitter.com/wey_gu/status/1401748585247477762"/>
+        <updated>2021-06-07T03:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @jamie_writer 哈，只可惜还不知道小姐姐的 twitter handle]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何快速掌握并使用第三方代码]]></title>
+        <id>https://mp.weixin.qq.com/s/UWqK7Kx95o6rx0CNvDF0CQ</id>
+        <link href="https://mp.weixin.qq.com/s/UWqK7Kx95o6rx0CNvDF0CQ"/>
+        <updated>2021-06-07T02:11:55.000Z</updated>
+        <summary type="html"><![CDATA[在我们学习和工作中，一个非常重要的技能就是能够快速阅读和理解别人的代码，从而为我所用。]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感谢大家对小宝的厚爱]]></title>
+        <id>https://mp.weixin.qq.com/s/uQzWBSZ4NF0M1Mny0VJMnA</id>
+        <link href="https://mp.weixin.qq.com/s/uQzWBSZ4NF0M1Mny0VJMnA"/>
+        <updated>2021-06-07T02:11:55.000Z</updated>
+        <summary type="html"><![CDATA[在我撰写这段文字的时候，小宝喜滋滋冲上三楼，激动地冲我大喊：爸爸，我已经读完第二册啦！第二遍哦！]]></summary>
+        <author>
+            <name>程序人生 | wechat-feeds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wey_gu @tinyfool 哇 感谢支持 这下更有动力写代码了！]]></title>
+        <id>https://twitter.com/sycx/status/1401697237445402632</id>
+        <link href="https://twitter.com/sycx/status/1401697237445402632"/>
+        <updated>2021-06-07T00:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @wey_gu @tinyfool 哇 感谢支持
+这下更有动力写代码了！]]></summary>
+        <author>
+            <name>碎月成星</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看到有人给我拉黑我还是有点沮丧的，虽然不知道为什么。但一想无论怎么努力都没能让老丈人喜欢我倒是释然了。]]></title>
+        <id>https://twitter.com/yihong06181/status/1401693482951999489</id>
+        <link href="https://twitter.com/yihong06181/status/1401693482951999489"/>
+        <updated>2021-06-07T00:12:23.000Z</updated>
+        <summary type="html"><![CDATA[看到有人给我拉黑我还是有点沮丧的，虽然不知道为什么。但一想无论怎么努力都没能让老丈人喜欢我倒是释然了。]]></summary>
+        <author>
+            <name>yihong0618</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wey_gu 个人体质差异。 我对低频声音也特别敏感。以前小区对面工地的设备待机电流声就使得我整夜无法入睡，只好搬家。而我老婆听不到也不受影响。 @bunny_ec...]]></title>
+        <id>https://twitter.com/ErichMeow/status/1401684490729054209</id>
+        <link href="https://twitter.com/ErichMeow/status/1401684490729054209"/>
+        <updated>2021-06-06T23:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @wey_gu 个人体质差异。
+我对低频声音也特别敏感。以前小区对面工地的设备待机电流声就使得我整夜无法入睡，只好搬家。而我老婆听不到也不受影响。
+@bunny_echo Echo 则对气味特别敏感，经常被周边的异常气味干扰头晕恶心。]]></summary>
+        <author>
+            <name>Erich+Meow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骄傲地成为英语轻松读订阅者  cc @sycx @tinyfool]]></title>
+        <id>https://twitter.com/wey_gu/status/1401612995956928514</id>
+        <link href="https://twitter.com/wey_gu/status/1401612995956928514"/>
+        <updated>2021-06-06T18:52:33.000Z</updated>
+        <summary type="html"><![CDATA[骄傲地成为英语轻松读订阅者 
+cc @sycx @tinyfool]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天晚上发现老婆能很远听到apple 5v1a 的充电头里的脉冲声音，而离更近的我是几乎贴到耳朵上才能听到。 不知道是因为女生对高频更敏感还是我听力退化这两个因素...]]></title>
+        <id>https://twitter.com/wey_gu/status/1401604517666250752</id>
+        <link href="https://twitter.com/wey_gu/status/1401604517666250752"/>
+        <updated>2021-06-06T18:18:52.000Z</updated>
+        <summary type="html"><![CDATA[今天晚上发现老婆能很远听到apple 5v1a 的充电头里的脉冲声音，而离更近的我是几乎贴到耳朵上才能听到。
+不知道是因为女生对高频更敏感还是我听力退化这两个因素，还是，both😭。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老榕这个微博 thread 让我知道原来复兴是第一个投资给BioBTech 研发疫苗的 老榕的微博里没有提及开始的投资里提到了技术转让，我理解后边的技术转让给复兴和BioB...]]></title>
+        <id>https://twitter.com/wey_gu/status/1401594157680893956</id>
+        <link href="https://twitter.com/wey_gu/status/1401594157680893956"/>
+        <updated>2021-06-06T17:37:42.000Z</updated>
+        <summary type="html"><![CDATA[老榕这个微博 thread 让我知道原来复兴是第一个投资给BioBTech 研发疫苗的
+老榕的微博里没有提及开始的投资里提到了技术转让，我理解后边的技术转让给复兴和BioBtech合资公司以加大全人类疫苗产量是绝对的善意而为。
+如果这些领域也能一定程度上借鉴CS 的开源又会如何呢？ https://share.api.weibo.cn/share/227011024.html?weibo_id=4645215745347575]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看了看正在进行的热身赛阵容，唯一一个名字熟悉的是德容，84年的。]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1401593361136508930</id>
+        <link href="https://twitter.com/xiaopeng163/status/1401593361136508930"/>
+        <updated>2021-06-06T17:34:32.000Z</updated>
+        <summary type="html"><![CDATA[看了看正在进行的热身赛阵容，唯一一个名字熟悉的是德容，84年的。
+Peng Xiao: 超市里欧洲杯的人氛围开始起来了，不看足球好多年了，最后一代能叫的上名字的球星估计是同龄人罗本这一代了]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超市里欧洲杯的人氛围开始起来了，不看足球好多年了，最后一代能叫的上名字的球星估计是同龄人罗本这一代了]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1401589057814253570</id>
+        <link href="https://twitter.com/xiaopeng163/status/1401589057814253570"/>
+        <updated>2021-06-06T17:17:26.000Z</updated>
+        <summary type="html"><![CDATA[超市里欧洲杯的人氛围开始起来了，不看足球好多年了，最后一代能叫的上名字的球星估计是同龄人罗本这一代了]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After a long day with many interesting presentations and discussions, we finish the #KGCW21 at @eswc_conf with an amazing panel about #MachineLearning...]]></title>
+        <id>https://twitter.com/kgc_workshop/status/1401577717624152071</id>
+        <link href="https://twitter.com/kgc_workshop/status/1401577717624152071"/>
+        <updated>2021-06-06T16:32:22.000Z</updated>
+        <summary type="html"><![CDATA[After a long day with many interesting presentations and discussions, we finish the #KGCW21 at @eswc_conf with an amazing panel about #MachineLearning for #KnowledgeGraph Construction]]></summary>
+        <author>
+            <name>KGC Workshop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to #Bitcoin @nayibbukele.  No force on earth can stop an idea whose time has come.]]></title>
+        <id>https://twitter.com/michael_saylor/status/1401533560734076934</id>
+        <link href="https://twitter.com/michael_saylor/status/1401533560734076934"/>
+        <updated>2021-06-06T13:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to #Bitcoin @nayibbukele.  No force on earth can stop an idea whose time has come.
+Nayib Bukele 🇸🇻: #NewProfilePic]]></summary>
+        <author>
+            <name>Michael Saylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我同意这个观点，这个模糊处理是有代价的。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401526324536172550</id>
+        <link href="https://twitter.com/wey_gu/status/1401526324536172550"/>
+        <updated>2021-06-06T13:08:09.000Z</updated>
+        <summary type="html"><![CDATA[我同意这个观点，这个模糊处理是有代价的。
+Rei: 基于 AOSP 开发移动系统本是最现实的选择，在 Android 没出大问题的情况下，开发者是没意愿再投入一个全新的平台的。
+希望华为能在宣传上理清这两个系统的区别，模糊不清会伤害鸿蒙的开发者和支持者。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PingCAP 社区做的真好。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401491009029038081</id>
+        <link href="https://twitter.com/wey_gu/status/1401491009029038081"/>
+        <updated>2021-06-06T10:47:49.000Z</updated>
+        <summary type="html"><![CDATA[PingCAP 社区做的真好。
+Andreas: During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation.
+Now you can execute arbitrary programs directly on storage nodes 👉 significant speedup in query execution
+ https://tikv.org/blog/lfx-2021-copr-v2/]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kalasoo 亲测西昊 M57 足够，更便宜的缺 feature ，（西昊）更贵的型号的 feature 不需要，做工质量达到了一个满足我需求的程度。]]></title>
+        <id>https://twitter.com/wey_gu/status/1401392368402632704</id>
+        <link href="https://twitter.com/wey_gu/status/1401392368402632704"/>
+        <updated>2021-06-06T04:15:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @kalasoo 亲测西昊 M57 足够，更便宜的缺 feature ，（西昊）更贵的型号的 feature 不需要，做工质量达到了一个满足我需求的程度。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Android Weekly Update ⚡: Chrome、Edge、Safari 以及 Firefox 四家宣布成立了一个新的浏览器扩展规范组织，目标是帮助扩展开发者一次开发即可让插件在上述...]]></title>
+        <id>https://twitter.com/update4weekly/status/1401382840407822336</id>
+        <link href="https://twitter.com/update4weekly/status/1401382840407822336"/>
+        <updated>2021-06-06T03:38:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Android Weekly Update ⚡
+Chrome、Edge、Safari 以及 Firefox 四家宣布成立了一个新的浏览器扩展规范组织，目标是帮助扩展开发者一次开发即可让插件在上述四个浏览器中都正常使用 https://www.androidcentral.com/google-apple-microsoft-and-mozilla-want-make-extension-development-easier-all?utm_source=ac_tw&utm_medium=tw_card&utm_content=101883&utm_campaign=social]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some really good things happen over on ⁦@DavidYuNZ⁩’s instagram 📸]]></title>
+        <id>https://twitter.com/vevecollectible/status/1401357013855076355</id>
+        <link href="https://twitter.com/vevecollectible/status/1401357013855076355"/>
+        <updated>2021-06-06T01:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Some really good things happen over on ⁦@DavidYuNZ⁩’s instagram 📸 https://www.instagram.com/p/CPt0BVSgFNw/?utm_medium=share_sheet]]></summary>
+        <author>
+            <name>VeVe | Collecting 2.0</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感谢花肉小姐姐给机会上台介绍了一下#nebulaGraph 这次一定拼对 #segmentfault #devTogether]]></title>
         <id>https://twitter.com/wey_gu/status/1401232863790387201</id>
@@ -103,6 +612,29 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Andreas: During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfo...]]></title>
+        <id>https://twitter.com/_jibbow/status/1401090931764469761</id>
+        <link href="https://twitter.com/_jibbow/status/1401090931764469761"/>
+        <updated>2021-06-05T08:18:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Andreas
+During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation.
+Now you can execute arbitrary programs directly on storage nodes 👉 significant speedup in query execution https://tikv.org/blog/lfx-2021-copr-v2/]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation. No...]]></title>
+        <id>https://twitter.com/_jibbow/status/1401090931764469761</id>
+        <link href="https://twitter.com/_jibbow/status/1401090931764469761"/>
+        <updated>2021-06-05T08:18:03.000Z</updated>
+        <summary type="html"><![CDATA[During the last 3 months I implemented a pluggable coprocessor framework for @tikvproject via the LFX Mentorship Program from the @linuxfoundation.
+Now you can execute arbitrary programs directly on storage nodes 👉 significant speedup in query execution https://tikv.org/blog/lfx-2021-copr-v2/]]></summary>
+        <author>
+            <name>Andreas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re @wusheng1108 受益匪浅。]]></title>
         <id>https://twitter.com/wey_gu/status/1401069614377828353</id>
         <link href="https://twitter.com/wey_gu/status/1401069614377828353"/>
@@ -171,6 +703,16 @@
 黄猫: 我这几年养成的最好习惯是不在网上争论和说服别人（尽管不是每次都能做到），预防性 mute 和 block]]></summary>
         <author>
             <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真正（内心）强大的人都是温暖明媚的。]]></title>
+        <id>https://twitter.com/sofish/status/1401008017567481857</id>
+        <link href="https://twitter.com/sofish/status/1401008017567481857"/>
+        <updated>2021-06-05T02:48:35.000Z</updated>
+        <summary type="html"><![CDATA[真正（内心）强大的人都是温暖明媚的。]]></summary>
+        <author>
+            <name>小鱼（sofish）</name>
         </author>
     </entry>
     <entry>
@@ -585,6 +1127,18 @@ Call for alpha testers for our new app ReadMark, an RSS reader that is markable 
         <summary type="html"><![CDATA[Re I've also benefited from contributions to various open source projects I've started. People step up to add new features, fix bugs, improve the docs, and even take over maintainership.]]></summary>
         <author>
             <name>Kelsey Hightower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT NebulaGraph: Analyzing #Relationships in #GameofThrones With NetworkX, Gephi, and #NebulaGraph (Part One) We will access the #opensource #graphdata...]]></title>
+        <id>https://twitter.com/NebulaGraph/status/1400484940203139084</id>
+        <link href="https://twitter.com/NebulaGraph/status/1400484940203139084"/>
+        <updated>2021-06-03T16:10:04.000Z</updated>
+        <summary type="html"><![CDATA[RT NebulaGraph
+Analyzing #Relationships in #GameofThrones With NetworkX, Gephi, and #NebulaGraph (Part One)
+We will access the #opensource #graphdatabase Nebula Graph with NetworkX and #visualize the complex character connections in Game of Thrones with Gephi. https://nebula-graph.io/posts/game-of-thrones-relationship-networkx-gephi-nebula-graph/]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
         </author>
     </entry>
     <entry>
@@ -3735,214 +4289,6 @@ According to Jessi Livermore, ETH/BTC ratio is 15.38% away from the position 8.]
         <link href="https://ljf.com/2021/05/11/1001/"/>
         <updated>2021-05-10T19:45:00.000Z</updated>
         <summary type="html"><![CDATA[关于运动性价比最高的运动是有氧运动 高强度间歇运动的效果比有氧运动的效果更好 克服没有时间运动的障碍最不能放弃的是运动 因为运动是一项投资 能提高记忆力和活力运动习惯不能靠自律 要靠例行公事 自尊 …]]></summary>
-        <author>
-            <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【增长黑客周刊】持续改版：专注效能、盈利、智识增长（20210510）]]></title>
-        <id>https://mailchi.mp/b71b010e124e/i3ezqv3zws-4937426</id>
-        <link href="https://mailchi.mp/b71b010e124e/i3ezqv3zws-4937426"/>
-        <updated>2021-05-10T08:45:06.000Z</updated>
-        <summary type="html"><![CDATA[96
-            
-        
-        
-        
-        
-        
-        【增长黑客周刊】持续改版：专注效能、盈利、智识增长（20210510）
-        
-    
-		p{
-			margin:10px 0;
-			padding:0;
-		}
-		table{
-			border-collapse:collapse;
-		}
-		h1,h2,h3,h4,h5,h6{
-			display:block;
-			margin:0;
-			padding:0;
-		}
-		img,a img{
-			border:0;
-			height:auto;
-			outline:none;
-			text-decoration:none;
-		}
-		body,#bodyTable,#bodyCell{
-			height:100%;
-			margin:0;
-			padding:0;
-			width:100%;
-		}
-		.mcnPreviewText{
-			display:none !important;
-		}
-		#outlook a{
-			padding:0;
-		}
-		img{
-			-ms-interpolation-mode:bicubic;
-		}
-		table{
-			mso-table-lspace:0pt;
-			mso-table-rspace:0pt;
-		}
-		.ReadMsgBody{
-			width:100%;
-		}
-		.ExternalClass{
-			width:100%;
-		}
-		p,a,li,td,blockquote{
-			mso-line-height-rule:exactly;
-		}
-		a[href^=tel],a[href^=s…]]></summary>
-        <author>
-            <name>增长黑客通讯周刊 Archive Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术债：人的因素]]></title>
-        <id>https://mp.weixin.qq.com/s/Twz_3bfVjBorUMB1epaHFQ</id>
-        <link href="https://mp.weixin.qq.com/s/Twz_3bfVjBorUMB1epaHFQ"/>
-        <updated>2021-05-10T00:33:59.000Z</updated>
-        <summary type="html"><![CDATA[一篇随笔。]]></summary>
-        <author>
-            <name>程序人生 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【活动预告】Elixir Meetup 第五期线下活动登陆魔都！]]></title>
-        <id>https://mp.weixin.qq.com/s/36ctax4GGsX-wVG5oSW8NQ</id>
-        <link href="https://mp.weixin.qq.com/s/36ctax4GGsX-wVG5oSW8NQ"/>
-        <updated>2021-05-10T00:33:59.000Z</updated>
-        <summary type="html"><![CDATA[01活动介绍伴随着国内疫情的显著好转，以及应广大群众的殷切需求，由 Tubi 赞助的第五期 Elixir Meetup 将于本周五登陆魔都！]]></summary>
-        <author>
-            <name>程序人生 | wechat-feeds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @C8jgoYM1CfMnpe1 风险自控]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1391481671317340160</id>
-        <link href="https://twitter.com/xiaopeng163/status/1391481671317340160"/>
-        <updated>2021-05-09T19:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @C8jgoYM1CfMnpe1 风险自控]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛幸福课 第十六讲笔记 锻炼身体和锻炼心灵同样重要]]></title>
-        <id>https://ljf.com/?p=1000</id>
-        <link href="https://ljf.com/2021/05/10/1000/"/>
-        <updated>2021-05-09T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[完美主义者和追求卓越者的区别追求卓越者和完美主义者的区别是前者会同时享受这个旅程 如何改善完美主义？0，认识关注过程而不仅仅是结果。 1，主动接受佛教徒：把出现的问题看成是了解自己的机会和成长的 …]]></summary>
-        <author>
-            <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云上贵州突然有了存在价值，美国之外的苹果用户，比如你下个盗版论文，那推荐搞个云上贵州帐号用。除此之外没有其它任何办法能让苹果不把你的数据交给FBI。只有...]]></title>
-        <id>https://twitter.com/virushuo/status/1391427542066868224</id>
-        <link href="https://twitter.com/virushuo/status/1391427542066868224"/>
-        <updated>2021-05-09T16:19:12.000Z</updated>
-        <summary type="html"><![CDATA[云上贵州突然有了存在价值，美国之外的苹果用户，比如你下个盗版论文，那推荐搞个云上贵州帐号用。除此之外没有其它任何办法能让苹果不把你的数据交给FBI。只有云上贵州依照中国法律交不了。可惜scihub创始人早先不知道这事 🤦‍♂️]]></summary>
-        <author>
-            <name>virushuo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oculus quest2初体验]]></title>
-        <id>https://ljf.com/?p=999</id>
-        <link href="https://ljf.com/2021/05/09/999/"/>
-        <updated>2021-05-09T06:04:49.000Z</updated>
-        <summary type="html"><![CDATA[前几天，从亚马逊美国海淘的Oculus quest2送到了，昨天开了箱，体验了一下。 首先需要激活，因为国内的网络原因，激活花了不少的时间，经过搜索学习，折腾各种网络设置和尝试，折腾了几个小时，最终终于激 …]]></summary>
-        <author>
-            <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚好正式工作也满10年，这10年里有七年半在Cisco。Do you remember when you joined Twitter? I do! #MyTwitterAnniversary]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1391168056005640203</id>
-        <link href="https://twitter.com/xiaopeng163/status/1391168056005640203"/>
-        <updated>2021-05-08T23:08:05.000Z</updated>
-        <summary type="html"><![CDATA[刚好正式工作也满10年，这10年里有七年半在Cisco。Do you remember when you joined Twitter? I do! #MyTwitterAnniversary]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给大家推荐一篇文章 MongoDB 官网的数据库设计最佳实践 非常浅显易懂 但是看了又受益匪浅]]></title>
-        <id>https://twitter.com/vikingmute/status/1390848138840133635</id>
-        <link href="https://twitter.com/vikingmute/status/1390848138840133635"/>
-        <updated>2021-05-08T01:56:51.000Z</updated>
-        <summary type="html"><![CDATA[给大家推荐一篇文章 MongoDB 官网的数据库设计最佳实践 非常浅显易懂 但是看了又受益匪浅 https://developer.mongodb.com/article/mongodb-schema-design-best-practices/]]></summary>
-        <author>
-            <name>Viking</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good news for our Linux users]]></title>
-        <id>https://twitter.com/code/status/1390734931328966657</id>
-        <link href="https://twitter.com/code/status/1390734931328966657"/>
-        <updated>2021-05-07T18:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Good news for our Linux users
-AlternativeTo: Visual Studio Code April 2021 released with Electron 12, bringing Wayland support.
- https://bit.ly/33iHrOv]]></summary>
-        <author>
-            <name>Visual Studio Code</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛幸福课 第十五讲笔记 成功的道路不是一条直线而是螺旋式上升的]]></title>
-        <id>https://ljf.com/?p=998</id>
-        <link href="https://ljf.com/2021/05/07/998/"/>
-        <updated>2021-05-07T15:52:25.000Z</updated>
-        <summary type="html"><![CDATA[回顾完美主义《极客与怪杰》 完美主义的定义一种充斥着我们生活中的对失败的失能性恐惧 ，尤其是在我们最在意的方面。失能性恐惧：一种让我们在面对问题的时候 裹足不前的畏惧all nor nothing：这会对生活 …]]></summary>
         <author>
             <name>ljf</name>
         </author>
