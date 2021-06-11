@@ -2,10 +2,728 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T01:00:14.058Z</updated>
+    <updated>2021-06-11T00:52:53.470Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re 不知道字节的逻辑是不是这样的：内部还是有IaaS（VM或者BM）的需求，决定放弃openstack，做in house 的实现，既然做了，不如直接做成服务开卖了。]]></title>
+        <id>https://twitter.com/wey_gu/status/1403152612640268288</id>
+        <link href="https://twitter.com/wey_gu/status/1403152612640268288"/>
+        <updated>2021-06-11T00:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Re 不知道字节的逻辑是不是这样的：内部还是有IaaS（VM或者BM）的需求，决定放弃openstack，做in house 的实现，既然做了，不如直接做成服务开卖了。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨天看到新闻字节跳动要做公有云了，从 IaaS 做起，想起来19年的时候，上海 openInfra summit ，听了字节同学分享的 Openstack Nova 上万台裸机管理的实践分享，...]]></title>
+        <id>https://twitter.com/wey_gu/status/1403151219002986497</id>
+        <link href="https://twitter.com/wey_gu/status/1403151219002986497"/>
+        <updated>2021-06-11T00:44:54.000Z</updated>
+        <summary type="html"><![CDATA[昨天看到新闻字节跳动要做公有云了，从 IaaS 做起，想起来19年的时候，上海 openInfra summit ，听了字节同学分享的 Openstack Nova 上万台裸机管理的实践分享，而且基于比较老的Mitaka，大概是用go 重写了 nova-scheduler，非常感慨，我所在的通信核心网NFVi领域千台集群就是大规模了，乐见字节云👍]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 的fo 计数果然是最终一致，在没有最新关注通知的情况下数字从 666 变成了 668。数字刚好太容易记了第一次被我验证到😜。]]></title>
+        <id>https://twitter.com/wey_gu/status/1403149498302402561</id>
+        <link href="https://twitter.com/wey_gu/status/1403149498302402561"/>
+        <updated>2021-06-11T00:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Twitter 的fo 计数果然是最终一致，在没有最新关注通知的情况下数字从 666 变成了 668。数字刚好太容易记了第一次被我验证到😜。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（4 ）和 （5上半部分/6 ）真是学习了，Python 在类型转换的时候虽然细分析下来是合理的，但直接得结论还是有点怪怪的。  图片来自iOS的 App： iSH ，它是 qemu ...]]></title>
+        <id>https://twitter.com/wey_gu/status/1403015540969332743</id>
+        <link href="https://twitter.com/wey_gu/status/1403015540969332743"/>
+        <updated>2021-06-10T15:45:46.000Z</updated>
+        <summary type="html"><![CDATA[（4 ）和 （5上半部分/6 ）真是学习了，Python 在类型转换的时候虽然细分析下来是合理的，但直接得结论还是有点怪怪的。 
+图片来自iOS的 App： iSH ，它是 qemu 里的 alpine Linux，装了 IPython 之后第一次用 😆
+
+KumaTea #羡慕bot: 一直以为自己 Python 已经很懂了
+直到昨晚看到条件语句的五种写法]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 5/ Graph Theory Everything is a graph. Learn how to abstract the essence of relationships and apply graph traversal algorithms, and network analysi...]]></title>
+        <id>https://twitter.com/Coding_Career/status/1403009319268884490</id>
+        <link href="https://twitter.com/Coding_Career/status/1403009319268884490"/>
+        <updated>2021-06-10T15:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 5/ Graph Theory
+Everything is a graph. Learn how to abstract the essence of relationships and apply graph traversal algorithms, and network analysis. 
+Don't bother trying what's already mathematically proven to be impossible.]]></summary>
+        <author>
+            <name>Coding Career Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equal Columns With Flexbox: It’s More Complicated Than You Might Think]]></title>
+        <id>https://css-tricks.com/?p=341894</id>
+        <link href="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/"/>
+        <updated>2021-06-10T14:34:22.000Z</updated>
+        <summary type="html"><![CDATA[As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.
+Let’s break those two down and see how they work together.
+The post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Headless CMS with Fauna and Vercel Functions]]></title>
+        <id>https://css-tricks.com/?p=342182</id>
+        <link href="https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/"/>
+        <updated>2021-06-10T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.
+The post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ikeh Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kele_plus 别的不说，6过分了]]></title>
+        <id>https://twitter.com/zty0826/status/1402982954331111444</id>
+        <link href="https://twitter.com/zty0826/status/1402982954331111444"/>
+        <updated>2021-06-10T13:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @kele_plus 别的不说，6过分了]]></summary>
+        <author>
+            <name>干物纯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有意思的结果：For overall OLTP performance, advanced disks may not be necessary]]></title>
+        <id>https://twitter.com/wey_gu/status/1402971401632374787</id>
+        <link href="https://twitter.com/wey_gu/status/1402971401632374787"/>
+        <updated>2021-06-10T12:50:22.000Z</updated>
+        <summary type="html"><![CDATA[有意思的结果：For overall OLTP performance, advanced disks may not be necessary
+Lαк Lαкѕнмαηαη: This is why GCP is your best option for data analytics and ML:
+GCP's *lowest* price option on network throughput and disk reads is better than the *best* AWS or Azure options. 
+✅ Best performance
+✅ Most innovative
+✅ Lowest cost
+✅ Open & flexible
+ https://www.cockroachlabs.com/blog/2021-cloud-report]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cool 我真是生活在一个美好的时代。]]></title>
+        <id>https://twitter.com/wey_gu/status/1402964601784860675</id>
+        <link href="https://twitter.com/wey_gu/status/1402964601784860675"/>
+        <updated>2021-06-10T12:23:21.000Z</updated>
+        <summary type="html"><![CDATA[cool 我真是生活在一个美好的时代。
+lnsoso: 
+ https://fig.io]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gxgexiao 是的这边没有太老的小区。]]></title>
+        <id>https://twitter.com/wey_gu/status/1402964013630197760</id>
+        <link href="https://twitter.com/wey_gu/status/1402964013630197760"/>
+        <updated>2021-06-10T12:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @gxgexiao 是的这边没有太老的小区。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因为前东家加上老婆在这边的大厂工作，我现在就在北新泾租房，巧的是昨天刚刚续租了一年，因为一些原因本来打算换一个房东的，结果发现今年这里周边的的租金（两...]]></title>
+        <id>https://twitter.com/wey_gu/status/1402954591541465089</id>
+        <link href="https://twitter.com/wey_gu/status/1402954591541465089"/>
+        <updated>2021-06-10T11:43:34.000Z</updated>
+        <summary type="html"><![CDATA[因为前东家加上老婆在这边的大厂工作，我现在就在北新泾租房，巧的是昨天刚刚续租了一年，因为一些原因本来打算换一个房东的，结果发现今年这里周边的的租金（两室一厅）比去年贵了两千块左右，只要咬牙回去续租。
+GeXiao: 这篇里讲「刚成功跳槽到北新泾附近某互联网视频平台，工资涨到每个月2万元」「租房预算从6000元跳到7500元」太奇怪了，单人可以不租这个价位的房子。
+ https://mp.weixin.qq.com/s/Sf6pn3YwI_Vedse05x7yNw]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈佛幸福课 第二十一讲笔记  培养自尊的6条实践]]></title>
+        <id>https://ljf.com/?p=1012</id>
+        <link href="https://ljf.com/2021/06/10/1012/"/>
+        <updated>2021-06-10T10:11:53.000Z</updated>
+        <summary type="html"><![CDATA[关于爱情的回顾 1，经营爱情需要努力，更重要的是如何经营爱情2，我们要被了解而不是被认可3，冲突时不可避免的4，要做优点创造者 《论友谊》真正的友谊是“美丽的敌人”对立的帮助 《尽善尽美》“你让我成为 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不服不行，真是全能啊。。。【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1402884872482562049</id>
+        <link href="https://twitter.com/xiaopeng163/status/1402884872482562049"/>
+        <updated>2021-06-10T07:06:32.000Z</updated>
+        <summary type="html"><![CDATA[不服不行，真是全能啊。。。【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】 https://youtu.be/kCL2d7wZjU8]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[糟糕，国家知道我22岁刚毕业了]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1402872587256877056</id>
+        <link href="https://twitter.com/shrugged_hi/status/1402872587256877056"/>
+        <updated>2021-06-10T06:17:43.000Z</updated>
+        <summary type="html"><![CDATA[糟糕，国家知道我22岁刚毕业了]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“In #China, it’s always been the thinking that the gov will crackdown on #bitcoinmining someday. Still, (surprisingly) there is so much panic,” our...]]></title>
+        <id>https://twitter.com/BlocksBridgeCOM/status/1402836918379892738</id>
+        <link href="https://twitter.com/BlocksBridgeCOM/status/1402836918379892738"/>
+        <updated>2021-06-10T03:55:59.000Z</updated>
+        <summary type="html"><![CDATA[“In #China, it’s always been the thinking that the gov will crackdown on #bitcoinmining someday. Still, (surprisingly) there is so much panic,” our founder @nishantsharma87 informed @WSJ. Read full story, courtesy @jamestareddy : https://www.wsj.com/articles/china-reconsiders-its-central-role-in-bitcoin-mining-11622865618]]></summary>
+        <author>
+            <name>BlocksBridge Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A #dataviz of ~1 million passes made during 890 matches played in major #football leagues/cups. #soccer Source:]]></title>
+        <id>https://twitter.com/randal_olson/status/1402813229735182337</id>
+        <link href="https://twitter.com/randal_olson/status/1402813229735182337"/>
+        <updated>2021-06-10T02:21:51.000Z</updated>
+        <summary type="html"><![CDATA[A #dataviz of ~1 million passes made during 890 matches played in major #football leagues/cups. #soccer
+Source: https://www.reddit.com/r/dataisbeautiful/comments/nw5v8b/oc_all_the_passes_a_visualisation_of_1_million/]]></summary>
+        <author>
+            <name>Randy Olson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我竟然有一千万的阅读量……]]></title>
+        <id>https://twitter.com/waylybaye/status/1402808125174861826</id>
+        <link href="https://twitter.com/waylybaye/status/1402808125174861826"/>
+        <updated>2021-06-10T02:01:34.000Z</updated>
+        <summary type="html"><![CDATA[我竟然有一千万的阅读量……]]></summary>
+        <author>
+            <name>Baye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropping tomorrow! #obesebee @veve.digital.collectibles #cerealkillers #nftart #nft]]></title>
+        <id>https://twitter.com/ronenglishart/status/1402796232813256706</id>
+        <link href="https://twitter.com/ronenglishart/status/1402796232813256706"/>
+        <updated>2021-06-10T01:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Dropping tomorrow! #obesebee @veve.digital.collectibles #cerealkillers #nftart #nft https://www.instagram.com/p/CP67uuanhq9/?utm_medium=twitter]]></summary>
+        <author>
+            <name>Ron English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're hiring for "Faster CPython"!]]></title>
+        <id>https://twitter.com/gvanrossum/status/1402756021358006272</id>
+        <link href="https://twitter.com/gvanrossum/status/1402756021358006272"/>
+        <updated>2021-06-09T22:34:32.000Z</updated>
+        <summary type="html"><![CDATA[We're hiring for "Faster CPython"! https://careers.microsoft.com/us/en/job/1059714/Principal-Software-Engineering-Manager https://careers.microsoft.com/us/en/job/1062976/Senior-Software-Engineer]]></summary>
+        <author>
+            <name>Guido van Rossum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
+        <id>60b357ad11ffb70827ef9a90</id>
+        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
+        <updated>2021-06-09T21:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is why GCP is your best option for data analytics and ML: GCP's *lowest* price option on network throughput and disk reads is better than the *be...]]></title>
+        <id>https://twitter.com/lak_gcp/status/1402725341420920833</id>
+        <link href="https://twitter.com/lak_gcp/status/1402725341420920833"/>
+        <updated>2021-06-09T20:32:37.000Z</updated>
+        <summary type="html"><![CDATA[This is why GCP is your best option for data analytics and ML:
+GCP's *lowest* price option on network throughput and disk reads is better than the *best* AWS or Azure options. 
+✅ Best performance
+✅ Most innovative
+✅ Lowest cost
+✅ Open & flexible https://www.cockroachlabs.com/blog/2021-cloud-report]]></summary>
+        <author>
+            <name>Lαк Lαкѕнмαηαη</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隔壁装修是动真格了，连房顶都拆了。我们这一片房子建于1921年，隔壁把房子卖给了房屋翻新公司，低于市场价将近10万欧，这个房子是原汁原味，100年啥都没有动过...]]></title>
+        <id>https://twitter.com/xiaopeng163/status/1402723706712080393</id>
+        <link href="https://twitter.com/xiaopeng163/status/1402723706712080393"/>
+        <updated>2021-06-09T20:26:07.000Z</updated>
+        <summary type="html"><![CDATA[隔壁装修是动真格了，连房顶都拆了。我们这一片房子建于1921年，隔壁把房子卖给了房屋翻新公司，低于市场价将近10万欧，这个房子是原汁原味，100年啥都没有动过，包括门窗，玻璃。如果按这个装修法，成本10万欧肯定搞不定，而翻新公司又要赚钱，很好奇最后房子能卖到个什么价格。]]></summary>
+        <author>
+            <name>Peng Xiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
+        <id>60c0ccbed3126007592d5781</id>
+        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
+        <updated>2021-06-09T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
+        <id>60c10a1dd3126007592d5988</id>
+        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
+        <updated>2021-06-09T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank you all so much for your support and love. Below is my health status update. Long story short, I'm coming back to work. Enough being lazy all da...]]></title>
+        <id>https://twitter.com/AbelSquidHead/status/1402695545060134914</id>
+        <link href="https://twitter.com/AbelSquidHead/status/1402695545060134914"/>
+        <updated>2021-06-09T18:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Thank you all so much for your support and love. Below is my health status update. Long story short, I'm coming back to work. Enough being lazy all day doing nothing. Need to make my brain work to be happy. And life is too short. Do what makes you happy! ❤☮]]></summary>
+        <author>
+            <name>Abel Wang 🦑🎸🤘✊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打包的时候，觉得这也重要那也重要，很多东西都舍不得扔。千里迢迢送到天津，我拆开箱子的时候，发现很多东西对我其实没那么有价值打开的时候，不是喜悦，而是忧...]]></title>
+        <id>https://twitter.com/tinyfool/status/1402666694187753474</id>
+        <link href="https://twitter.com/tinyfool/status/1402666694187753474"/>
+        <updated>2021-06-09T16:39:34.000Z</updated>
+        <summary type="html"><![CDATA[打包的时候，觉得这也重要那也重要，很多东西都舍不得扔。千里迢迢送到天津，我拆开箱子的时候，发现很多东西对我其实没那么有价值打开的时候，不是喜悦，而是忧愁这东西放在哪里才好。人生的取舍就是如此啊]]></summary>
+        <author>
+            <name>Tinyfool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=blank]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=blank appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有太大的问题，只要不滥发邮件就行。此前运行在 AWS ，不知道什么原因突然就不行了，昨天迁移到 Linode 遇到了一个黑IP，正在逐一解除黑名单限制。 微林一直把...]]></title>
+        <id>https://twitter.com/VnetLink/status/1402616343090778121</id>
+        <link href="https://twitter.com/VnetLink/status/1402616343090778121"/>
+        <updated>2021-06-09T13:19:30.000Z</updated>
+        <summary type="html"><![CDATA[没有太大的问题，只要不滥发邮件就行。此前运行在 AWS ，不知道什么原因突然就不行了，昨天迁移到 Linode 遇到了一个黑IP，正在逐一解除黑名单限制。
+微林一直把用户体验放在第一位，除了邮件通知以外，我们还提供 rss 订阅，尽可能避免打扰到用户。通知也可以完全关闭。
+Wey Gu 古思为: @VnetLink 邮件服务器好难呀，要维护 IP 的 reputation。]]></summary>
+        <author>
+            <name>VnetLink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VnetLink 邮件服务器好难呀，要维护 IP 的 reputation。]]></title>
+        <id>https://twitter.com/wey_gu/status/1402615364962320386</id>
+        <link href="https://twitter.com/wey_gu/status/1402615364962320386"/>
+        <updated>2021-06-09T13:15:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @VnetLink 邮件服务器好难呀，要维护 IP 的 reputation。]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My hometown Kunming is not a very well-known city. Well, not anymore. "Have you seen that story about a group of 15 elephants in a city?" 🐘🐘🐘...]]></title>
+        <id>https://twitter.com/Livid/status/1402605248829530114</id>
+        <link href="https://twitter.com/Livid/status/1402605248829530114"/>
+        <updated>2021-06-09T12:35:25.000Z</updated>
+        <summary type="html"><![CDATA[My hometown Kunming is not a very well-known city. Well, not anymore. "Have you seen that story about a group of 15 elephants in a city?" 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘]]></summary>
+        <author>
+            <name>Livid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspired by @csantanapr 's knative-kind(Thx, Carlos!), I created nebula-kind :-) 我做了一个基于 kind(K8S in Docker)的一行拉起一个通过 Nebula K8S opera...]]></title>
+        <id>https://twitter.com/wey_gu/status/1402604067663142913</id>
+        <link href="https://twitter.com/wey_gu/status/1402604067663142913"/>
+        <updated>2021-06-09T12:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by @csantanapr 's knative-kind(Thx, Carlos!), I created nebula-kind :-)
+我做了一个基于 kind(K8S in Docker)的一行拉起一个通过 Nebula K8S operator 部署的 #nebulaGraph #GraphDatabase
+Repo: 
+文章: https://github.com/wey-gu/nebula-operator-kind https://siwei.io/nebula-operator-kind]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These are incredible!  Left: Data Structures & Algorithms Right: JavaScript source:]]></title>
+        <id>https://twitter.com/omarsar0/status/1402580498975703040</id>
+        <link href="https://twitter.com/omarsar0/status/1402580498975703040"/>
+        <updated>2021-06-09T10:57:04.000Z</updated>
+        <summary type="html"><![CDATA[These are incredible! 
+Left: Data Structures & Algorithms
+Right: JavaScript
+source: https://github.com/mechaniac/Map-of-Javascript]]></summary>
+        <author>
+            <name>elvis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re In the long run, this is the biggest good news for Bitcoin this year, over-weighing the short-term benefits such as the possible approval of US bit...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402576458397097987</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402576458397097987"/>
+        <updated>2021-06-09T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Re In the long run, this is the biggest good news for Bitcoin this year, over-weighing the short-term benefits such as the possible approval of US bitcoin ETF and Apple's purchase of bitcoin. 
+Today is a very important historical day.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Now we can fire back people who used to argue that bitcoin has no value, without sovereign endorsement by saying ”Offshore financial center has al...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402575623210471426</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402575623210471426"/>
+        <updated>2021-06-09T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Re Now we can fire back people who used to argue that bitcoin has no value, without sovereign endorsement by saying ”Offshore financial center has already accepted bitcoin as legal tender”.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re This news will impact ordinary people as well, someone may wonder: “Didn’t they say #BTC was a bubble and a scam? Why a country has made bitcoin ...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402575192870723588</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402575192870723588"/>
+        <updated>2021-06-09T10:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Re This news will impact ordinary people as well, someone may wonder: “Didn’t they say #BTC was a bubble and a scam? Why a country has made bitcoin legal tender?”]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re As #BTC consensus gets stronger, it is expected to be settlement currency for commodity. El Salvador has the potential to become the Cayman Islands...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402573761874780160</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402573761874780160"/>
+        <updated>2021-06-09T10:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Re As #BTC consensus gets stronger, it is expected to be settlement currency for commodity. El Salvador has the potential to become the Cayman Islands for cryptos. Cryptos and offshores are perfect match, so the offshore financial centers could accept bitcoin payment in the future.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re "Todo agente económico deberá acepter bitcoin como forma de pago..", "Todo precio podrá ser expresado en bitcoin", "Los intercambios en bitcoin ...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402571510594736130</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402571510594736130"/>
+        <updated>2021-06-09T10:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Re "Todo agente económico deberá acepter bitcoin como forma de pago..", "Todo precio podrá ser expresado en bitcoin", "Los intercambios en bitcoin no estarán sujetos a impuestos sobre las ganancias de capital... se utilizará el dollar como moneda de referencia."]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re When breakthrough like this occurs more often in small countries, it gradually becomes consensus for small and third world countries. This consensu...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402569362205073412</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402569362205073412"/>
+        <updated>2021-06-09T10:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Re When breakthrough like this occurs more often in small countries, it gradually becomes consensus for small and third world countries. This consensus can be very powerful. From investors, institutions to countries, consensus is an unstoppable trend once it get started from 0 to 1]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re As excessive US dollars are printed, the global trust in the dollar declines, small countries have been charged seigniorage by the U.S. These count...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402567755279200265</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402567755279200265"/>
+        <updated>2021-06-09T10:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Re As excessive US dollars are printed, the global trust in the dollar declines, small countries have been charged seigniorage by the U.S. These countries struggle to find a new solution in their own way, without any subjective intention to fight against US dollar.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BitcoinCashCom2 I believe they will use #BitcoinCash eventually, Bitcoin is the trail-blazer and other tokens will follow.]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402566374275256322</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402566374275256322"/>
+        <updated>2021-06-09T10:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @BitcoinCashCom2 I believe they will use #BitcoinCash eventually, Bitcoin is the trail-blazer and other tokens will follow.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The fiat currency of small countries is lack of sovereign endorsement. Though Colón is the legal tender in El Salvador, local residents have chose...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402565468427153412</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402565468427153412"/>
+        <updated>2021-06-09T09:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Re The fiat currency of small countries is lack of sovereign endorsement. Though Colón is the legal tender in El Salvador, local residents have chosen the #dollars over the colón. According to the Central Bank of Salvador, 90% of its circulating currency is the US dollar.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @JiangZhuoer haha, I am not sure how the people in that country can afford $20 in BTC transaction fees each time they spend their BTC. They should ...]]></title>
+        <id>https://twitter.com/BitcoinCashCom2/status/1402565093234073602</id>
+        <link href="https://twitter.com/BitcoinCashCom2/status/1402565093234073602"/>
+        <updated>2021-06-09T09:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @JiangZhuoer haha, I am not sure how the people in that country can afford $20 in BTC transaction fees each time they spend their BTC. They should have used fast and reliable and upgraded Bitcoin Cash for the whole country which is less than 1 cent transaction fee.]]></summary>
+        <author>
+            <name>BitcoinCashCompany</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Among these companies we can find subsidiaries of international brands: Coca-cola, Protect&Gamble, Intel and Oracle, and China's major corporations...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402563988236365824</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402563988236365824"/>
+        <updated>2021-06-09T09:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Re Among these companies we can find subsidiaries of international brands: Coca-cola, Protect&Gamble, Intel and Oracle, and China's major corporations: Tencent, Baidu, Alibaba, http://Sina.com]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Please don't believe El Salvator is a small country, it's a nation with full sovereignty. Cayman islands have only 600K population but over 100K co...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402562371889942529</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402562371889942529"/>
+        <updated>2021-06-09T09:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Re Please don't believe El Salvator is a small country, it's a nation with full sovereignty. Cayman islands have only 600K population but over 100K companies registered there, including 700+banks, 800+insurance companies and nearly 10K hedge funds.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re From gamining tokens, buying 2 pizzas #bitcoinpizzaday to being reconnaized as legal tender in one country. Bitcoin never cesses to amazing the wor...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402560852574670849</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402560852574670849"/>
+        <updated>2021-06-09T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Re From gamining tokens, buying 2 pizzas #bitcoinpizzaday to being reconnaized as legal tender in one country. Bitcoin never cesses to amazing the world.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is the historical moment for #Bitcoin ! The Bitcoin community's long-standing prophecy has finally come true: #Bitcoin will become legal tender i...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402560563889115139</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402560563889115139"/>
+        <updated>2021-06-09T09:37:51.000Z</updated>
+        <summary type="html"><![CDATA[This is the historical moment for #Bitcoin ! The Bitcoin community's long-standing prophecy has finally come true: #Bitcoin will become legal tender in some countries. Regardless the size of country, it is a major milestone for Bitcoin.
+Asamblea Legislativa: El presidente de la Asamblea Legislativa, @ECastroES, recibe de la Ministra de @EconomiaSV, @MariaLuisaHayem, la propuesta que hará que el #Bitcoin sea reconocido como moneda de curso legal en El Salvador.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SouthKorea1137 @JiangZhuoer1 Yes, definitely!]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402556670929108992</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402556670929108992"/>
+        <updated>2021-06-09T09:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @SouthKorea1137 @JiangZhuoer1 Yes, definitely!]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @AsambleaSV @ECastroES @EconomiaSV @MariaLuisaHayem This is the historical moment for #Bitcoin ! The Bitcoin community's long-standing prophecy has...]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402556583763054592</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402556583763054592"/>
+        <updated>2021-06-09T09:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @AsambleaSV @ECastroES @EconomiaSV @MariaLuisaHayem This is the historical moment for #Bitcoin ! The Bitcoin community's long-standing prophecy has finally come true: #Bitcoin will become legal tender in some countries. Regardless the size of country, it is a major milestone for Bitcoin.]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin is money.]]></title>
+        <id>https://twitter.com/mskvsk/status/1402527750741708803</id>
+        <link href="https://twitter.com/mskvsk/status/1402527750741708803"/>
+        <updated>2021-06-09T07:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is money.]]></summary>
+        <author>
+            <name>Lex Moskovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I just searched my old emails and saw that June 8, 2011 was the day I got into Bitcoin. Today is exactly 10 years since that day. It is the first time...]]></title>
+        <id>https://twitter.com/SatoshiLite/status/1402516684640907267</id>
+        <link href="https://twitter.com/SatoshiLite/status/1402516684640907267"/>
+        <updated>2021-06-09T06:43:29.000Z</updated>
+        <summary type="html"><![CDATA[I just searched my old emails and saw that June 8, 2011 was the day I got into Bitcoin. Today is exactly 10 years since that day. It is the first time I got goosebumps from something happening in this space. History will look back on this day as a major turning point for Bitcoin!
+Nayib Bukele 🇸🇻: The #BitcoinLaw has been approved by a supermajority in the Salvadoran Congress.
+62 out of 84 votes!
+History! #Btc🇸🇻]]></summary>
+        <author>
+            <name>Charlie Lee [LTC⚡]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @LichtSpektrum @thisboyuan 哈哈哈哈，感谢两位]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1402515071859781633</id>
+        <link href="https://twitter.com/shrugged_hi/status/1402515071859781633"/>
+        <updated>2021-06-09T06:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @LichtSpektrum @thisboyuan 哈哈哈哈，感谢两位]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感谢 @thisboyuan 赠书！支持 @shrugged_hi 老师，这本书谨用于提醒我站员工写稿时加链接，加链接，加链接……]]></title>
+        <id>https://twitter.com/LichtSpektrum/status/1402514156343873536</id>
+        <link href="https://twitter.com/LichtSpektrum/status/1402514156343873536"/>
+        <updated>2021-06-09T06:33:26.000Z</updated>
+        <summary type="html"><![CDATA[感谢 @thisboyuan 赠书！支持 @shrugged_hi 老师，这本书谨用于提醒我站员工写稿时加链接，加链接，加链接……
+
+黄猫: 感谢读库，欢迎购买]]></summary>
+        <author>
+            <name>cd/dc://</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nayibbukele #Bitcoin Un momento histórico!]]></title>
+        <id>https://twitter.com/JiangZhuoer/status/1402510147591704582</id>
+        <link href="https://twitter.com/JiangZhuoer/status/1402510147591704582"/>
+        <updated>2021-06-09T06:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @nayibbukele #Bitcoin Un momento histórico!]]></summary>
+        <author>
+            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Btc🇸🇻]]></title>
+        <id>https://twitter.com/nayibbukele/status/1402508938415939593</id>
+        <link href="https://twitter.com/nayibbukele/status/1402508938415939593"/>
+        <updated>2021-06-09T06:12:42.000Z</updated>
+        <summary type="html"><![CDATA[#Btc🇸🇻
+Asamblea Legislativa: Con 62 votos, el pleno legislativo aprueba la #LeyBitcoin con la que El Salvador adopta el #Bitcoin como moneda de circulación legal.
+¡#LaNuevaAsamblea sigue haciendo historia!]]></summary>
+        <author>
+            <name>Nayib Bukele 🇸🇻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Esta es la portada de #DiarioElSalvador de este miércoles 9 de junio del 2021. #DiarioES #DES]]></title>
+        <id>https://twitter.com/elsalvador/status/1402507585807433728</id>
+        <link href="https://twitter.com/elsalvador/status/1402507585807433728"/>
+        <updated>2021-06-09T06:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Esta es la portada de #DiarioElSalvador de este miércoles 9 de junio del 2021. #DiarioES #DES]]></summary>
+        <author>
+            <name>Diario El Salvador</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La #LeyBitcoin acaba de ser aprobada por mayoría calificada en la @AsambleaSV. ¡62 de 84 votos! ¡Historia! #BTC🇸🇻]]></title>
+        <id>https://twitter.com/nayibbukele/status/1402507380710051840</id>
+        <link href="https://twitter.com/nayibbukele/status/1402507380710051840"/>
+        <updated>2021-06-09T06:06:31.000Z</updated>
+        <summary type="html"><![CDATA[La #LeyBitcoin acaba de ser aprobada por mayoría calificada en la @AsambleaSV.
+¡62 de 84 votos!
+¡Historia! #BTC🇸🇻]]></summary>
+        <author>
+            <name>Nayib Bukele 🇸🇻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《中国经济新征程》读书笔记]]></title>
+        <id>https://ljf.com/?p=1011</id>
+        <link href="https://ljf.com/2021/06/09/1011/"/>
+        <updated>2021-06-09T05:00:52.000Z</updated>
+        <summary type="html"><![CDATA[从表面上看，中国经济的成功来自放权、让利和对外开放，但从本质上看，中国经济增长是执政党和人民群众数次破除既得利益集团阻挠的结果。 从地方政府的立场来说，土地不但是一种政府收入的来源，也是撬动银 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速查询知识点，就内容质量和准确性而言，我的感觉是：不列颠百科全书（英文版） > 不列颠百科全书（中文版） >  维基百科（英文版） ≈  中国大百科全书 ≈ 知...]]></title>
+        <id>https://twitter.com/shrugged_hi/status/1402470464618852354</id>
+        <link href="https://twitter.com/shrugged_hi/status/1402470464618852354"/>
+        <updated>2021-06-09T03:39:50.000Z</updated>
+        <summary type="html"><![CDATA[快速查询知识点，就内容质量和准确性而言，我的感觉是：不列颠百科全书（英文版） > 不列颠百科全书（中文版） >  维基百科（英文版） ≈  中国大百科全书 ≈ 知网的工具书总库 > 维基百科（中文版）。百度百科就不评论了。]]></summary>
+        <author>
+            <name>黄猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wey_gu 目前仍处于推广期，所以会继续免费。 日后应该会给小型站点提供一定额度的免费配额，超出配额的大户（比如拿来做图床的）再计费。]]></title>
+        <id>https://twitter.com/VnetLink/status/1402452998219960320</id>
+        <link href="https://twitter.com/VnetLink/status/1402452998219960320"/>
+        <updated>2021-06-09T02:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @wey_gu 目前仍处于推广期，所以会继续免费。
+日后应该会给小型站点提供一定额度的免费配额，超出配额的大户（比如拿来做图床的）再计费。]]></summary>
+        <author>
+            <name>VnetLink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#NewProfilePic]]></title>
+        <id>https://twitter.com/nayibbukele/status/1402444423728873477</id>
+        <link href="https://twitter.com/nayibbukele/status/1402444423728873477"/>
+        <updated>2021-06-09T01:56:21.000Z</updated>
+        <summary type="html"><![CDATA[#NewProfilePic]]></summary>
+        <author>
+            <name>Nayib Bukele 🇸🇻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pahudnet: 當你不小心做了十幾二十個CDK constructs的時候，如何讓他們每天自動保持更新、自動測試、自動merge、自動進版就很重要，幾個月前我寫了一個projen...]]></title>
+        <id>https://twitter.com/pahudnet/status/1402440659219271681</id>
+        <link href="https://twitter.com/pahudnet/status/1402440659219271681"/>
+        <updated>2021-06-09T01:41:23.000Z</updated>
+        <summary type="html"><![CDATA[RT pahudnet
+當你不小心做了十幾二十個CDK constructs的時候，如何讓他們每天自動保持更新、自動測試、自動merge、自動進版就很重要，幾個月前我寫了一個projen-automate-it模塊來解決我這方面需求，很開心projen官方也有很棒的做法了，而且實測很有效！現在管理再多的項目也不怕了。
+pahudnet: Totally hands off now. Love how they self-upgrade, self-test, self-merge and self-bump everyday.]]></summary>
+        <author>
+            <name>Wey Gu 古思为</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當你不小心做了十幾二十個CDK constructs的時候，如何讓他們每天自動保持更新、自動測試、自動merge、自動進版就很重要，幾個月前我寫了一個projen-automate-it...]]></title>
+        <id>https://twitter.com/pahudnet/status/1402440659219271681</id>
+        <link href="https://twitter.com/pahudnet/status/1402440659219271681"/>
+        <updated>2021-06-09T01:41:23.000Z</updated>
+        <summary type="html"><![CDATA[當你不小心做了十幾二十個CDK constructs的時候，如何讓他們每天自動保持更新、自動測試、自動merge、自動進版就很重要，幾個月前我寫了一個projen-automate-it模塊來解決我這方面需求，很開心projen官方也有很棒的做法了，而且實測很有效！現在管理再多的項目也不怕了。
+pahudnet: Totally hands off now. Love how they self-upgrade, self-test, self-merge and self-bump everyday.]]></summary>
+        <author>
+            <name>pahudnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
         <id>60bfd986d3126007592d53a1</id>
@@ -14,6 +732,17 @@
         <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[命运在每个人身上留下的痕迹都不一样，要把握住人生中重要的节点，每个人都被命运安排过，然而选择是在于自己。 挺喜欢罗翔老师，他身上看到了超越了普通人的不...]]></title>
+        <id>https://twitter.com/Jingjjng711/status/1402336493226631168</id>
+        <link href="https://twitter.com/Jingjjng711/status/1402336493226631168"/>
+        <updated>2021-06-08T18:47:28.000Z</updated>
+        <summary type="html"><![CDATA[命运在每个人身上留下的痕迹都不一样，要把握住人生中重要的节点，每个人都被命运安排过，然而选择是在于自己。
+挺喜欢罗翔老师，他身上看到了超越了普通人的不普通的光辉，悲悯而谦虚。]]></summary>
+        <author>
+            <name>Tina</name>
         </author>
     </entry>
     <entry>
@@ -4239,58 +4968,6 @@ See https://github.com/willmcgugan/rich/releases/tag/v10.2.0]]></summary>
         <summary type="html"><![CDATA[Re @kenshinji 我司也是这样的，production的dashboard改了是无法保存的，必须导出json，必须提PR，review然后re-deploy去做provisioning。其实挺合理的]]></summary>
         <author>
             <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @JiangZhuoer Similar situation with the s9. We didn't even sell them when the price dropped below $50 apiece. If you are interested in mining in Ka...]]></title>
-        <id>https://twitter.com/arruah/status/1392440391132123140</id>
-        <link href="https://twitter.com/arruah/status/1392440391132123140"/>
-        <updated>2021-05-12T11:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @JiangZhuoer Similar situation with the s9. We didn't even sell them when the price dropped below $50 apiece. If you are interested in mining in Kazakhstan pm :)]]></summary>
-        <author>
-            <name>kanat amren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[显卡个人几乎不可能买到了，当然想要花大价钱另说。最近以太坊的挖矿收益猛涨，3090每天的收益超过了32美金 前20名主力显卡90%的一个月可以回本，当然这个本是基...]]></title>
-        <id>https://twitter.com/xiaopeng163/status/1392218987107344387</id>
-        <link href="https://twitter.com/xiaopeng163/status/1392218987107344387"/>
-        <updated>2021-05-11T20:44:07.000Z</updated>
-        <summary type="html"><![CDATA[显卡个人几乎不可能买到了，当然想要花大价钱另说。最近以太坊的挖矿收益猛涨，3090每天的收益超过了32美金 前20名主力显卡90%的一个月可以回本，当然这个本是基于显卡的发行价算的，这里的每一张显卡现在价格是发行价的2.5-3倍还买不到 https://2cryptocalc.com/most-profitable-gpu]]></summary>
-        <author>
-            <name>Peng Xiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you want Tesla to accept Doge?]]></title>
-        <id>https://twitter.com/elonmusk/status/1392030108274159619</id>
-        <link href="https://twitter.com/elonmusk/status/1392030108274159619"/>
-        <updated>2021-05-11T08:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Do you want Tesla to accept Doge?]]></summary>
-        <author>
-            <name>Elon Musk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many people now still hold the opinion that the market capitalization of #Ethereum  cannot exceed that of #Bitcoin in this bull run? Currently, th...]]></title>
-        <id>https://twitter.com/JiangZhuoer/status/1392022833438494723</id>
-        <link href="https://twitter.com/JiangZhuoer/status/1392022833438494723"/>
-        <updated>2021-05-11T07:44:40.000Z</updated>
-        <summary type="html"><![CDATA[How many people now still hold the opinion that the market capitalization of #Ethereum  cannot exceed that of #Bitcoin in this bull run?
-Currently, the ETH's market cap reaches 45% of that target.
-According to Jessi Livermore, ETH/BTC ratio is 15.38% away from the position 8.]]></summary>
-        <author>
-            <name>江卓尔 Jiang Zhuoer BTC.TOP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛幸福课 第十七讲笔记 冥想是锻炼心灵的体操]]></title>
-        <id>https://ljf.com/?p=1001</id>
-        <link href="https://ljf.com/2021/05/11/1001/"/>
-        <updated>2021-05-10T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[关于运动性价比最高的运动是有氧运动 高强度间歇运动的效果比有氧运动的效果更好 克服没有时间运动的障碍最不能放弃的是运动 因为运动是一项投资 能提高记忆力和活力运动习惯不能靠自律 要靠例行公事 自尊 …]]></summary>
-        <author>
-            <name>ljf</name>
         </author>
     </entry>
 </feed>
