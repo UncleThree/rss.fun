@@ -7,7 +7,7 @@ sources:
   #- href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
   # 小胡子@语雀
-  - https://www.barretlee.com/rss2.xml
+  - href: https://www.barretlee.com/rss2.xml
   #- href: https://rsshub.app/twitter/keyword/btc/
   #- href: https://rsshub.app/twitter/keyword/eth/
 #   - href: https://rsshub.app/twitter/user/xiaopeng163/
