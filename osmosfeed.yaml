@@ -6,6 +6,8 @@ sources:
   - href: https://css-tricks.com/feed/
   #- href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+  # 小胡子@语雀
+  - https://www.barretlee.com/rss2.xml
   #- href: https://rsshub.app/twitter/keyword/btc/
   #- href: https://rsshub.app/twitter/keyword/eth/
 #   - href: https://rsshub.app/twitter/user/xiaopeng163/
@@ -21,4 +23,4 @@ sources:
 #   - href: https://rsshub.app/twitter/user/randyloop/
 #   - href: https://rsshub.app/twitter/likes/randyloop/
 #   - href: https://us6.campaign-archive.com/feed?u=e4582460499f4aadae1a90e2b&id=d2c14f8a94
-- href: https://github.com/hellodword/wechat-feeds/raw/feeds/MzA3NDM0ODQwMw==.xml/
+#   - href: https://github.com/hellodword/wechat-feeds/raw/feeds/MzA3NDM0ODQwMw==.xml/
