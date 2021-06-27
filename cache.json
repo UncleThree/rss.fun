@@ -92,15 +92,6 @@
           "publishedOn": "2021-05-30T14:55:38.000Z",
           "wordCount": 97,
           "title": "《零售的哲学》读书笔记"
-        },
-        {
-          "id": "https://ljf.com/?p=1006",
-          "author": "ljf",
-          "description": "关于爱情 怎样让爱情美好？ 1，努力 努力是成功的秘诀 很多人对恋情有错误的预期：完美的爱情是不存在的 重点不是寻找（固定心态）而是培养（可塑心态） 固定心态 与 可塑心态要赞美努力而不是聪明 电影强 …",
-          "link": "https://ljf.com/2021/05/28/1006/",
-          "publishedOn": "2021-05-27T22:42:00.000Z",
-          "wordCount": 93,
-          "title": "哈佛幸福课 第十九讲笔记 关于爱情：首先是被了解而非被认可"
         }
       ]
     },
@@ -522,33 +513,6 @@
           "publishedOn": "2021-05-28T14:36:47.000Z",
           "wordCount": 1844,
           "title": "Dynamic Favicons for WordPress"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341298",
-          "author": "Chris Coyier",
-          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
-          "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1049,
-          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341020",
-          "author": "Robin Rendle",
-          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-show-images-on-click/",
-          "publishedOn": "2021-05-27T14:25:29.000Z",
-          "wordCount": 1421,
-          "title": "How to Show Images on Click"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340910",
-          "author": "Michael Rispoli",
-          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
-          "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2327,
-          "title": "Rethinking Postgres in a Post-Server World"
         }
       ]
     },
@@ -1060,33 +1024,6 @@
           "publishedOn": "2021-05-28T16:01:05.000Z",
           "wordCount": 1568,
           "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
-        },
-        {
-          "id": "60b0de2211ffb70827ef8d7c",
-          "author": null,
-          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
-          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
-          "publishedOn": "2021-05-28T12:26:38.000Z",
-          "wordCount": 368,
-          "title": "Advanced Computer Vision with Python"
-        },
-        {
-          "id": "60af931811ffb70827ef85d3",
-          "author": null,
-          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
-          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
-          "publishedOn": "2021-05-27T17:55:23.000Z",
-          "wordCount": 1828,
-          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
-        },
-        {
-          "id": "60a325c6906c5207e3a7da25",
-          "author": null,
-          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
-          "publishedOn": "2021-05-27T15:16:34.000Z",
-          "wordCount": 1399,
-          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
         }
       ]
     },
