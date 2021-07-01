@@ -13,15 +13,6 @@
           "publishedOn": "2021-06-23T05:57:59.000Z",
           "wordCount": 368,
           "title": "v1.11.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
-          "author": null,
-          "description": "Added: testing and CI/CD workflows",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
-          "publishedOn": "2021-06-01T04:39:30.000Z",
-          "wordCount": 268,
-          "title": "v1.10.2"
         }
       ]
     },
@@ -83,15 +74,6 @@
           "publishedOn": "2021-06-09T05:00:52.000Z",
           "wordCount": 69,
           "title": "《中国经济新征程》读书笔记"
-        },
-        {
-          "id": "https://ljf.com/?p=1009",
-          "author": "ljf",
-          "description": "幽默是一种选择 有意的去选择 怎样去看待这个世界  弗洛伊德 本我 自我 超为幽默是对压抑的释放  亨利 伯根森幽默是一种社会纠正器 Dale Sturtevant 幽默是一种正念视角 阿尔法因素和贝塔因素阿尔法因素指 …",
-          "link": "https://ljf.com/2021/06/01/1009/",
-          "publishedOn": "2021-06-01T08:38:31.000Z",
-          "wordCount": 74,
-          "title": "哈佛幸福课 第二十讲笔记  幽默是一种正念视角"
         }
       ]
     },
@@ -100,6 +82,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343224",
+          "author": "Chris Coyier",
+          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
+          "publishedOn": "2021-06-30T20:36:52.000Z",
+          "wordCount": 645,
+          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343064",
+          "author": "Travis Almand",
+          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
+          "publishedOn": "2021-06-30T14:45:42.000Z",
+          "wordCount": 4397,
+          "title": "When a Click is Not Just a Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343182",
+          "author": "Chris Coyier",
+          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
+          "publishedOn": "2021-06-30T14:44:54.000Z",
+          "wordCount": 725,
+          "title": "Fixing a Bug in Low-Resolution Mode"
+        },
         {
           "id": "https://css-tricks.com/?p=343470",
           "author": "Chris Coyier",
@@ -549,24 +558,6 @@
           "publishedOn": "2021-06-01T14:16:55.000Z",
           "wordCount": 926,
           "title": "Jetpack Boost Handles Critical CSS For You"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340465",
-          "author": "Jason Lengstorf",
-          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
-          "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1796,
-          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341482",
-          "author": "Chris Coyier",
-          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/local-always-getting-better/",
-          "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 981,
-          "title": "Local: Always Getting Better"
         }
       ]
     },
@@ -575,6 +566,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6063b8d69618b008528a9d79",
+          "author": null,
+          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
+          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
+          "publishedOn": "2021-06-30T18:49:49.000Z",
+          "wordCount": 956,
+          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
+        },
+        {
+          "id": "6055c55b687d62084bf68804",
+          "author": null,
+          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
+          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
+          "publishedOn": "2021-06-30T14:25:53.000Z",
+          "wordCount": 12270,
+          "title": "What is The C Programming Language? A Tutorial for Beginners"
+        },
+        {
+          "id": "60d5ea736e1a1407b6b0bc8d",
+          "author": null,
+          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
+          "link": "https://www.freecodecamp.org/news/learn-react-router/",
+          "publishedOn": "2021-06-30T14:01:01.000Z",
+          "wordCount": 5542,
+          "title": "Learn React Router"
+        },
         {
           "id": "60db519527f80207bcdbb6fa",
           "author": null,
