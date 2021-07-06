@@ -83,6 +83,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343166",
+          "author": "Lari Maza",
+          "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/",
+          "publishedOn": "2021-07-05T14:17:33.000Z",
+          "wordCount": 1113,
+          "title": "Kubernetes Explained Simply: Containers, Pods and Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343671",
+          "author": "Chris Coyier",
+          "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
+          "publishedOn": "2021-07-05T14:15:20.000Z",
+          "wordCount": 2660,
+          "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
+        },
+        {
           "id": "https://css-tricks.com/?p=343496",
           "author": "Chris Coyier",
           "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
