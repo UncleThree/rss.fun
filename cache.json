@@ -22,6 +22,15 @@
       "siteUrl": "https://ljf.com",
       "articles": [
         {
+          "id": "https://ljf.com/?p=1020",
+          "author": "ljf",
+          "description": "前段时间反复听到有人推荐《觉醒年代》这部电视剧，吸引力我的兴趣，上豆瓣看了一下。9.3分。并且还有评论说“没想到主旋律的片子也可以拍的这么好。”于是准备看个几集试试。 《觉醒年代》一共有43集，看到 …",
+          "link": "https://ljf.com/2021/07/11/1020/",
+          "publishedOn": "2021-07-10T18:12:07.000Z",
+          "wordCount": 47,
+          "title": "《觉醒年代》观后感"
+        },
+        {
           "id": "https://ljf.com/?p=1018",
           "author": "ljf",
           "description": "今天在群晖上备份文件的时候不小心重复了，用群晖的”存储空间分析器“分析后发现有几千个重复文件。 在网上找了各种群晖批量删除文件的办法。发现都比较复杂。最后找到一种简单的办法。 1，用smb协议将群晖 …",
@@ -540,33 +549,6 @@
           "publishedOn": "2021-06-11T14:30:29.000Z",
           "wordCount": 2375,
           "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342050",
-          "author": "Chris Coyier",
-          "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
-          "publishedOn": "2021-06-11T00:16:28.000Z",
-          "wordCount": 667,
-          "title": "Put a Background on Open Details Elements"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341894",
-          "author": "Kevin Powell",
-          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
-          "publishedOn": "2021-06-10T14:34:22.000Z",
-          "wordCount": 4303,
-          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342182",
-          "author": "Ikeh Akinyemi",
-          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
-          "publishedOn": "2021-06-10T14:26:47.000Z",
-          "wordCount": 2892,
-          "title": "Building a Headless CMS with Fauna and Vercel Functions"
         }
       ]
     },
