@@ -56,15 +56,6 @@
           "publishedOn": "2021-06-20T07:24:15.000Z",
           "wordCount": 117,
           "title": "豆豆妈妈儿童时间管理讲座笔记"
-        },
-        {
-          "id": "https://ljf.com/?p=1013",
-          "author": "ljf",
-          "description": "关于自尊无条件自尊的人：想要被了解 而不是被认可 “我要怎样做才能活出自我？”活出自我的人：“我不是一生下来就这样的”（意味着活出自我需要时间和耐心） 为什么独立很重要？培养独立是我们培养相互依存的 …",
-          "link": "https://ljf.com/2021/06/12/1013/",
-          "publishedOn": "2021-06-12T12:46:29.000Z",
-          "wordCount": 71,
-          "title": "哈佛幸福课 第二十二讲笔记  活出自我 活得真实"
         }
       ]
     },
@@ -522,33 +513,6 @@
           "publishedOn": "2021-06-15T14:31:34.000Z",
           "wordCount": 2883,
           "title": "Just How Niche is Headless WordPress?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342429",
-          "author": "Chris Coyier",
-          "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
-          "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 876,
-          "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342237",
-          "author": "Chris Coyier",
-          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nRSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-possibilities-of-syndication/",
-          "publishedOn": "2021-06-11T21:25:56.000Z",
-          "wordCount": 643,
-          "title": "The Possibilities of Syndication"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342164",
-          "author": "Joel Olawanle",
-          "description": "Why would we need to apply shadows to SVG?\nShadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) \n…\nThe post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/",
-          "publishedOn": "2021-06-11T14:30:29.000Z",
-          "wordCount": 2375,
-          "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
         }
       ]
     },
@@ -1033,51 +997,6 @@
           "publishedOn": "2021-06-21T16:38:36.000Z",
           "wordCount": 3575,
           "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
-        },
-        {
-          "id": "60b72d5facb62507dd1d777b",
-          "author": null,
-          "description": "If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,",
-          "link": "https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/",
-          "publishedOn": "2021-06-11T22:56:56.000Z",
-          "wordCount": 1569,
-          "title": "What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business"
-        },
-        {
-          "id": "6063b9189618b008528a9d81",
-          "author": null,
-          "description": "Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How",
-          "link": "https://www.freecodecamp.org/news/how-to-center-objects-using-css/",
-          "publishedOn": "2021-06-11T20:40:17.000Z",
-          "wordCount": 1427,
-          "title": "How to Center Anything in CSS Using Flexbox and Grid ✨"
-        },
-        {
-          "id": "5f9c97e9740569d1a4ca1768",
-          "author": null,
-          "description": "How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.",
-          "link": "https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/",
-          "publishedOn": "2021-06-11T19:10:00.000Z",
-          "wordCount": 2180,
-          "title": "How to Design Keyboard Accessibility for Complex React Experiences"
-        },
-        {
-          "id": "60bc0444acb62507dd1d9a31",
-          "author": null,
-          "description": "Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these",
-          "link": "https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/",
-          "publishedOn": "2021-06-11T17:39:28.000Z",
-          "wordCount": 2143,
-          "title": "How to Ask Good Technical Questions – the Ultimate Guide"
-        },
-        {
-          "id": "60c24cf8d3126007592d61d5",
-          "author": null,
-          "description": "Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go",
-          "link": "https://www.freecodecamp.org/news/learn-react-conditionals/",
-          "publishedOn": "2021-06-11T16:04:46.000Z",
-          "wordCount": 1323,
-          "title": "How to Level Up Your React Conditionals"
         }
       ]
     },
