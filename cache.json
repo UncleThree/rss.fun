@@ -65,6 +65,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344249",
+          "author": "Temani Afif",
+          "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/",
+          "publishedOn": "2021-07-14T14:31:02.000Z",
+          "wordCount": 1964,
+          "title": "Build Complex CSS Transitions using Custom Properties and cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344407",
+          "author": "Chris Coyier",
+          "description": "Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …\nThe post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://cloudfour.com/thinks/a-bashful-button-worth-8-million/",
+          "publishedOn": "2021-07-14T14:25:08.000Z",
+          "wordCount": 2461,
+          "title": "A Bashful Button Worth $8 Million"
+        },
+        {
           "id": "https://css-tricks.com/?p=344316",
           "author": "Chris Coyier",
           "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -566,6 +584,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d4e7596e1a1407b6b0bb56",
+          "author": null,
+          "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
+          "link": "https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/",
+          "publishedOn": "2021-07-14T17:51:43.000Z",
+          "wordCount": 577,
+          "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
+        {
+          "id": "60ebb55be8ee9b08300ed731",
+          "author": null,
+          "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/",
+          "publishedOn": "2021-07-14T07:18:59.000Z",
+          "wordCount": 1136,
+          "title": "An Introduction to Web Server Scanning With Nikto"
+        },
+        {
+          "id": "60eb2a69e8ee9b08300ed5b3",
+          "author": null,
+          "description": "Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype",
+          "link": "https://www.freecodecamp.org/news/redis-crash-course/",
+          "publishedOn": "2021-07-14T06:11:13.000Z",
+          "wordCount": 1435,
+          "title": "Redis Crash Course"
+        },
         {
           "id": "60e73db9134ad707be00f206",
           "author": null,
