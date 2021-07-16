@@ -2,16 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:54:55.401Z</updated>
+    <updated>2021-07-16T00:54:46.930Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爱尔眼科 300015 2020年报笔记]]></title>
+        <id>https://ljf.com/?p=1022</id>
+        <link href="https://ljf.com/2021/07/16/1022/"/>
+        <updated>2021-07-15T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[公司的主要业务及经营模式公司作为专业眼科连锁医疗机构，主要从事各类眼科疾病诊疗、手术服务与医学验光配 镜，目前医疗网络已遍及中国大陆、中国香港、欧洲、美国、东南亚，奠定了全球发展的战 略格局。  …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
+        <id>https://css-tricks.com/?p=344273</id>
+        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
+        <updated>2021-07-15T14:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
+Most of those examples, though, use …
+The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
+        <id>60e74160134ad707be00f23f</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
+        <updated>2021-07-15T13:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
+        <id>60ead07ee8ee9b08300ed387</id>
+        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
+        <updated>2021-07-15T13:13:02.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通策医疗 600763 2020年报笔记]]></title>
+        <id>https://ljf.com/?p=1021</id>
+        <link href="https://ljf.com/2021/07/15/1021/"/>
+        <updated>2021-07-15T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[公司主营业务概况 通策医疗是一家以医疗服务为主营业务的主板上市公司，致力于打造有使命感、将医学精神 和科学精神完美结合，集临床、科研、教学三位一体的大型口腔医疗集团。目前公司拥有已营业 口腔医疗 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
         <id>60d4e7596e1a1407b6b0bb56</id>
         <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
         <updated>2021-07-14T17:51:43.000Z</updated>
         <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning]]></title>
+        <id>5ff5461e7af2371468bb7ece</id>
+        <link href="https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/"/>
+        <updated>2021-07-14T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -1333,42 +1395,6 @@ The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can 
 The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Okiki Ojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
-        <id>https://css-tricks.com/?p=342198</id>
-        <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
-        <updated>2021-06-15T23:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
-The post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
-        <id>https://css-tricks.com/?p=342519</id>
-        <link href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/"/>
-        <updated>2021-06-15T19:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
-I took the bait and had a look at some of my projects – 
-…
-The post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
-        <id>https://css-tricks.com/?p=342248</id>
-        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
-        <updated>2021-06-15T14:31:34.000Z</updated>
-        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
-Is it… big? The future …
-The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
