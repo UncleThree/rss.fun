@@ -567,24 +567,6 @@
           "publishedOn": "2021-06-18T13:44:17.000Z",
           "wordCount": 784,
           "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341948",
-          "author": "Louis Hoebregts",
-          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
-          "publishedOn": "2021-06-17T14:45:57.000Z",
-          "wordCount": 1691,
-          "title": "Perfect Tooltips With CSS Clipping and Masking"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342257",
-          "author": "ImageEngine",
-          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
-          "publishedOn": "2021-06-17T14:38:42.000Z",
-          "wordCount": 1309,
-          "title": "Start Serving Optimized Images in Vue"
         }
       ]
     },
