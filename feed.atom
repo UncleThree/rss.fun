@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T00:56:04.596Z</updated>
+    <updated>2021-07-19T00:54:50.934Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[密尔克卫 603713 2020年报笔记]]></title>
+        <id>https://ljf.com/?p=1025</id>
+        <link href="https://ljf.com/2021/07/18/1025/"/>
+        <updated>2021-07-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[报告期内公司所从事的主要业务、经营模式及行业情况说明 密尔克卫是国内领先的专业化工供应链综合服务商，提供以货运代理、仓储和运输为核 心的一站式综合物流服务，并基于综合物流服务向化工品交易延伸， …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隆基股份 601012 2020年报笔记]]></title>
         <id>https://ljf.com/?p=1023</id>
@@ -1363,29 +1373,6 @@ The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appe
         <summary type="html"><![CDATA[自我介绍王宏 北师大心理学硕士 北师大教育培训中心特聘专家曾经是成功的理论家 失败的实践者04年为孩子辞去了工作豆豆妈妈工作室 以时间为主轴 豆豆妈妈训练法  教育目标：成为幸福的普通人幸福：对 …]]></summary>
         <author>
             <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
-        <id>https://css-tricks.com/?p=341511</id>
-        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
-        <updated>2021-06-18T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
-The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Carter Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=342326</id>
-        <link href="https://css-tricks.com/links-on-typography-2/"/>
-        <updated>2021-06-18T13:44:17.000Z</updated>
-        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
-…
-The post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
