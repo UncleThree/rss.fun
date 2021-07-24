@@ -73,6 +73,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344019",
+          "author": "Farai Gandiya",
+          "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/",
+          "publishedOn": "2021-07-23T15:12:11.000Z",
+          "wordCount": 1889,
+          "title": "Web Features That May Not Work As You’d Expect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345209",
+          "author": "Chris Coyier",
+          "description": "Dave:\npetite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps \n…\nThe post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://daverupert.com/2021/07/petite-vue-review/",
+          "publishedOn": "2021-07-23T15:10:08.000Z",
+          "wordCount": 1060,
+          "title": "My petite-vue review"
+        },
+        {
           "id": "https://css-tricks.com/?p=344960",
           "author": "Chris Coyier",
           "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -557,33 +575,6 @@
           "publishedOn": "2021-06-24T14:30:11.000Z",
           "wordCount": 6342,
           "title": "Chapter 9: Community"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343076",
-          "author": "Chris Coyier",
-          "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/",
-          "publishedOn": "2021-06-23T21:37:14.000Z",
-          "wordCount": 1325,
-          "title": "TablesNG — Improvements to table rendering in Chromium"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342750",
-          "author": "Ollie Williams",
-          "description": "The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…\nThe post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/",
-          "publishedOn": "2021-06-23T19:10:54.000Z",
-          "wordCount": 1244,
-          "title": "Using Performant Next-Gen Images in CSS with image-set"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342669",
-          "author": "Chris Coyier",
-          "description": "PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …\nThe post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/weak-declaration/",
-          "publishedOn": "2021-06-23T14:27:14.000Z",
-          "wordCount": 704,
-          "title": "“Weak declaration”"
         }
       ]
     },
@@ -592,6 +583,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60faae4d1d2b080797b82046",
+          "author": null,
+          "description": "Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome",
+          "link": "https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/",
+          "publishedOn": "2021-07-23T21:42:07.000Z",
+          "wordCount": 1401,
+          "title": "How to Clear Search History – Delete All Browsing Data in Chrome"
+        },
+        {
+          "id": "60f5aca466c61b07d458f119",
+          "author": null,
+          "description": "Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why",
+          "link": "https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/",
+          "publishedOn": "2021-07-23T17:25:34.000Z",
+          "wordCount": 1545,
+          "title": "Python zip() Function – Explained with Code Examples"
+        },
         {
           "id": "60f969ee1d2b080797b8160a",
           "author": null,
@@ -1275,42 +1284,6 @@
           "publishedOn": "2021-06-24T16:50:36.000Z",
           "wordCount": 9777,
           "title": "How to Use OpenTelemetry to Understand Software Performance"
-        },
-        {
-          "id": "605abca5687d62084bf6b7cd",
-          "author": null,
-          "description": "Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it",
-          "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/",
-          "publishedOn": "2021-06-24T00:11:01.000Z",
-          "wordCount": 8365,
-          "title": "What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial"
-        },
-        {
-          "id": "6072ffd4d5756f080ba98b27",
-          "author": null,
-          "description": "Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built",
-          "link": "https://www.freecodecamp.org/news/microservices-architecture-for-humans/",
-          "publishedOn": "2021-06-23T21:52:08.000Z",
-          "wordCount": 2975,
-          "title": "Microservices Architecture – Explained in Plain English"
-        },
-        {
-          "id": "60d36eb66e1a1407b6b0b16d",
-          "author": null,
-          "description": ".NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.",
-          "link": "https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/",
-          "publishedOn": "2021-06-23T18:08:14.000Z",
-          "wordCount": 60401,
-          "title": "Create a REST API with .NET 5 and  C#"
-        },
-        {
-          "id": "60a406bd906c5207e3a7dfcb",
-          "author": null,
-          "description": "In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/",
-          "publishedOn": "2021-06-23T17:19:24.000Z",
-          "wordCount": 2330,
-          "title": "How to Create a Great Technical Course"
         }
       ]
     },

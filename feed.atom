@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T00:54:35.666Z</updated>
+    <updated>2021-07-24T00:54:23.545Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
+        <id>60faae4d1d2b080797b82046</id>
+        <link href="https://www.freecodecamp.org/news/how-to-clear-search-history-delete-all-browsing-data-in-chrome/"/>
+        <updated>2021-07-23T21:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Your browsing history can come in very handy when you want to look up  something that you have already viewed on the internet.  Maybe you read an interesting article online and want to reference it again, but forgot to bookmark it. Well, you can have a look at your Chrome]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python zip() Function – Explained with Code Examples]]></title>
+        <id>60f5aca466c61b07d458f119</id>
+        <link href="https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/"/>
+        <updated>2021-07-23T17:25:34.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed to loop through multiple iterables in parallel when coding in Python? In this tutorial, we'll use Python's zip() function to efficiently perform parallel iteration over multiple iterables. Here's what we'll cover in this post:  How to Use the 'in' Operator in Python to Traverse Iterables Why]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
+        <id>https://css-tricks.com/?p=344019</id>
+        <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
+        <updated>2021-07-23T15:12:11.000Z</updated>
+        <summary type="html"><![CDATA[As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…
+The post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Farai Gandiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My petite-vue review]]></title>
+        <id>https://css-tricks.com/?p=345209</id>
+        <link href="https://daverupert.com/2021/07/petite-vue-review/"/>
+        <updated>2021-07-23T15:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Dave:
+petite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps 
+…
+The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organize your CSS declarations alphabetically]]></title>
         <id>https://css-tricks.com/?p=344960</id>
@@ -1466,79 +1510,6 @@ We have decided to discontinue the process of allowing new customers to sign up
 The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial]]></title>
-        <id>605abca5687d62084bf6b7cd</id>
-        <link href="https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/"/>
-        <updated>2021-06-24T00:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microservices Architecture – Explained in Plain English]]></title>
-        <id>6072ffd4d5756f080ba98b27</id>
-        <link href="https://www.freecodecamp.org/news/microservices-architecture-for-humans/"/>
-        <updated>2021-06-23T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TablesNG — Improvements to table rendering in Chromium]]></title>
-        <id>https://css-tricks.com/?p=343076</id>
-        <link href="https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/"/>
-        <updated>2021-06-23T21:37:14.000Z</updated>
-        <summary type="html"><![CDATA[When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…
-The post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Performant Next-Gen Images in CSS with image-set]]></title>
-        <id>https://css-tricks.com/?p=342750</id>
-        <link href="https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/"/>
-        <updated>2021-06-23T19:10:54.000Z</updated>
-        <summary type="html"><![CDATA[The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…
-The post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a REST API with .NET 5 and  C#]]></title>
-        <id>60d36eb66e1a1407b6b0b16d</id>
-        <link href="https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/"/>
-        <updated>2021-06-23T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[.NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Great Technical Course]]></title>
-        <id>60a406bd906c5207e3a7dfcb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/"/>
-        <updated>2021-06-23T17:19:24.000Z</updated>
-        <summary type="html"><![CDATA[In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Weak declaration”]]></title>
-        <id>https://css-tricks.com/?p=342669</id>
-        <link href="https://css-tricks.com/weak-declaration/"/>
-        <updated>2021-06-23T14:27:14.000Z</updated>
-        <summary type="html"><![CDATA[PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …
-The post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
