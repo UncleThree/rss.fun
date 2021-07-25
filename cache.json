@@ -566,15 +566,6 @@
           "publishedOn": "2021-06-25T14:33:33.000Z",
           "wordCount": 993,
           "title": "How to Cancel Pending API Requests to Show Correct Data"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342818",
-          "author": "Jay Hoffmann",
-          "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-9-community/",
-          "publishedOn": "2021-06-24T14:30:11.000Z",
-          "wordCount": 6342,
-          "title": "Chapter 9: Community"
         }
       ]
     },
@@ -1266,24 +1257,6 @@
           "publishedOn": "2021-06-28T13:44:39.000Z",
           "wordCount": 806,
           "title": "Why You Should Learn Data Analytics"
-        },
-        {
-          "id": "60d3ee396e1a1407b6b0b6ef",
-          "author": null,
-          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
-          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
-          "publishedOn": "2021-06-24T17:01:44.000Z",
-          "wordCount": 1511,
-          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
-        },
-        {
-          "id": "60d4b5e96e1a1407b6b0bac4",
-          "author": null,
-          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
-          "publishedOn": "2021-06-24T16:50:36.000Z",
-          "wordCount": 9777,
-          "title": "How to Use OpenTelemetry to Understand Software Performance"
         }
       ]
     },
