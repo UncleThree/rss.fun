@@ -12,6 +12,15 @@
       "siteUrl": "https://ljf.com",
       "articles": [
         {
+          "id": "https://ljf.com/?p=1027",
+          "author": "ljf",
+          "description": "本书开篇便告诉我们如果能发现自己的习惯模式，你就能改变自己的生活。作者强调“你有自由，也有责任”重塑自己的习惯。依靠习惯的力量，酗酒之人可以戒酒，深陷困境的企业能够重整旗鼓，高中辍学生也能够当 …",
+          "link": "https://ljf.com/2021/07/25/1027/",
+          "publishedOn": "2021-07-25T09:05:15.000Z",
+          "wordCount": 65,
+          "title": "《习惯的力量》读书笔记"
+        },
+        {
           "id": "https://ljf.com/?p=1025",
           "author": "ljf",
           "description": "报告期内公司所从事的主要业务、经营模式及行业情况说明 密尔克卫是国内领先的专业化工供应链综合服务商，提供以货运代理、仓储和运输为核 心的一站式综合物流服务，并基于综合物流服务向化工品交易延伸， …",
@@ -548,24 +557,6 @@
           "publishedOn": "2021-06-28T13:29:00.000Z",
           "wordCount": 738,
           "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342718",
-          "author": "Chris Coyier",
-          "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/custom-property-brain-twisters/",
-          "publishedOn": "2021-06-25T18:39:46.000Z",
-          "wordCount": 652,
-          "title": "Custom Property Brain Twisters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342911",
-          "author": "Georgi Nikoloff",
-          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
-          "publishedOn": "2021-06-25T14:33:33.000Z",
-          "wordCount": 993,
-          "title": "How to Cancel Pending API Requests to Show Correct Data"
         }
       ]
     },

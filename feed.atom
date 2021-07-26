@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T00:55:56.016Z</updated>
+    <updated>2021-07-26T00:54:23.312Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《习惯的力量》读书笔记]]></title>
+        <id>https://ljf.com/?p=1027</id>
+        <link href="https://ljf.com/2021/07/25/1027/"/>
+        <updated>2021-07-25T09:05:15.000Z</updated>
+        <summary type="html"><![CDATA[本书开篇便告诉我们如果能发现自己的习惯模式，你就能改变自己的生活。作者强调“你有自由，也有责任”重塑自己的习惯。依靠习惯的力量，酗酒之人可以戒酒，深陷困境的企业能够重整旗鼓，高中辍学生也能够当 …]]></summary>
+        <author>
+            <name>ljf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Clear Search History – Delete All Browsing Data in Chrome]]></title>
         <id>60faae4d1d2b080797b82046</id>
@@ -1454,29 +1464,6 @@ Both are essentially database-backed systems for managing data. HubSpot is both,
 The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
-        <id>https://css-tricks.com/?p=342718</id>
-        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
-        <updated>2021-06-25T18:39:46.000Z</updated>
-        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
-The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
-        <id>https://css-tricks.com/?p=342911</id>
-        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
-        <updated>2021-06-25T14:33:33.000Z</updated>
-        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
-One problem quickly became evident: …
-The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Georgi Nikoloff</name>
         </author>
     </entry>
 </feed>
