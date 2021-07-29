@@ -91,6 +91,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345404",
+          "author": "Chris Coyier",
+          "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/safari-15-opinions/",
+          "publishedOn": "2021-07-28T20:21:55.000Z",
+          "wordCount": 1040,
+          "title": "Safari 15 Opinions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=320544",
+          "author": "Ana Tudor",
+          "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
+          "publishedOn": "2021-07-28T14:37:34.000Z",
+          "wordCount": 6716,
+          "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
+        },
+        {
           "id": "https://css-tricks.com/?p=345169",
           "author": "Chris Coyier",
           "description": "I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -584,42 +602,6 @@
           "publishedOn": "2021-06-29T14:37:21.000Z",
           "wordCount": 747,
           "title": ":nth-child Between Two Fixed Indexes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343040",
-          "author": "Chris Coyier",
-          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/system-things/",
-          "publishedOn": "2021-06-28T22:14:22.000Z",
-          "wordCount": 959,
-          "title": "System *Things"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343139",
-          "author": "Chris Coyier",
-          "description": "Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …\nThe post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
-          "publishedOn": "2021-06-28T21:17:26.000Z",
-          "wordCount": 937,
-          "title": "Working around the viewport-based fluid typography bug in Safari"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342971",
-          "author": "Ryan Mulligan",
-          "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
-          "publishedOn": "2021-06-28T14:25:33.000Z",
-          "wordCount": 2338,
-          "title": "Positioning Overlay Content with CSS Grid"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343072",
-          "author": "Chris Coyier",
-          "description": "To make some terminology clear here:\nCMS = Content Management System\nCRM = Customer Relationship Management\nBoth are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …\nThe post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/",
-          "publishedOn": "2021-06-28T13:29:00.000Z",
-          "wordCount": 738,
-          "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
         }
       ]
     },
@@ -628,6 +610,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f993f51d2b080797b818a7",
+          "author": null,
+          "description": "In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in",
+          "link": "https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/",
+          "publishedOn": "2021-07-28T17:24:21.000Z",
+          "wordCount": 1607,
+          "title": "Functions in Python – Explained with Code Examples"
+        },
+        {
+          "id": "60fec60822b0e2078fcd16f0",
+          "author": null,
+          "description": "A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large",
+          "link": "https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/",
+          "publishedOn": "2021-07-28T16:27:49.000Z",
+          "wordCount": 1675,
+          "title": "JavaScript Modules – Explained with Examples"
+        },
+        {
+          "id": "60e74b9c134ad707be00f284",
+          "author": null,
+          "description": "PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube",
+          "link": "https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/",
+          "publishedOn": "2021-07-28T14:18:37.000Z",
+          "wordCount": 19795,
+          "title": "How to Use PySpark for Data Processing and Machine Learning"
+        },
         {
           "id": "60ffec493306a507d1bf98f4",
           "author": null,
@@ -1338,60 +1347,6 @@
           "publishedOn": "2021-06-29T13:24:44.000Z",
           "wordCount": 684,
           "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
-        },
-        {
-          "id": "60d61acc6e1a1407b6b0bd46",
-          "author": null,
-          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
-          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
-          "publishedOn": "2021-06-28T21:17:02.000Z",
-          "wordCount": 3681,
-          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
-        },
-        {
-          "id": "60d9766b6e1a1407b6b0cb4f",
-          "author": null,
-          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
-          "publishedOn": "2021-06-28T20:35:12.000Z",
-          "wordCount": 2818,
-          "title": "How to Deploy an NLP Model with FastAPI"
-        },
-        {
-          "id": "60d07b4578f45307fee80aef",
-          "author": null,
-          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
-          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
-          "publishedOn": "2021-06-28T20:04:28.000Z",
-          "wordCount": 2258,
-          "title": "What is an IDE in Programming? An IDE Definition for Developers"
-        },
-        {
-          "id": "60d675ac6e1a1407b6b0bea1",
-          "author": null,
-          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
-          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
-          "publishedOn": "2021-06-28T18:45:21.000Z",
-          "wordCount": 740,
-          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
-        },
-        {
-          "id": "60d4d3d86e1a1407b6b0bb25",
-          "author": null,
-          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
-          "publishedOn": "2021-06-28T13:50:35.000Z",
-          "wordCount": 67249,
-          "title": "Learn How to Create a Design System in Figma"
-        },
-        {
-          "id": "60d4ea756e1a1407b6b0bb71",
-          "author": null,
-          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
-          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
-          "publishedOn": "2021-06-28T13:44:39.000Z",
-          "wordCount": 806,
-          "title": "Why You Should Learn Data Analytics"
         }
       ]
     },
