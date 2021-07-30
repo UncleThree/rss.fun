@@ -73,15 +73,6 @@
           "publishedOn": "2021-07-10T18:12:07.000Z",
           "wordCount": 47,
           "title": "《觉醒年代》观后感"
-        },
-        {
-          "id": "https://ljf.com/?p=1018",
-          "author": "ljf",
-          "description": "今天在群晖上备份文件的时候不小心重复了，用群晖的”存储空间分析器“分析后发现有几千个重复文件。 在网上找了各种群晖批量删除文件的办法。发现都比较复杂。最后找到一种简单的办法。 1，用smb协议将群晖 …",
-          "link": "https://ljf.com/2021/06/29/1018/",
-          "publishedOn": "2021-06-29T13:45:20.000Z",
-          "wordCount": 47,
-          "title": "群晖批量删除重复文件的巧办法"
         }
       ]
     },
@@ -90,6 +81,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=345518",
+          "author": "Chris Coyier",
+          "description": "An explanation of those new GitHub social media images:\n[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to \n…\nThe post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://github.blog/2021-06-22-framework-building-open-graph-images/",
+          "publishedOn": "2021-07-29T19:49:32.000Z",
+          "wordCount": 1708,
+          "title": "GitHub Explains the Open Graph Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344993",
+          "author": "Loren Sands-Ramshaw",
+          "description": "John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …\nThe post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/",
+          "publishedOn": "2021-07-29T14:54:00.000Z",
+          "wordCount": 1732,
+          "title": "So you want to self-publish books and courses on programming"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345260",
+          "author": "Chris Coyier",
+          "description": "I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …\nThe post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/developer-friendly-passwordless-auth/",
+          "publishedOn": "2021-07-29T14:47:47.000Z",
+          "wordCount": 1177,
+          "title": "Developer-Friendly Passwordless Auth"
+        },
         {
           "id": "https://css-tricks.com/?p=345404",
           "author": "Chris Coyier",
@@ -575,33 +593,6 @@
           "publishedOn": "2021-06-30T14:44:54.000Z",
           "wordCount": 725,
           "title": "Fixing a Bug in Low-Resolution Mode"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343470",
-          "author": "Chris Coyier",
-          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
-          "publishedOn": "2021-06-29T22:43:50.000Z",
-          "wordCount": 672,
-          "title": "What does `font: 110%/1.4 system-ui` mean?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343260",
-          "author": "Chris Coyier",
-          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
-          "publishedOn": "2021-06-29T20:25:00.000Z",
-          "wordCount": 3316,
-          "title": "Chromium spelling and grammar features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342736",
-          "author": "Chris Coyier",
-          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
-          "publishedOn": "2021-06-29T14:37:21.000Z",
-          "wordCount": 747,
-          "title": ":nth-child Between Two Fixed Indexes"
         }
       ]
     },
@@ -610,6 +601,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f0501b66c61b07d458df00",
+          "author": null,
+          "description": "We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your",
+          "link": "https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/",
+          "publishedOn": "2021-07-29T22:36:44.000Z",
+          "wordCount": 2472,
+          "title": "Android Camera2 – How to Use the Camera2 API to Take Photos and Videos"
+        },
+        {
+          "id": "60f534ec66c61b07d458ecfe",
+          "author": null,
+          "description": "The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a",
+          "link": "https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/",
+          "publishedOn": "2021-07-29T18:27:33.000Z",
+          "wordCount": 781,
+          "title": "Not Equal Sign – How to Type the Does Not Equal Symbol"
+        },
+        {
+          "id": "6102ccd03306a507d1bfb150",
+          "author": null,
+          "description": "Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/",
+          "publishedOn": "2021-07-29T15:52:57.000Z",
+          "wordCount": 4836,
+          "title": "Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud"
+        },
+        {
+          "id": "60fc708a22b0e2078fcd0cdc",
+          "author": null,
+          "description": "I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will",
+          "link": "https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/",
+          "publishedOn": "2021-07-29T15:35:00.000Z",
+          "wordCount": 4719,
+          "title": "Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet"
+        },
+        {
+          "id": "61018d5c3306a507d1bfa74a",
+          "author": null,
+          "description": "There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional",
+          "link": "https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/",
+          "publishedOn": "2021-07-29T15:32:30.000Z",
+          "wordCount": 1406,
+          "title": "Python If Else Statement – Conditional Statements Explained"
+        },
         {
           "id": "60f993f51d2b080797b818a7",
           "author": null,
@@ -1311,42 +1347,6 @@
           "publishedOn": "2021-06-30T14:01:01.000Z",
           "wordCount": 5542,
           "title": "Learn React Router"
-        },
-        {
-          "id": "60db519527f80207bcdbb6fa",
-          "author": null,
-          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
-          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
-          "publishedOn": "2021-06-29T20:00:32.000Z",
-          "wordCount": 908,
-          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
-        },
-        {
-          "id": "604b8c6ea7946308b7687683",
-          "author": null,
-          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
-          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
-          "publishedOn": "2021-06-29T19:47:13.000Z",
-          "wordCount": 1079,
-          "title": "Linux List Processes – How to Check Running Processes"
-        },
-        {
-          "id": "60daf29027f80207bcdbb3fe",
-          "author": null,
-          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
-          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
-          "publishedOn": "2021-06-29T18:25:52.000Z",
-          "wordCount": 926,
-          "title": "How to Use timedelta Objects in Python to Work with Dates"
-        },
-        {
-          "id": "60d76f6f6e1a1407b6b0c521",
-          "author": null,
-          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
-          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
-          "publishedOn": "2021-06-29T13:24:44.000Z",
-          "wordCount": 684,
-          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
         }
       ]
     },

@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T00:53:10.869Z</updated>
+    <updated>2021-07-30T00:56:04.453Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
+        <id>60f0501b66c61b07d458df00</id>
+        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
+        <updated>2021-07-29T22:36:44.000Z</updated>
+        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
+        <id>https://css-tricks.com/?p=345518</id>
+        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
+        <updated>2021-07-29T19:49:32.000Z</updated>
+        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
+[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
+…
+The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
+        <id>60f534ec66c61b07d458ecfe</id>
+        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
+        <updated>2021-07-29T18:27:33.000Z</updated>
+        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
+        <id>6102ccd03306a507d1bfb150</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
+        <updated>2021-07-29T15:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
+        <id>60fc708a22b0e2078fcd0cdc</id>
+        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
+        <updated>2021-07-29T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
+        <id>61018d5c3306a507d1bfa74a</id>
+        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
+        <updated>2021-07-29T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
+        <id>https://css-tricks.com/?p=344993</id>
+        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
+        <updated>2021-07-29T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
+The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Loren Sands-Ramshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
+        <id>https://css-tricks.com/?p=345260</id>
+        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
+        <updated>2021-07-29T14:47:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safari 15 Opinions]]></title>
         <id>https://css-tricks.com/?p=345404</id>
@@ -1480,96 +1565,6 @@ The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You c
         <link href="https://www.freecodecamp.org/news/learn-react-router/"/>
         <updated>2021-06-30T14:01:01.000Z</updated>
         <summary type="html"><![CDATA[React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
-        <id>https://css-tricks.com/?p=343470</id>
-        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
-        <updated>2021-06-29T22:43:50.000Z</updated>
-        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
-html {
-  font: 110%/1.4 system-ui;
-}
-…
-The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
-        <id>https://css-tricks.com/?p=343260</id>
-        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
-        <updated>2021-06-29T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
-The squiggly lines that indicate possible spelling or grammar errors 
-…
-The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>60db519527f80207bcdbb6fa</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
-        <updated>2021-06-29T20:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
-        <id>604b8c6ea7946308b7687683</id>
-        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
-        <updated>2021-06-29T19:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
-        <id>60daf29027f80207bcdbb3fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
-        <updated>2021-06-29T18:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
-        <id>https://css-tricks.com/?p=342736</id>
-        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
-        <updated>2021-06-29T14:37:21.000Z</updated>
-        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
-The answer, it …
-The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖批量删除重复文件的巧办法]]></title>
-        <id>https://ljf.com/?p=1018</id>
-        <link href="https://ljf.com/2021/06/29/1018/"/>
-        <updated>2021-06-29T13:45:20.000Z</updated>
-        <summary type="html"><![CDATA[今天在群晖上备份文件的时候不小心重复了，用群晖的”存储空间分析器“分析后发现有几千个重复文件。 在网上找了各种群晖批量删除文件的办法。发现都比较复杂。最后找到一种简单的办法。 1，用smb协议将群晖 …]]></summary>
-        <author>
-            <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
-        <id>60d76f6f6e1a1407b6b0c521</id>
-        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
-        <updated>2021-06-29T13:24:44.000Z</updated>
-        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
