@@ -82,6 +82,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345628",
+          "author": "Chris Coyier",
+          "description": "Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …\nThe post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://katydecorah.com/code/eslint-config/",
+          "publishedOn": "2021-07-30T20:07:06.000Z",
+          "wordCount": 237,
+          "title": "A Shared ESLint Configuration"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345256",
+          "author": "George Francis",
+          "description": "The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …\nThe post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/",
+          "publishedOn": "2021-07-30T14:54:36.000Z",
+          "wordCount": 5641,
+          "title": "Conjuring Generative Blobs With The CSS Paint API"
+        },
+        {
           "id": "https://css-tricks.com/?p=345518",
           "author": "Chris Coyier",
           "description": "An explanation of those new GitHub social media images:\n[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to \n…\nThe post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -566,33 +584,6 @@
           "publishedOn": "2021-07-01T14:40:14.000Z",
           "wordCount": 1576,
           "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343224",
-          "author": "Chris Coyier",
-          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
-          "publishedOn": "2021-06-30T20:36:52.000Z",
-          "wordCount": 645,
-          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343064",
-          "author": "Travis Almand",
-          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
-          "publishedOn": "2021-06-30T14:45:42.000Z",
-          "wordCount": 4397,
-          "title": "When a Click is Not Just a Click"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343182",
-          "author": "Chris Coyier",
-          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
-          "publishedOn": "2021-06-30T14:44:54.000Z",
-          "wordCount": 725,
-          "title": "Fixing a Bug in Low-Resolution Mode"
         }
       ]
     },
@@ -601,6 +592,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6053023028094f59be257c79",
+          "author": null,
+          "description": "When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.  What is an HTML 5 boilerplate?According to Wikipedia,  boilerplate",
+          "link": "https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/",
+          "publishedOn": "2021-07-30T22:41:08.000Z",
+          "wordCount": 797,
+          "title": "Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project"
+        },
+        {
+          "id": "60f534d266c61b07d458ecf8",
+          "author": null,
+          "description": "If you want to add a number to a text string, you can't do so directly since the format isn't maintained. Also, a number added to a text string doesn't have any formatting or all its decimal places.  The TEXT function comes in handy here, as it allows you to",
+          "link": "https://www.freecodecamp.org/news/excel-text-function-how-to-convert-a-number-to-text-format/",
+          "publishedOn": "2021-07-30T22:22:23.000Z",
+          "wordCount": 1003,
+          "title": "Excel Text Function – How to Convert a Number to Text Format"
+        },
+        {
+          "id": "610478b63306a507d1bfbb23",
+          "author": null,
+          "description": "Actor-Critic Methods are very useful reinforcement learning techniques. Actor-critic methods are most useful for applications in robotics as they allow software to output continuous, rather than discrete actions. This enables control of electric motors to actuate movement in robotic systems, at the expense of increased computational complexity. We just released",
+          "link": "https://www.freecodecamp.org/news/intro-to-advanced-actor-critic-methods-reinforcement-learning-course/",
+          "publishedOn": "2021-07-30T22:20:15.000Z",
+          "wordCount": 480,
+          "title": "Intro to Advanced Actor-Critic Methods: Reinforcement Learning Course"
+        },
+        {
+          "id": "6102c9803306a507d1bfb0f4",
+          "author": null,
+          "description": "Links are a defining featute of the Web and you'll find them everywhere.  As their name suggests, they create links, or connections, between pages. This allows us to navigate quickly and easily from one webpage to another.  You'll find many types of links on the Web.  There are links that",
+          "link": "https://www.freecodecamp.org/news/what-is-a-hyperlink-definition-for-html-link-beginners/",
+          "publishedOn": "2021-07-30T22:07:57.000Z",
+          "wordCount": 1528,
+          "title": "What is a Hyperlink? Definition for HTML Link Beginners"
+        },
+        {
+          "id": "60f5350266c61b07d458ed04",
+          "author": null,
+          "description": "Speech-to-Text is a really useful accessibility tool if typing is difficult for you. Or you can also use it if you like to think out loud and transcribe what you say. In this tutorial, I'll show you how to use speech-to-text in Google Docs. Do note, though, that this feature",
+          "link": "https://www.freecodecamp.org/news/google-docs-voice-typing-how-to-use-speech-to-text-in-a-google-doc/",
+          "publishedOn": "2021-07-30T20:09:13.000Z",
+          "wordCount": 740,
+          "title": "Google Docs Voice Typing – How to Use Speech-to-Text in a Google Doc"
+        },
         {
           "id": "60f0501b66c61b07d458df00",
           "author": null,
@@ -1311,42 +1347,6 @@
           "publishedOn": "2021-07-01T16:51:30.000Z",
           "wordCount": 79275,
           "title": "Backend Web Development with Python - Full Course"
-        },
-        {
-          "id": "60dc78e927f80207bcdbbddc",
-          "author": null,
-          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
-          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
-          "publishedOn": "2021-07-01T04:36:31.000Z",
-          "wordCount": 942,
-          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
-        },
-        {
-          "id": "6063b8d69618b008528a9d79",
-          "author": null,
-          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
-          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
-          "publishedOn": "2021-06-30T18:49:49.000Z",
-          "wordCount": 956,
-          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
-        },
-        {
-          "id": "6055c55b687d62084bf68804",
-          "author": null,
-          "description": "This tutorial is an overview of basic concepts of the C programming language.  It goes over the history of the language, why and where it is used, the compilation process, and some very basic programming concepts that are common in most popular programming languages. It is not a complete guide",
-          "link": "https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/",
-          "publishedOn": "2021-06-30T14:25:53.000Z",
-          "wordCount": 12270,
-          "title": "What is The C Programming Language? A Tutorial for Beginners"
-        },
-        {
-          "id": "60d5ea736e1a1407b6b0bc8d",
-          "author": null,
-          "description": "React Router is commonly used to make different routes for pages in React Applications. We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create routes in your React applications. Piyush Agarwal developed this course. Piyush is a prolific course creator on",
-          "link": "https://www.freecodecamp.org/news/learn-react-router/",
-          "publishedOn": "2021-06-30T14:01:01.000Z",
-          "wordCount": 5542,
-          "title": "Learn React Router"
         }
       ]
     },
