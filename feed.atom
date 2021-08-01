@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T00:54:03.721Z</updated>
+    <updated>2021-08-01T01:01:49.660Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
@@ -1478,94 +1478,6 @@ The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tric
 The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Sarah Drasner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
-        <id>60de3cf127f80207bcdbc9af</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
-        <updated>2021-07-02T04:55:18.000Z</updated>
-        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
-        <id>https://css-tricks.com/?p=342994</id>
-        <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
-        <updated>2021-07-02T00:02:51.000Z</updated>
-        <summary type="html"><![CDATA[This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.
-The setup is that you can use WooCommerce to sell things on a WordPress …
-The post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=343637</id>
-        <link href="https://web.dev/css-web-vitals/"/>
-        <updated>2021-07-01T18:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …
-The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Platform on Digital Ocean]]></title>
-        <id>https://css-tricks.com/?p=342591</id>
-        <link href="https://css-tricks.com/app-platform-on-digital-ocean/"/>
-        <updated>2021-07-01T18:54:12.000Z</updated>
-        <summary type="html"><![CDATA[This is new stuff from DO.
-App Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …
-The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site]]></title>
-        <id>60dc72b527f80207bcdbbd8f</id>
-        <link href="https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/"/>
-        <updated>2021-07-01T18:19:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML List – How to Use Bullet Points, Ordered, and Unordered Lists]]></title>
-        <id>60c0897ad3126007592d5701</id>
-        <link href="https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/"/>
-        <updated>2021-07-01T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backend Web Development with Python - Full Course]]></title>
-        <id>60d5e7ae6e1a1407b6b0bc5a</id>
-        <link href="https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/"/>
-        <updated>2021-07-01T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
-        <id>https://css-tricks.com/?p=343092</id>
-        <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
-        <updated>2021-07-01T14:40:14.000Z</updated>
-        <summary type="html"><![CDATA[If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.
-
-Clicking the button above lets me (or you!) instantly …
-The post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Cassidy Williams</name>
         </author>
     </entry>
 </feed>
