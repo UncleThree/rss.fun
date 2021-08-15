@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-14T00:50:20.281Z</updated>
+    <updated>2021-08-15T00:53:33.952Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
@@ -1764,48 +1764,6 @@ The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! app
 The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱尔眼科 300015 2020年报笔记]]></title>
-        <id>https://ljf.com/?p=1022</id>
-        <link href="https://ljf.com/2021/07/16/1022/"/>
-        <updated>2021-07-15T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[公司的主要业务及经营模式公司作为专业眼科连锁医疗机构，主要从事各类眼科疾病诊疗、手术服务与医学验光配 镜，目前医疗网络已遍及中国大陆、中国香港、欧洲、美国、东南亚，奠定了全球发展的战 略格局。  …]]></summary>
-        <author>
-            <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
-        <id>https://css-tricks.com/?p=344273</id>
-        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
-        <updated>2021-07-15T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
-Most of those examples, though, use …
-The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Georgi Nikoloff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the FARM Stack! (FastAPI, React, MongoDB)]]></title>
-        <id>60e74160134ad707be00f23f</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/"/>
-        <updated>2021-07-15T13:43:01.000Z</updated>
-        <summary type="html"><![CDATA[The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apache Cassandra Beginner Tutorial]]></title>
-        <id>60ead07ee8ee9b08300ed387</id>
-        <link href="https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/"/>
-        <updated>2021-07-15T13:13:02.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>

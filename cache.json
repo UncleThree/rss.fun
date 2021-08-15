@@ -73,15 +73,6 @@
           "publishedOn": "2021-07-16T22:44:00.000Z",
           "wordCount": 147,
           "title": "隆基股份 601012 2020年报笔记"
-        },
-        {
-          "id": "https://ljf.com/?p=1022",
-          "author": "ljf",
-          "description": "公司的主要业务及经营模式公司作为专业眼科连锁医疗机构，主要从事各类眼科疾病诊疗、手术服务与医学验光配 镜，目前医疗网络已遍及中国大陆、中国香港、欧洲、美国、东南亚，奠定了全球发展的战 略格局。  …",
-          "link": "https://ljf.com/2021/07/16/1022/",
-          "publishedOn": "2021-07-15T22:30:00.000Z",
-          "wordCount": 80,
-          "title": "爱尔眼科 300015 2020年报笔记"
         }
       ]
     },
@@ -602,15 +593,6 @@
           "publishedOn": "2021-07-16T14:42:40.000Z",
           "wordCount": 727,
           "title": "Some Typography Links"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344273",
-          "author": "Georgi Nikoloff",
-          "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/",
-          "publishedOn": "2021-07-15T14:40:03.000Z",
-          "wordCount": 1882,
-          "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
         }
       ]
     },
@@ -1545,24 +1527,6 @@
           "publishedOn": "2021-07-16T18:41:57.000Z",
           "wordCount": 2999,
           "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
-        },
-        {
-          "id": "60e74160134ad707be00f23f",
-          "author": null,
-          "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
-          "link": "https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/",
-          "publishedOn": "2021-07-15T13:43:01.000Z",
-          "wordCount": 8503,
-          "title": "Learn the FARM Stack! (FastAPI, React, MongoDB)"
-        },
-        {
-          "id": "60ead07ee8ee9b08300ed387",
-          "author": null,
-          "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
-          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
-          "publishedOn": "2021-07-15T13:13:02.000Z",
-          "wordCount": 7098,
-          "title": "The Apache Cassandra Beginner Tutorial"
         }
       ]
     },
