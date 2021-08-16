@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://UncleThree.github.io/rss.fun/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:53:33.952Z</updated>
+    <updated>2021-08-16T00:53:38.220Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://UncleThree.github.io/rss.fun/index.html"/>
     <link rel="self" href="https://UncleThree.github.io/rss.fun/feed.atom"/>
@@ -1709,61 +1709,6 @@ The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Tim
         <summary type="html"><![CDATA[报告期内公司所从事的主要业务、经营模式及行业情况说明 密尔克卫是国内领先的专业化工供应链综合服务商，提供以货运代理、仓储和运输为核 心的一站式综合物流服务，并基于综合物流服务向化工品交易延伸， …]]></summary>
         <author>
             <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隆基股份 601012 2020年报笔记]]></title>
-        <id>https://ljf.com/?p=1023</id>
-        <link href="https://ljf.com/2021/07/17/1023/"/>
-        <updated>2021-07-16T22:44:00.000Z</updated>
-        <summary type="html"><![CDATA[报告期内公司所从事的主要业务、经营模式及行业情况说明 公司致力于推动低碳化能源变革，长期专注于为全球客户提供高效单晶太阳能发电解决方案， 主要从事单晶硅棒、硅片、电池和组件的研发、生产和销售， …]]></summary>
-        <author>
-            <name>ljf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
-        <id>https://css-tricks.com/?p=344217</id>
-        <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
-        <updated>2021-07-16T20:27:46.000Z</updated>
-        <summary type="html"><![CDATA[We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …
-The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
-        <id>60eef23666c61b07d458d43c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/"/>
-        <updated>2021-07-16T18:41:57.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!]]></title>
-        <id>https://css-tricks.com/?p=344147</id>
-        <link href="https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/"/>
-        <updated>2021-07-16T14:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!
-Here’s a quick look at the clocks …
-The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Mate Marschalko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Typography Links]]></title>
-        <id>https://css-tricks.com/?p=344411</id>
-        <link href="https://css-tricks.com/some-typography-links-3/"/>
-        <updated>2021-07-16T14:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a 
-…
-The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
